@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateRESTClientToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+  </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
   </action>
@@ -19,4 +22,5 @@
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="SaveAll" />
+  <action id="ShowErrorDescription" />
 </keymap>
