@@ -2,6 +2,9 @@
   <action id="ActivateRESTClientToolWindow">
     <keyboard-shortcut first-keystroke="ctrl f1" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl f2" />
+  </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
   </action>
@@ -25,5 +28,8 @@
   <action id="ShowErrorDescription" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+  <action id="WebServicesPlugin.CreateRESTClient">
+    <keyboard-shortcut first-keystroke="shift ctrl f1" />
   </action>
 </keymap>
