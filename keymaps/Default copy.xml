@@ -23,4 +23,7 @@
   </action>
   <action id="SaveAll" />
   <action id="ShowErrorDescription" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
 </keymap>
