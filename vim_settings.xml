@@ -3,43 +3,85 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace_ML/MLTest/src/main/java/Application.java" timestamp="1493683865133">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="14" column="68" />
-        <mark key="]" line="14" column="66" />
-        <mark key="^" line="14" column="66" />
-        <mark key="." line="14" column="66" />
-      </file>
-      <file name="D:/workspace_ML/MLTest/pom.xml" timestamp="1493683983890">
+      <file name="D:/workspace_ML/MLTest/src/main/java/Application.java" timestamp="1493685840639" />
+      <file name="D:/workspace_ML/MLTest/pom.xml" timestamp="1493685016936">
         <mark key="[" line="9" column="0" />
+        <mark key="]" line="24" column="39" />
+        <mark key="^" line="24" column="39" />
+        <mark key="." line="24" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1493683894779">
+      <file name="/fragment.java" timestamp="1493685427101">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="78" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
       <jump line="3" column="0" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
       <jump line="14" column="0" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
+      <jump line="8" column="0" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
+      <jump line="5" column="0" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
+      <jump line="18" column="8" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
+      <jump line="11" column="0" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
+      <jump line="10" column="17" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
+      <jump line="0" column="0" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
+      <jump line="16" column="16" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
+      <jump line="20" column="0" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
+      <jump line="6" column="12" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
       <jump line="4" column="0" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
+      <jump line="9" column="0" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
+      <jump line="17" column="0" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>)</text>
       </register>
-      <register name=":" type="4">
-        <text>%</text>
-      </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
+      <register name="/" type="4">
+        <text>value</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IChUZW5zb3IgdCA9IFRlbnNvci5jcmVhdGUodmFsdWUuZ2V0Qnl0ZXMoIlVURi04IikpKSB7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgU3RyaW5nKG91dHB1dC5ieXRlc1ZhbHVlKCksICJVVEYtOCIpKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGVuc29yIG91dHB1dCA9IHMucnVubmVyKCkuZmV0Y2goIk15Q29uc3QiKS5ydW4oKS5nZXQoMCkpIHsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>%</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>value</last-search>
+      <last-offset />
+      <last-pattern>value</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>value</entry>
+      </history-search>
       <history-cmd>
         <entry>set rnu</entry>
         <entry>set numeral</entry>
@@ -54,6 +96,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
