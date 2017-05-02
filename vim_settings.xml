@@ -2,14 +2,62 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="D:/workspace_ML/MLTest/src/main/java/Application.java" timestamp="1493683865133">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="14" column="68" />
+        <mark key="]" line="14" column="66" />
+        <mark key="^" line="14" column="66" />
+        <mark key="." line="14" column="66" />
+      </file>
+      <file name="D:/workspace_ML/MLTest/pom.xml" timestamp="1493683983890">
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1493683894779">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="10" column="78" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
+      <jump line="3" column="0" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
+      <jump line="14" column="0" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
+      <jump line="4" column="0" filename="D:/workspace_ML/MLTest/src/main/java/Application.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>)</text>
+      </register>
+      <register name=":" type="4">
+        <text>%</text>
+      </register>
+      <register name="-" type="4">
+        <text>)</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>set rnu</entry>
+        <entry>set numeral</entry>
+        <entry>%</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
