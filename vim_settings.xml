@@ -1,0 +1,513 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/test/java/com/cgi/rxp/manager/impl/ValueChangeOperatorManagerImplTest.java" timestamp="1493303802381">
+        <mark key="'" line="126" column="24" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" timestamp="1493313057156">
+        <mark key="'" line="45" column="116" />
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="40" />
+        <mark key="." line="86" column="15" />
+        <mark key="^" line="86" column="15" />
+      </file>
+      <file name="/fragment.js" timestamp="1493404230262">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/resources/application.properties" timestamp="1493821630611">
+        <mark key="'" line="12" column="29" />
+        <mark key="[" line="7" column="45" />
+        <mark key="]" line="7" column="45" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="7" column="45" />
+      </file>
+      <file name="/a.dummy" timestamp="1493818819199">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" timestamp="1493814356410">
+        <mark key="'" line="150" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="148" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/clients/impl/OfferRestClient.java" timestamp="1493817547911">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-core/src/main/java/com/cgi/rxp/spring/controllers/AbstractSyncController.java" timestamp="1493318818578">
+        <mark key="'" line="24" column="15" />
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="39" column="27" />
+        <mark key="^" line="24" column="15" />
+        <mark key="." line="39" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/impl/inner/Product.java" timestamp="1493327267217">
+        <mark key="'" line="103" column="18" />
+        <mark key="[" line="131" column="49" />
+        <mark key="]" line="95" column="30" />
+        <mark key="^" line="95" column="30" />
+        <mark key="." line="95" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/romes/service/impl/OperatorSetupCouchBaseTest.java" timestamp="1493398612166">
+        <mark key="'" line="43" column="38" />
+        <mark key="[" line="453" column="19" />
+        <mark key="]" line="437" column="41" />
+        <mark key="." line="437" column="41" />
+        <mark key="^" line="437" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" timestamp="1493819480044">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/VendorCouchbaseServiceImpl.java" timestamp="1493753834498" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" timestamp="1493831452139">
+        <mark key="'" line="30" column="17" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="1" />
+        <mark key="^" line="227" column="1" />
+        <mark key="." line="227" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ProductManagerImpl.java" timestamp="1493307024458">
+        <mark key="'" line="108" column="37" />
+        <mark key="[" line="109" column="68" />
+        <mark key="]" line="109" column="68" />
+        <mark key="." line="109" column="68" />
+        <mark key="^" line="58" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/MandateCouchbaseServiceImpl.java" timestamp="1493384033237">
+        <mark key="'" line="140" column="48" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/engine/TransactionConstants.java" timestamp="1493321222530">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+        <mark key="^" line="14" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/impl/inner/TransactionProduct.java" timestamp="1493307656970">
+        <mark key="'" line="104" column="25" />
+        <mark key="[" line="103" column="8" />
+        <mark key="]" line="103" column="8" />
+        <mark key="^" line="104" column="25" />
+        <mark key="." line="103" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ModuloOperatorManagerImpl.java" timestamp="1493836578607" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/TopicConstants.java" timestamp="1493840136162" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/clients/impl/SiteRestClient.java" timestamp="1493817622509">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/product-list/product-list.component.ts" timestamp="1493404206241">
+        <mark key="'" line="69" column="59" />
+        <mark key="[" line="71" column="8" />
+        <mark key="]" line="71" column="14" />
+        <mark key="^" line="71" column="14" />
+        <mark key="." line="71" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_services/engine.service.ts" timestamp="1493315532179">
+        <mark key="'" line="107" column="8" />
+        <mark key="[" line="101" column="6" />
+        <mark key="]" line="101" column="6" />
+        <mark key="." line="101" column="6" />
+        <mark key="^" line="101" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/clients/AbstractSyncRestClient.java" timestamp="1493817141391">
+        <mark key="'" line="101" column="33" />
+        <mark key="[" line="101" column="68" />
+        <mark key="]" line="101" column="68" />
+        <mark key="^" line="101" column="67" />
+        <mark key="." line="101" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/test/java/com/cgi/rxp/manager/impl/TransactionManagerImplTest.java" timestamp="1493304428715">
+        <mark key="'" line="56" column="1" />
+        <mark key="[" line="162" column="38" />
+        <mark key="]" line="162" column="45" />
+        <mark key="." line="162" column="45" />
+        <mark key="^" line="162" column="45" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1493728323494">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/clients/impl/ProductRestClient.java" timestamp="1493817603962">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/LengthOperatorManagerImpl.java" timestamp="1493818604637">
+        <mark key="'" line="55" column="11" />
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="23" column="10" />
+        <mark key="." line="23" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/OrOperatorManagerImpl.java" timestamp="1493827442478">
+        <mark key="'" line="22" column="42" />
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1493839993580">
+        <mark key="'" line="303" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/EqualOperatorManagerImpl.java" timestamp="1493836333973">
+        <mark key="'" line="31" column="64" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="31" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1493735848855">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/OfferController.java" timestamp="1493407727149">
+        <mark key="'" line="164" column="17" />
+        <mark key="[" line="108" column="27" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" timestamp="1493836782175">
+        <mark key="'" line="41" column="37" />
+        <mark key="[" line="41" column="58" />
+        <mark key="]" line="41" column="58" />
+        <mark key="^" line="41" column="37" />
+        <mark key="." line="41" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/OfferServiceImpl.java" timestamp="1493738094458" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" timestamp="1493751430857">
+        <mark key="'" line="82" column="19" />
+        <mark key="[" line="82" column="19" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="26" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/OfferRestRedisDAOImpl.java" timestamp="1493814419772">
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="39" column="18" />
+        <mark key="." line="39" column="18" />
+        <mark key="^" line="39" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/constant/PolishConstants.java" timestamp="1493836012994">
+        <mark key="'" line="11" column="48" />
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="11" column="53" />
+        <mark key="^" line="11" column="48" />
+        <mark key="." line="11" column="53" />
+      </file>
+      <file name="/fragment.java" timestamp="1493836783124">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="193" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="195" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="199" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="202" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="206" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="209" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="213" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="215" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="217" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="234" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="237" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="241" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="244" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="246" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="249" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="252" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="256" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="265" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="272" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="277" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="283" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="288" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="298" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="302" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="316" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="322" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="326" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="337" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="59" column="22" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/clients/AbstractSyncRestClient.java" />
+      <jump line="96" column="22" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/clients/AbstractSyncRestClient.java" />
+      <jump line="103" column="17" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/clients/AbstractSyncRestClient.java" />
+      <jump line="101" column="33" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/clients/AbstractSyncRestClient.java" />
+      <jump line="339" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="346" column="12" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="345" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="340" column="14" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/LengthOperatorManagerImpl.java" />
+      <jump line="20" column="29" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/LengthOperatorManagerImpl.java" />
+      <jump line="23" column="18" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/LengthOperatorManagerImpl.java" />
+      <jump line="55" column="11" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/LengthOperatorManagerImpl.java" />
+      <jump line="23" column="31" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="55" column="49" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="60" column="4" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="36" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="6" column="34" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="7" column="38" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="30" column="13" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="31" column="13" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="34" column="63" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="35" column="6" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="39" column="11" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="40" column="120" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="44" column="38" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" />
+      <jump line="93" column="3" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="39" column="37" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="75" column="4" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="2" column="36" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/resources/application.properties" />
+      <jump line="12" column="29" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/resources/application.properties" />
+      <jump line="22" column="42" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/OrOperatorManagerImpl.java" />
+      <jump line="29" column="45" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/constant/PolishConstants.java" />
+      <jump line="76" column="78" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="77" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="211" column="3" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" />
+      <jump line="227" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" />
+      <jump line="229" column="22" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" />
+      <jump line="231" column="13" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" />
+      <jump line="234" column="38" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" />
+      <jump line="237" column="45" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" />
+      <jump line="240" column="4" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" />
+      <jump line="243" column="45" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" />
+      <jump line="246" column="30" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" />
+      <jump line="250" column="22" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" />
+      <jump line="258" column="45" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" />
+      <jump line="261" column="54" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" />
+      <jump line="264" column="45" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" />
+      <jump line="30" column="17" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" />
+      <jump line="204" column="70" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="78" column="4" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="41" column="37" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" />
+      <jump line="2" column="12" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/constant/PolishConstants.java" />
+      <jump line="11" column="48" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/constant/PolishConstants.java" />
+      <jump line="31" column="26" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/EqualOperatorManagerImpl.java" />
+      <jump line="29" column="64" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/EqualOperatorManagerImpl.java" />
+      <jump line="278" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
+      <jump line="270" column="4" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
+      <jump line="303" column="31" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJvb2xlYW4gZXF1YWxPcGVyYXRvciA9IAo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>2</text>
+      </register>
+      <register name="/" type="4">
+        <text>central_to</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBPUEVSQVRJT05fTkFNRV9BRERJVElPTiA9ICJBZGRpdGlvbiI7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGJvb2xlYW4gZXF1YWxPcGVyYXRvciA9IAo=</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="r" type="4">
+        <keys>
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmKG9iamVjdHNbMl0gPT0gbnVsbCkgewogICAgICBvYmplY3RzWzJdID0gImZhbHNlIjsKICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmKGVxdWFsT3BlcmF0b3IgPT0gKWRkCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuc2VjdXJpdHkuSW52YWxpZFBhcmFtZXRlckV4Y2VwdGlvbjsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3IK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">dmEudXRpbC5MaXN0Owo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PcHRpb25hbDsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>noh</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>central_to</last-search>
+      <last-offset />
+      <last-pattern>central_to</last-pattern>
+      <last-replace>product\.getCode</last-replace>
+      <last-substitute>Bool</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>\&quot;\&quot;</entry>
+        <entry>length</entry>
+        <entry>o</entry>
+        <entry>json</entry>
+        <entry>,</entry>
+        <entry>return</entry>
+        <entry>2</entry>
+        <entry>@Qu</entry>
+        <entry>opera</entry>
+        <entry>andO</entry>
+        <entry>count</entry>
+        <entry>list</entry>
+        <entry encoding="base64">PD8+</entry>
+        <entry>save</entry>
+        <entry>OR</entry>
+        <entry>add</entry>
+        <entry>Bool</entry>
+        <entry>=</entry>
+        <entry>send</entry>
+        <entry>central_to</entry>
+      </history-search>
+      <history-cmd>
+        <entry>5</entry>
+        <entry>103</entry>
+        <entry>set rnu false</entry>
+        <entry>set rnuno</entry>
+        <entry>set nornu</entry>
+        <entry>s/getID/getId/g</entry>
+        <entry encoding="base64">JzwsJz5zL2dldElEL2dldElk</entry>
+        <entry>marks</entry>
+        <entry>seq</entry>
+        <entry>req</entry>
+        <entry>reg</entry>
+        <entry>set rnu</entry>
+        <entry>set number</entry>
+        <entry>%s/product\.getId/product\.getCode/g</entry>
+        <entry>noh</entry>
+        <entry>Update</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed 1</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed 4</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed 5</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed 3</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
