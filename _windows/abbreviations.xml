@@ -1,0 +1,12 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Annotate">
+        <abbreviation name="blame" />
+      </action>
+      <action id="Git.Pull">
+        <abbreviation name="pull" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
