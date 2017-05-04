@@ -3,41 +3,43 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" timestamp="1493863056706">
-        <mark key="'" line="15" column="32" />
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="32" />
-        <mark key="^" line="15" column="33" />
+      <file name="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" timestamp="1493863352315">
+        <mark key="'" line="13" column="8" />
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="46" />
       </file>
     </filemarks>
     <jumps>
       <jump line="15" column="32" filename="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" />
+      <jump line="13" column="8" filename="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">CWZtdC5QcmludGxuKCJ0ZXN0IikK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>qrc:/</text>
+        <text>core</text>
       </register>
     </registers>
     <search>
-      <last-search>qrc:/</last-search>
+      <last-search>core</last-search>
       <last-offset />
-      <last-pattern>qrc:/</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>core</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>qrc:/</entry>
+        <entry>core</entry>
       </history-search>
       <history-cmd />
       <history-expr />
