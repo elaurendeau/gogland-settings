@@ -58,6 +58,12 @@
         <mark key="." line="437" column="41" />
         <mark key="^" line="437" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" timestamp="1493996669747">
+        <mark key="'" line="207" column="24" />
+        <mark key="[" line="211" column="46" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" timestamp="1493819480044">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="10" column="0" />
@@ -293,22 +299,23 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/selection-detail/selection-detail.component.ts" />
       <jump line="209" column="18" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/selection-detail/selection-detail.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/settings-attributes-detail/settings-attributes-detail.component.ts" />
+      <jump line="204" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZG9mZmVyc0ZvclBlcmlvZHMg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRvY3VtZW50T2JqZWN0LmdldENvbnRlbnQoKS5wdXQoIiIpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZG9mZmVyc0ZvclBlcmlvZHMg</text>
       </register>
       <register name="/" type="4">
-        <text>off</text>
+        <text>sa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRhdGEuY29udGVudFsnbGlzdE9mU2l0ZXMnXSA9IHRoaXMuc2VsZWN0aW9uLmxpc3RPZlNpdGVzID8gdGhpcy5zZWxlY3Rpb24ub2ZmZXJzRm9yUGVyaW9kcyA6IFtdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50T2JqZWN0LmdldENvbnRlbnQoKS5wdXQoIiIpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -370,27 +377,27 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHNldFNpdGVzUGVuZGluZ0J5U2VsZWN0aW9uSWQoc2VsZWN0aW9uSWQ6IENvZGUpOiAuLi4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBbPzIwMTctPzA1LT8wNSA5OjI3IEFNXSBHb3Rmcm9pLCBTZWJhc3RpZW46Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBiYWNrRW5kQWN0aW9uLmNvZGUgPSBkZAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJ0ZXN0IikK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKG9iamVjdHNbMl0gPT0gbnVsbCkgewogICAgICBvYmplY3RzWzJdID0gImZhbHNlIjsKICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmKGVxdWFsT3BlcmF0b3IgPT0gKWRkCg==</text>
-      </register>
-      <register name="8" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHNldFNpdGVzUGVuZGluZ0J5U2VsZWN0aW9uSWQoc2VsZWN0aW9uSWQ6IENvZGUpOiAuLi4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBbPzIwMTctPzA1LT8wNSA5OjI3IEFNXSBHb3Rmcm9pLCBTZWJhc3RpZW46Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBiYWNrRW5kQWN0aW9uLmNvZGUgPSBkZAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKCJ0ZXN0IikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmKG9iamVjdHNbMl0gPT0gbnVsbCkgewogICAgICBvYmplY3RzWzJdID0gImZhbHNlIjsKICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmKGVxdWFsT3BlcmF0b3IgPT0gKWRkCg==</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
@@ -398,15 +405,14 @@
       </register>
     </registers>
     <search>
-      <last-search>off</last-search>
+      <last-search>sa</last-search>
       <last-offset />
-      <last-pattern>off</last-pattern>
+      <last-pattern>sa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>opera</entry>
         <entry>andO</entry>
         <entry>count</entry>
         <entry>list</entry>
@@ -426,6 +432,7 @@
         <entry>'co</entry>
         <entry>listO</entry>
         <entry>off</entry>
+        <entry>sa</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
