@@ -178,9 +178,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1493839993580">
-        <mark key="'" line="312" column="31" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/customers/customers.component.html" timestamp="1493994172296" />
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/EqualOperatorManagerImpl.java" timestamp="1493836333973">
         <mark key="'" line="31" column="64" />
@@ -195,7 +192,7 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493915775590">
+      <file name="/Dummy.txt" timestamp="1494009409477">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/OfferController.java" timestamp="1493407727149">
@@ -211,8 +208,12 @@
         <mark key="^" line="41" column="37" />
         <mark key="." line="41" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" timestamp="1493915770025">
-        <mark key="'" line="141" column="0" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" timestamp="1494009400729">
+        <mark key="'" line="1089" column="33" />
+        <mark key="[" line="625" column="35" />
+        <mark key="]" line="625" column="38" />
+        <mark key="." line="625" column="38" />
+        <mark key="^" line="625" column="38" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" timestamp="1493751430857">
         <mark key="'" line="82" column="19" />
@@ -301,16 +302,34 @@
       <jump line="209" column="18" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/selection-detail/selection-detail.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/settings-attributes-detail/settings-attributes-detail.component.ts" />
       <jump line="204" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
+      <jump line="69" column="4" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="196" column="14" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="891" column="21" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="1115" column="33" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="1759" column="46" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="1116" column="70" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="1117" column="31" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="1758" column="14" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="1761" column="74" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="1762" column="79" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="1764" column="35" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="3772" column="51" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="3780" column="50" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="3788" column="47" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="625" column="70" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="626" column="34" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="1112" column="14" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="1089" column="33" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50T2JqZWN0LmdldENvbnRlbnQoKS5wdXQoIiIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZG9mZmVyc0ZvclBlcmlvZHMg</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>sa</text>
+        <text>included</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRhdGEuY29udGVudFsnbGlzdE9mU2l0ZXMnXSA9IHRoaXMuc2VsZWN0aW9uLmxpc3RPZlNpdGVzID8gdGhpcy5zZWxlY3Rpb24ub2ZmZXJzRm9yUGVyaW9kcyA6IFtdOwo=</text>
@@ -406,19 +425,14 @@
       </register>
     </registers>
     <search>
-      <last-search>sa</last-search>
+      <last-search>included</last-search>
       <last-offset />
-      <last-pattern>sa</last-pattern>
+      <last-pattern>included</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>andO</entry>
-        <entry>count</entry>
-        <entry>list</entry>
-        <entry encoding="base64">PD8+</entry>
-        <entry>save</entry>
         <entry>OR</entry>
         <entry>add</entry>
         <entry>Bool</entry>
@@ -434,6 +448,11 @@
         <entry>listO</entry>
         <entry>off</entry>
         <entry>sa</entry>
+        <entry>site</entry>
+        <entry>null</entry>
+        <entry>inclu</entry>
+        <entry>includedIn</entry>
+        <entry>included</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
