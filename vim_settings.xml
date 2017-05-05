@@ -44,8 +44,8 @@
         <mark key="." line="13" column="32" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/offer-detail/offer-detail.component.ts" timestamp="1493925893678">
-        <mark key="'" line="301" column="12" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/offer-detail/offer-detail.component.ts" timestamp="1493987586594">
+        <mark key="'" line="262" column="39" />
         <mark key="[" line="301" column="25" />
         <mark key="]" line="301" column="35" />
         <mark key="." line="301" column="35" />
@@ -212,6 +212,7 @@
       <jump line="51" column="31" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/FilterManagerTest.java" />
       <jump line="52" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/FilterManagerTest.java" />
       <jump line="53" column="60" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/FilterManagerTest.java" />
+      <jump line="262" column="39" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/offer-detail/offer-detail.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
