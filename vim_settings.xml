@@ -3,45 +3,62 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" timestamp="1493866505234">
-        <mark key="'" line="13" column="8" />
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="13" column="46" />
+      <file name="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" timestamp="1494191568324">
+        <mark key="'" line="56" column="16" />
+        <mark key="]" line="57" column="1" />
+        <mark key="." line="57" column="1" />
+        <mark key="^" line="57" column="1" />
       </file>
     </filemarks>
     <jumps>
       <jump line="15" column="32" filename="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" />
       <jump line="13" column="8" filename="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" />
+      <jump line="19" column="1" filename="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" />
+      <jump line="18" column="12" filename="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" />
+      <jump line="54" column="16" filename="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" />
     </jumps>
     <registers>
       <register name="1" type="2">
+        <text encoding="base64">CS8vIFBhcnNlIGZsYWdzCglmbGFnLlBhcnNlKCkKCgkvLyBTZXQgdXAgbG9nZ2VyCglhc3RpbG9nLlNldExvZ2dlcihhc3RpbG9nLk5ldyhhc3RpbG9nLkZsYWdDb25maWcoKSkpCgoJLy8gR2V0IGJhc2UgZGlyIHBhdGgKCXZhciBlcnIgZXJyb3IKCXZhciBwID0gb3MuR2V0ZW52KCJHT1BBVEgiKSArICIvc3JjL2dpdGh1Yi5jb20vYXN0aWNvZGUvZ28tYXN0aWxlY3Ryb24vZXhhbXBsZXMiCgoJLy8gQ3JlYXRlIGFzdGlsZWN0cm9uCgl2YXIgYSAqYXN0aWxlY3Ryb24uQXN0aWxlY3Ryb24KCWlmIGEsIGVyciA9IGFzdGlsZWN0cm9uLk5ldyhhc3RpbGVjdHJvbi5PcHRpb25zewoJCUFwcE5hbWU6ICAgICAgICAgICAgIkFzdGlsZWN0cm9uIiwKCQlBcHBJY29uRGVmYXVsdFBhdGg6IHAgKyAiL2dvcGhlci5wbmciLAoJCUFwcEljb25EYXJ3aW5QYXRoOiAgcCArICIvZ29waGVyLmljbnMiLAoJCUJhc2VEaXJlY3RvcnlQYXRoOiAgcCwK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8vIFBhcnNlIGZsYWdzCglmbGFnLlBhcnNlKCkKCgkvLyBTZXQgdXAgbG9nZ2VyCglhc3RpbG9nLlNldExvZ2dlcihhc3RpbG9nLk5ldyhhc3RpbG9nLkZsYWdDb25maWcoKSkpCgoJLy8gR2V0IGJhc2UgZGlyIHBhdGgKCXZhciBlcnIgZXJyb3IKCXZhciBwID0gb3MuR2V0ZW52KCJHT1BBVEgiKSArICIvc3JjL2dpdGh1Yi5jb20vYXN0aWNvZGUvZ28tYXN0aWxlY3Ryb24vZXhhbXBsZXMiCgoJLy8gQ3JlYXRlIGFzdGlsZWN0cm9uCgl2YXIgYSAqYXN0aWxlY3Ryb24uQXN0aWxlY3Ryb24KCWlmIGEsIGVyciA9IGFzdGlsZWN0cm9uLk5ldyhhc3RpbGVjdHJvbi5PcHRpb25zewoJCUFwcE5hbWU6ICAgICAgICAgICAgIkFzdGlsZWN0cm9uIiwKCQlBcHBJY29uRGVmYXVsdFBhdGg6IHAgKyAiL2dvcGhlci5wbmciLAoJCUFwcEljb25EYXJ3aW5QYXRoOiAgcCArICIvZ29waGVyLmljbnMiLAoJCUJhc2VEaXJlY3RvcnlQYXRoOiAgcCwK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CX0pOyBlcnIgIT0gbmlsIHsKCQlhc3RpbG9nLkZhdGFsKGVycm9ycy5XcmFwKGVyciwgImNyZWF0aW5nIG5ldyBhc3RpbGVjdHJvbiBmYWlsZWQiKSkKCX0KCWEuU2V0UHJvdmlzaW9uZXIoYXN0aWxlY3Ryb24uTmV3RGlzZW1iZWRkZXJQcm92aXNpb25lcihBc3NldCwgIi4uL3ZlbmRvci9hc3RpbGVjdHJvbi12MC4zLjAuemlwIiwgIi4uL3ZlbmRvci9lbGVjdHJvbi12MS42LjUuemlwIikpCglkZWZlciBhLkNsb3NlKCkKCWEuSGFuZGxlU2lnbmFscygpCgoJLy8gU3RhcnQKCWlmIGVyciA9IGEuU3RhcnQoKTsgZXJyICE9IG5pbCB7CgkJYXN0aWxvZy5GYXRhbChlcnJvcnMuV3JhcChlcnIsICJzdGFydGluZyBmYWlsZWQiKSkKCX0KCgkvLyBDcmVhdGUgd2luZG93Cgl2YXIgdyAqYXN0aWxlY3Ryb24uV2luZG93CglpZiB3LCBlcnIgPSBhLk5ld1dpbmRvdyhwKyIvaW5kZXguaHRtbCIsICZhc3RpbGVjdHJvbi5XaW5kb3dPcHRpb25zewoJCUNlbnRlcjogYXN0aWxlY3Ryb24uUHRyQm9vbCh0cnVlKSwKCQlIZWlnaHQ6IGFzdGlsZWN0cm9uLlB0ckludCg2MDApLAoJCVdpZHRoOiAgYXN0aWxlY3Ryb24uUHRySW50KDYwMCksCgl9KTsgZXJyICE9IG5pbCB7CgkJYXN0aWxvZy5GYXRhbChlcnJvcnMuV3JhcChlcnIsICJuZXcgd2luZG93IGZhaWxlZCIpKQoJfQoJaWYgZXJyID0gdy5DcmVhdGUoKTsgZXJyICE9IG5pbCB7CgkJYXN0aWxvZy5GYXRhbChlcnJvcnMuV3JhcChlcnIsICJjcmVhdGluZyB3aW5kb3cgZmFpbGVkIikpCgl9CgoJLy8gQmxvY2tpbmcgcGF0dGVybgoJYS5XYWl0KCkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CWZtdC5QcmludGxuKCJ0ZXN0IikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name=":" type="4">
+        <text>noh</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>core</text>
+        <text>a</text>
       </register>
     </registers>
     <search>
-      <last-search>core</last-search>
+      <last-search>a</last-search>
       <last-offset />
-      <last-pattern>core</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>a</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>qrc:/</entry>
         <entry>core</entry>
+        <entry>?{</entry>
+        <entry>\{</entry>
+        <entry>a</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>noh</entry>
+        <entry>Update</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
