@@ -219,12 +219,12 @@
         <mark key="^" line="41" column="37" />
         <mark key="." line="41" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" timestamp="1494012519556">
-        <mark key="'" line="81" column="2" />
-        <mark key="[" line="625" column="35" />
-        <mark key="]" line="625" column="38" />
-        <mark key="." line="625" column="38" />
-        <mark key="^" line="625" column="38" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" timestamp="1494267932498">
+        <mark key="'" line="3937" column="15" />
+        <mark key="[" line="3946" column="52" />
+        <mark key="]" line="3946" column="55" />
+        <mark key="." line="3946" column="55" />
+        <mark key="^" line="3946" column="55" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" timestamp="1493751430857">
         <mark key="'" line="82" column="19" />
@@ -335,16 +335,19 @@
       <jump line="73" column="11" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/clients/AbstractSyncRestClient.java" />
       <jump line="44" column="22" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-customer-rest/src/main/java/com/cgi/rxp/kafka/impl/CustomerListener.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-customer-rest/src/main/java/com/cgi/rxp/kafka/impl/CustomerListener.java" />
+      <jump line="3946" column="55" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="4095" column="29" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="3937" column="15" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getValue</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>getValue</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>Abs</text>
+        <text>descri</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRhdGEuY29udGVudFsnbGlzdE9mU2l0ZXMnXSA9IHRoaXMuc2VsZWN0aW9uLmxpc3RPZlNpdGVzID8gdGhpcy5zZWxlY3Rpb24ub2ZmZXJzRm9yUGVyaW9kcyA6IFtdOwo=</text>
@@ -441,18 +444,14 @@ kafka.groupid=</text>
       </register>
     </registers>
     <search>
-      <last-search>Abs</last-search>
+      <last-search>descri</last-search>
       <last-offset />
-      <last-pattern>Abs</last-pattern>
+      <last-pattern>descri</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>send</entry>
-        <entry>central_to</entry>
-        <entry>calculate</entry>
-        <entry>selec</entry>
         <entry>li</entry>
         <entry>Man</entry>
         <entry>str</entry>
@@ -469,6 +468,10 @@ kafka.groupid=</text>
         <entry>fi</entry>
         <entry>log</entry>
         <entry>Abs</entry>
+        <entry>name</entry>
+        <entry>des</entry>
+        <entry>descr</entry>
+        <entry>descri</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
