@@ -61,11 +61,12 @@
         <mark key="." line="233" column="26" />
         <mark key="^" line="233" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" timestamp="1493819480044">
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" timestamp="1494271388126">
         <mark key="'" line="45" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="37" column="30" />
+        <mark key="." line="37" column="30" />
+        <mark key="^" line="37" column="30" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/SelectionController.java" timestamp="1493912969565">
         <mark key="'" line="94" column="45" />
@@ -219,8 +220,8 @@
         <mark key="^" line="41" column="37" />
         <mark key="." line="41" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" timestamp="1494267932498">
-        <mark key="'" line="3937" column="15" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" timestamp="1494271129878">
+        <mark key="'" line="71" column="4" />
         <mark key="[" line="3946" column="52" />
         <mark key="]" line="3946" column="55" />
         <mark key="." line="3946" column="55" />
@@ -338,6 +339,8 @@
       <jump line="3946" column="55" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
       <jump line="4095" column="29" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
       <jump line="3937" column="15" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="61" column="35" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
+      <jump line="71" column="4" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
