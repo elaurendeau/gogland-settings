@@ -26,8 +26,12 @@
       <file name="/a.dummy" timestamp="1494349251115">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" timestamp="1494257591024">
-        <mark key="'" line="85" column="8" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" timestamp="1494355144587">
+        <mark key="'" line="36" column="2" />
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="27" />
+        <mark key="^" line="36" column="25" />
+        <mark key="." line="36" column="27" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-core/src/main/java/com/cgi/rxp/spring/controllers/AbstractSyncController.java" timestamp="1493318818578">
         <mark key="'" line="24" column="15" />
@@ -78,18 +82,19 @@
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/SiteRestRedisDAOImpl.java" timestamp="1494256846724">
         <mark key="'" line="30" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CustomerManagerImpl.java" timestamp="1494355371102">
+        <mark key="'" line="50" column="8" />
+        <mark key="[" line="42" column="45" />
+        <mark key="]" line="42" column="45" />
+        <mark key="." line="42" column="45" />
+        <mark key="^" line="44" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ProductManagerImpl.java" timestamp="1493307024458">
         <mark key="'" line="108" column="37" />
         <mark key="[" line="109" column="68" />
         <mark key="]" line="109" column="68" />
         <mark key="." line="109" column="68" />
         <mark key="^" line="58" column="46" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/resources/config.properties" timestamp="1494256484283">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="24" />
-        <mark key="^" line="4" column="24" />
-        <mark key="." line="4" column="24" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/engine/TransactionConstants.java" timestamp="1493321222530">
         <mark key="'" line="17" column="0" />
@@ -101,12 +106,12 @@
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/kafka/impl/MandateListenerImpl.java" timestamp="1494349213765">
         <mark key="'" line="35" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/TransactionManagerImpl.java" timestamp="1494354802044">
-        <mark key="'" line="77" column="5" />
-        <mark key="[" line="77" column="43" />
-        <mark key="]" line="78" column="5" />
-        <mark key="^" line="78" column="5" />
-        <mark key="." line="78" column="5" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/TransactionManagerImpl.java" timestamp="1494355003483">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="78" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/impl/inner/TransactionProduct.java" timestamp="1493307656970">
         <mark key="'" line="104" column="25" />
@@ -186,12 +191,6 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="31" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_models/selection.ts" timestamp="1493993782770">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="7" column="13" />
-        <mark key="^" line="7" column="13" />
-        <mark key="." line="7" column="13" />
-      </file>
       <file name="/Dummy.txt" timestamp="1494012547473">
         <mark key="[" line="0" column="0" />
       </file>
@@ -222,12 +221,6 @@
         <mark key="." line="211" column="77" />
         <mark key="^" line="211" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/OfferRestRedisDAOImpl.java" timestamp="1493814419772">
-        <mark key="[" line="44" column="19" />
-        <mark key="]" line="39" column="18" />
-        <mark key="." line="39" column="18" />
-        <mark key="^" line="39" column="18" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/constant/PolishConstants.java" timestamp="1493836012994">
         <mark key="'" line="11" column="48" />
         <mark key="[" line="11" column="53" />
@@ -242,6 +235,13 @@
         <mark key="." line="50" column="8" />
         <mark key="^" line="50" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/ICustomerManager.java" timestamp="1494355255253">
+        <mark key="'" line="30" column="51" />
+        <mark key="[" line="34" column="70" />
+        <mark key="]" line="34" column="70" />
+        <mark key="^" line="30" column="51" />
+        <mark key="." line="34" column="70" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_factories/action.factory.ts" timestamp="1493990939904">
         <mark key="'" line="81" column="22" />
         <mark key="[" line="174" column="20" />
@@ -249,36 +249,11 @@
         <mark key="." line="98" column="36" />
         <mark key="^" line="98" column="36" />
       </file>
-      <file name="/fragment.java" timestamp="1494348726950">
+      <file name="/fragment.java" timestamp="1494355277996">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1116" column="70" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
-      <jump line="1117" column="31" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
-      <jump line="1758" column="14" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
-      <jump line="1761" column="74" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
-      <jump line="1762" column="79" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
-      <jump line="1764" column="35" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
-      <jump line="3772" column="51" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
-      <jump line="3780" column="50" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
-      <jump line="3788" column="47" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
-      <jump line="625" column="70" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
-      <jump line="626" column="34" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
-      <jump line="1112" column="14" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
-      <jump line="1089" column="33" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
-      <jump line="81" column="2" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
-      <jump line="77" column="6" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" />
-      <jump line="85" column="8" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" />
-      <jump line="30" column="26" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/SiteRestRedisDAOImpl.java" />
-      <jump line="73" column="11" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/clients/AbstractSyncRestClient.java" />
-      <jump line="44" column="22" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-customer-rest/src/main/java/com/cgi/rxp/kafka/impl/CustomerListener.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-customer-rest/src/main/java/com/cgi/rxp/kafka/impl/CustomerListener.java" />
-      <jump line="3946" column="55" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
-      <jump line="4095" column="29" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
-      <jump line="3937" column="15" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
-      <jump line="61" column="35" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
-      <jump line="71" column="4" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
       <jump line="28" column="45" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
       <jump line="34" column="33" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
       <jump line="35" column="36" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
@@ -354,25 +329,50 @@
       <jump line="148" column="92" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="294" column="4" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="77" column="5" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/TransactionManagerImpl.java" />
+      <jump line="78" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/TransactionManagerImpl.java" />
+      <jump line="92" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" />
+      <jump line="94" column="88" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" />
+      <jump line="153" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" />
+      <jump line="36" column="2" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/ICustomerManager.java" />
+      <jump line="3" column="33" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/ICustomerManager.java" />
+      <jump line="11" column="65" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/ICustomerManager.java" />
+      <jump line="28" column="18" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/ICustomerManager.java" />
+      <jump line="20" column="24" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/ICustomerManager.java" />
+      <jump line="19" column="23" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/ICustomerManager.java" />
+      <jump line="16" column="19" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/ICustomerManager.java" />
+      <jump line="30" column="51" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/ICustomerManager.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CustomerManagerImpl.java" />
+      <jump line="3" column="24" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CustomerManagerImpl.java" />
+      <jump line="4" column="28" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CustomerManagerImpl.java" />
+      <jump line="5" column="33" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CustomerManagerImpl.java" />
+      <jump line="17" column="23" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CustomerManagerImpl.java" />
+      <jump line="20" column="45" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CustomerManagerImpl.java" />
+      <jump line="53" column="23" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CustomerManagerImpl.java" />
+      <jump line="44" column="36" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CustomerManagerImpl.java" />
+      <jump line="50" column="8" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CustomerManagerImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudHJhbnNkZGFjdGlvbklkKTsK</text>
+      <register name="&quot;" type="4">
+        <text>id</text>
       </register>
       <register name="h" type="4">
-        <text>this.cartData)</text>
+        <text>site</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>id</text>
       </register>
       <register name="/" type="4">
-        <text>null</text>
+        <text>id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2l0ZUF1dG9Db21wbGV0ZVNldHRpbmdzLmVudGl0eSA9ICdzaXRlJwogICAgdGhpcy5zaXRlQXV0b0NvbXBsZXRlU2V0dGluZ3MuZGlzcGxheWVkID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIElTaXRlTWFuYWdlciBzaXRlTWFuYWdlcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudHJhbnNkZGFjdGlvbklkKTsK</text>
+        <text encoding="base64">U2l0ZU1hbmFnZXJJbXBsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -422,54 +422,48 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgKiAgICAgICAgIGlmIG5vIGRvY3VtZW50IHdpdGggdGhpcyBpZCBpcyBmb3VuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgKiBAdGhyb3dzIERvY3VtZW50Tm90Rm91bmRFeGNlcHRpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSB0ZXN0KCkgewoKICAgIGNvbnNvbGUubG9nKHRoaXMudHJhbnNhY3Rpb25JZCk7CiAgCg==</text>
+        <text encoding="base64">ICAgKiAgICAgICAgIGlmIG5vIGRvY3VtZW50IHdpdGggdGhpcyBpZCBpcyBmb3VuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudHJhbnNhY3Rpb25JZCk7ZGQK</text>
+        <text encoding="base64">ICAgKiBAdGhyb3dzIERvY3VtZW50Tm90Rm91bmRFeGNlcHRpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gcEJ1dHRvbiBpZD0iZmlkZWl0eS1jYXJkLWl0eUNhcmROdW1iZXIubGVuZ3RoPDEiPjwvYnV0dG9uPgo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>number-btn&quot; type=&quot;button&quot; (click)=&quot;getCustomerInfo()&quot;
-                  label=&quot;{{ 'CAISSE_TEST.GET_INFO' | translate }}&quot;
-                  [disabled]=&quot;customerFidel</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">LAogICAgICBwcm9kdWN0czogdGhpcy5jb25zdHJ1Y3RQcm9kdWN0TGlzdChjYXJ0RGF0YSkKICAgIH07CiAgfQoKICBwcml2YXRlIGdldEZvcm1hdHRlZFRpbWVzdGFtcCh0aW1lc3RhbXA6IERhdGUpOiBzdHJpbmcgewogICAgLy8gRW5naW5lIGlzIGV4cGVjdGluZyB0aGUgZm9sbG93aW5nIGZvcm1hdDogeXl5eS1NTS1kZCBISDptbTpzcwogICAgbGV0IHllYXI6IHN0cmluZyA9IHRpbWVzdGFtcC5nZXRGdWxsWWVhcigpLnRvU3RyaW5nKCk7CiAgICBsZXQgbW9udGg6IHN0cmluZyA9IFN0cmluZ1V0aWxzLmxlZnRQYWQodGltZXN0YW1wLmdldE1vbnRoKCkudG9TdHJpbmcoKSk7CiAgICBsZXQgZGF5OiBzdHJpbmcgPSBTdHJpbmdVdGlscy5sZWZ0UGFkKHRpbWVzdGFtcC5nZXREYXkoKS50b1N0cmluZygpKTsKICAgIGxldCBob3Vyczogc3RyaW5nID0gU3RyaW5nVXRpbHMubGVmdFBhZCh0aW1lc3RhbXAuZ2V0SG91cnMoKS50b1N0cmluZygpKTsKICAgIGxldCBtaW51dGVzOiBzdHJpbmcgPSBTdHJpbmdVdGlscy5sZWZ0UGFkKHRpbWVzdGFtcC5nZXRNaW51dGVzKCkudG9TdHJpbmcoKSk7CiAgICBsZXQgc2Vjb25kczogc3RyaW5nID0gU3RyaW5nVXRpbHMubGVmdFBhZCh0aW1lc3RhbXAuZ2V0U2Vjb25kcygpLnRvU3RyaW5nKCkpOwogICAgcmV0dXJuIGAke3llYXJ9LSR7bW9udGh9LSR7ZGF5fSAke2hvdXJzfToke21pbnV0ZXN9OiR7c2Vjb25kc31gOwogIH0KCiAgcHJpdmF0ZSA=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdHJhbnNhY3Rpb24uc2V0Q29kZSh0cmFuc2FjdGlvbk1hbmFnZXIuZ2VuZXJhdGVUcmFuc2FjdGlvbklEKCkpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmICghT3B0aW9uYWwub2ZOdWxsYWJsZSh0cmFuc2FjdGlvbi5nZXRJZCgpKS5pc1ByZXNlbnQoKSkgewo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGkgICAgLy8gU3RlcCAxIFJldHJpZXZlIHRyYW5zYWN0aW9uIGRhdGEK</text>
+      </register>
       <register name=":" type="4">
-        <text>%s/this.cartData)/this.cartData, this.transactionId)/g</text>
+        <text>%s/site/customer/g</text>
       </register>
     </registers>
     <search>
-      <last-search>null</last-search>
+      <last-search>id</last-search>
       <last-offset />
-      <last-pattern>null</last-pattern>
-      <last-replace>this.cartData, this.transactionId)</last-replace>
-      <last-substitute>this.cartData)</last-substitute>
+      <last-pattern>id</last-pattern>
+      <last-replace>customer</last-replace>
+      <last-substitute>site</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>selected</entry>
-        <entry>selectedSite</entry>
-        <entry>si</entry>
         <entry>siteAuto</entry>
         <entry>settings</entry>
         <entry>constructSite</entry>
-        <entry>site</entry>
         <entry>fina</entry>
         <entry>mandate</entry>
         <entry>cartData</entry>
@@ -483,10 +477,12 @@
         <entry>this.cartData)</entry>
         <entry>dd</entry>
         <entry>null</entry>
+        <entry>siteM</entry>
+        <entry>Site</entry>
+        <entry>site</entry>
+        <entry>id</entry>
       </history-search>
       <history-cmd>
-        <entry>103</entry>
-        <entry>set rnu false</entry>
         <entry>set rnuno</entry>
         <entry>set nornu</entry>
         <entry>s/getID/getId/g</entry>
@@ -504,6 +500,8 @@
         <entry>h marks</entry>
         <entry>reg</entry>
         <entry>%s/this.cartData)/this.cartData, this.transactionId)/g</entry>
+        <entry>%s/Site/Customer/g</entry>
+        <entry>%s/site/customer/g</entry>
         <entry>Update</entry>
       </history-cmd>
       <history-expr />
