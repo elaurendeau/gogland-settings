@@ -3,18 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" timestamp="1494293052520">
+      <file name="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" timestamp="1494299236362">
         <mark key="'" line="49" column="16" />
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="^" line="49" column="71" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/ui/main.html" timestamp="1494291588323">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/ui/main.html" timestamp="1494299246628">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -115,6 +116,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
