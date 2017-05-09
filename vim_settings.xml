@@ -9,12 +9,12 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" timestamp="1494340331554">
-        <mark key="'" line="22" column="58" />
-        <mark key="[" line="22" column="84" />
-        <mark key="]" line="22" column="84" />
-        <mark key="." line="22" column="84" />
-        <mark key="^" line="22" column="92" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" timestamp="1494343202872">
+        <mark key="'" line="22" column="35" />
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="22" column="73" />
+        <mark key="." line="22" column="73" />
+        <mark key="^" line="22" column="73" />
       </file>
       <file name="/fragment.js" timestamp="1493990422175">
         <mark key="[" line="0" column="0" />
@@ -52,12 +52,12 @@
         <mark key="]" line="295" column="0" />
         <mark key="." line="295" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_services/engine.service.ts" timestamp="1493315532179">
-        <mark key="'" line="107" column="8" />
-        <mark key="[" line="101" column="6" />
-        <mark key="]" line="101" column="6" />
-        <mark key="." line="101" column="6" />
-        <mark key="^" line="101" column="6" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_services/engine.service.ts" timestamp="1494344121631">
+        <mark key="'" line="91" column="10" />
+        <mark key="[" line="27" column="68" />
+        <mark key="]" line="27" column="77" />
+        <mark key="." line="27" column="77" />
+        <mark key="^" line="27" column="77" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/settings-attributes-detail/settings-attributes-detail.component.ts" timestamp="1493994029061">
         <mark key="'" line="0" column="0" />
@@ -104,7 +104,7 @@
         <mark key="." line="162" column="45" />
         <mark key="^" line="162" column="45" />
       </file>
-      <file name="/JavaScript Console" timestamp="1493990386021">
+      <file name="/JavaScript Console" timestamp="1494344118694">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/LengthOperatorManagerImpl.java" timestamp="1493818604637">
@@ -193,12 +193,12 @@
         <mark key="." line="109" column="68" />
         <mark key="^" line="58" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" timestamp="1493751430857">
-        <mark key="'" line="82" column="19" />
-        <mark key="[" line="82" column="19" />
-        <mark key="]" line="26" column="21" />
-        <mark key="." line="26" column="21" />
-        <mark key="^" line="26" column="21" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" timestamp="1494344203659">
+        <mark key="'" line="147" column="63" />
+        <mark key="[" line="157" column="69" />
+        <mark key="]" line="156" column="1" />
+        <mark key="^" line="156" column="1" />
+        <mark key="." line="156" column="1" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/selection-detail/selection-detail.component.ts" timestamp="1493993932980">
         <mark key="'" line="212" column="18" />
@@ -271,31 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="32" filename="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/SelectionController.java" />
-      <jump line="131" column="26" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/SelectionController.java" />
-      <jump line="97" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/SelectionController.java" />
-      <jump line="95" column="21" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/SelectionController.java" />
-      <jump line="94" column="45" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/SelectionController.java" />
-      <jump line="110" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" />
-      <jump line="102" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" />
-      <jump line="111" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" />
-      <jump line="114" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" />
-      <jump line="116" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" />
-      <jump line="119" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" />
-      <jump line="123" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" />
-      <jump line="125" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" />
-      <jump line="128" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" />
-      <jump line="137" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" />
-      <jump line="155" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" />
-      <jump line="143" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" />
-      <jump line="141" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/offer-detail/offer-detail.component.ts" />
-      <jump line="301" column="12" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/offer-detail/offer-detail.component.ts" />
-      <jump line="49" column="50" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/FilterManagerTest.java" />
-      <jump line="50" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/FilterManagerTest.java" />
-      <jump line="51" column="31" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/FilterManagerTest.java" />
-      <jump line="52" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/FilterManagerTest.java" />
       <jump line="53" column="60" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/FilterManagerTest.java" />
       <jump line="262" column="39" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/offer-detail/offer-detail.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_factories/action.factory.ts" />
@@ -350,55 +325,89 @@
       <jump line="140" column="45" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
       <jump line="163" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
       <jump line="21" column="46" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
-      <jump line="22" column="58" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
+      <jump line="2" column="9" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="11" column="2" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="25" column="14" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="80" column="11" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="81" column="11" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="83" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="311" column="7" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="46" column="2" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="90" column="46" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="148" column="55" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="158" column="56" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="168" column="67" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="177" column="54" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="307" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="39" column="2" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="42" column="2" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="85" column="46" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="143" column="55" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="153" column="56" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="163" column="67" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="172" column="54" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="269" column="23" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="4" column="8" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="59" column="50" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="58" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="57" column="9" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="44" column="2" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="51" column="9" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="56" column="9" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="15" column="29" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
+      <jump line="17" column="62" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
+      <jump line="22" column="35" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
+      <jump line="75" column="56" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_services/engine.service.ts" />
+      <jump line="102" column="2" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_services/engine.service.ts" />
+      <jump line="101" column="5" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_services/engine.service.ts" />
+      <jump line="100" column="17" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_services/engine.service.ts" />
+      <jump line="99" column="19" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_services/engine.service.ts" />
+      <jump line="97" column="41" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_services/engine.service.ts" />
+      <jump line="27" column="26" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_services/engine.service.ts" />
+      <jump line="176" column="4" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="157" column="4" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="91" column="19" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_services/engine.service.ts" />
+      <jump line="167" column="102" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="114" column="2" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="147" column="63" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>SiteStrucuture</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>SiteStrucuture</text>
       </register>
       <register name="/" type="4">
-        <text>se</text>
+        <text>call</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGEuY29udGVudFsnbGlzdE9mU2l0ZXMnXSA9IHRoaXMuc2VsZWN0aW9uLmxpc3RPZlNpdGVzID8gdGhpcy5zZWxlY3Rpb24ub2ZmZXJzRm9yUGVyaW9kcyA6IFtdOwo=</text>
+      <register name="0" type="4">
+        <text>y(date, site, car</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1nLTEyIHVpLW1kLTQiPgogICAgICAgICAgPGxhYmVsPnt7ICdDQUlTU0VfVEVTVC5DVVNUT01FUl9JRCcgfCB0cmFuc2xhdGV9fTwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgaWQ9ImN1c3RvbWVyLWlkLWNvZGUiIHR5cGU9InRleHQiIHBJbnB1dFRleHQKICAgICAgICAgICAgICAgICBbKG5nTW9kZWwpXT0iY3VzdG9tZXJGaWRlbGl0eUNhcmROdW1iZXIiIHN0eWxlPSJ3aWR0aDogNDAlOyBtYXJnaW4tcmlnaHQ6IDFlbTsiPgogICAgICAgICAgCiAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LAogICAgICBwcm9kdWN0czogdGhpcy5jb25zdHJ1Y3RQcm9kdWN0TGlzdChjYXJ0RGF0YSkKICAgIH07CiAgfQoKICBwcml2YXRlIGdldEZvcm1hdHRlZFRpbWVzdGFtcCh0aW1lc3RhbXA6IERhdGUpOiBzdHJpbmcgewogICAgLy8gRW5naW5lIGlzIGV4cGVjdGluZyB0aGUgZm9sbG93aW5nIGZvcm1hdDogeXl5eS1NTS1kZCBISDptbTpzcwogICAgbGV0IHllYXI6IHN0cmluZyA9IHRpbWVzdGFtcC5nZXRGdWxsWWVhcigpLnRvU3RyaW5nKCk7CiAgICBsZXQgbW9udGg6IHN0cmluZyA9IFN0cmluZ1V0aWxzLmxlZnRQYWQodGltZXN0YW1wLmdldE1vbnRoKCkudG9TdHJpbmcoKSk7CiAgICBsZXQgZGF5OiBzdHJpbmcgPSBTdHJpbmdVdGlscy5sZWZ0UGFkKHRpbWVzdGFtcC5nZXREYXkoKS50b1N0cmluZygpKTsKICAgIGxldCBob3Vyczogc3RyaW5nID0gU3RyaW5nVXRpbHMubGVmdFBhZCh0aW1lc3RhbXAuZ2V0SG91cnMoKS50b1N0cmluZygpKTsKICAgIGxldCBtaW51dGVzOiBzdHJpbmcgPSBTdHJpbmdVdGlscy5sZWZ0UGFkKHRpbWVzdGFtcC5nZXRNaW51dGVzKCkudG9TdHJpbmcoKSk7CiAgICBsZXQgc2Vjb25kczogc3RyaW5nID0gU3RyaW5nVXRpbHMubGVmdFBhZCh0aW1lc3RhbXAuZ2V0U2Vjb25kcygpLnRvU3RyaW5nKCkpOwogICAgcmV0dXJuIGAke3llYXJ9LSR7bW9udGh9LSR7ZGF5fSAke2hvdXJzfToke21pbnV0ZXN9OiR7c2Vjb25kc31gOwogIH0KCiAgcHJpdmF0ZSA=</text>
       </register>
       <register name="q" type="4">
         <keys>
+          <key char="63" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
           <key char="111" code="0" mods="0" />
           <key char="109" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="37" code="0" mods="0" />
-          <key char="37" code="0" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="127" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
           <key char="113" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
@@ -428,52 +437,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1nLTEyIHVpLW1kLTQiPgogICAgICAgICAgPGxhYmVsPnt7ICdDQUlTU0VfVEVTVC5DVVNUT01FUl9JRCcgfCB0cmFuc2xhdGV9fTwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgaWQ9ImN1c3RvbWVyLWlkLWNvZGUiIHR5cGU9InRleHQiIHBJbnB1dFRleHQKICAgICAgICAgICAgICAgICBbKG5nTW9kZWwpXT0iY3VzdG9tZXJGaWRlbGl0eUNhcmROdW1iZXIiIHN0eWxlPSJ3aWR0aDogNDAlOyBtYXJnaW4tcmlnaHQ6IDFlbTsiPgogICAgICAgICAgCiAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGJ1dHRvbiBwQnV0dG9uIGlkPSJmaWRlaXR5LWNhcmQtbnVtYmVyLWJ0biIgdHlwZT0iYnV0dG9uIiAoY2xpY2spPSJnZXRDdXN0b21lckluZm8oKSIKICAgICAgICAgICAgICAgICAgbGFiZWw9Int7ICdDQUlTU0VfVEVTVC5HRVRfSU5GTycgfCB0cmFuc2xhdGUgfX0iCiAgICAgICAgICAgICAgICAgIFtkaXNhYmxlZF09ImN1c3RvbWVyRmlkZWxpdHlDYXJkTnVtYmVyLmxlbmd0aDwxIj48L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgIHRoaXMuY3VzdG9tZXJBdXRvQ29tcGxldGVTZXR0aW5ncy5lbnRpdHkgPSAnY3VzdG9tZXInCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICA8bGFiZWw+e3sgJ0NBSVNTRV9URVNULkNVU1RPTUVSX0lEJyB8IHRyYW5zbGF0ZX19PC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCBpZD0iY3VzdG9tZXItaWQtY29kZSIgdHlwZT0idGV4dCIgcElucHV0VGV4dAogICAgICAgICAgICAgICAgIFsobmdNb2RlbCldPSJjdXN0b21lckZpZGVsaXR5Q2FyZE51bWJlciIgc3R5bGU9IndpZHRoOiA0MCU7IG1hcmdpbi1yaWdodDogMWVtOyI+CiAgICAgICAgICA8YnV0dG9uIHBCdXR0b24gaWQ9ImZpZGVpdHktY2FyZC1udW1iZXItYnRuIiB0eXBlPSJidXR0b24iIChjbGljayk9ImdldEN1c3RvbWVySW5mbygpIgogICAgICAgICAgICAgICAgICBsYWJlbD0ie3sgJ0NBSVNTRV9URVNULkdFVF9JTkZPJyB8IHRyYW5zbGF0ZSB9fSIKICAgICAgICAgICAgICAgICAgW2Rpc2FibGVkXT0iY3VzdG9tZXJGaWRlbGl0eUNhcmROdW1iZXIubGVuZ3RoPDEiPjwvYnV0dG9uPgogICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1nLTEyIHVpLW1kLTQiPgogICAgICAgICAgPGxhYmVsPnt7ICdDQUlTU0VfVEVTVC5DVVNUT01FUl9JRCcgfCB0cmFuc2xhdGV9fTwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgaWQ9ImN1c3RvbWVyLWlkLWNvZGUiIHR5cGU9InRleHQiIHBJbnB1dFRleHQKICAgICAgICAgICAgICAgICBbKG5nTW9kZWwpXT0iY3VzdG9tZXJGaWRlbGl0eUNhcmROdW1iZXIiIHN0eWxlPSJ3aWR0aDogNDAlOyBtYXJnaW4tcmlnaHQ6IDFlbTsiPgogICAgICAgICAgCiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0idWktZy0xMiB1aS1tZC00Ij4KICAgICAgICAgIDxsYWJlbD57eyAnQ0FJU1NFX1RFU1QuQ1VTVE9NRVJfSUQnIHwgdHJhbnNsYXRlfX08L2xhYmVsPgogICAgICAgICAgPGlucHV0IGlkPSJjdXN0b21lci1pZC1jb2RlIiB0eXBlPSJ0ZXh0IiBwSW5wdXRUZXh0CiAgICAgICAgICAgICAgICAgWyhuZ01vZGVsKV09ImN1c3RvbWVyRmlkZWxpdHlDYXJkTnVtYmVyIiBzdHlsZT0id2lkdGg6IDQwJTsgbWFyZ2luLXJpZ2h0OiAxZW07Ij4KICAgICAgICAgIDxidXR0b24gcEJ1dHRvbiBpZD0iY3VzdG9tZXItaWQtY29kZS1idG4iIHR5cGU9ImJ1dHRvbiIgKGNsaWNrKT0iZ2V0Q3VzdG9tZXJJbmZvKCkiCiAgICAgICAgICAgICAgICAgIGxhYmVsPSJ7eyAnQ0FJU1NFX1RFU1QuR0VUX0lORk8nIHwgdHJhbnNsYXRlIH19IgogICAgICAgICAgICAgICAgICBbZGlzYWJsZWRdPSJjdXN0b21lckZpZGVsaXR5Q2FyZE51bWJlci5sZW5ndGg8MSI+PC9idXR0b24+CiAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1nLTEyIHVpLW1kLTQiPgogICAgICAgICAgPGxhYmVsPnt7ICdDQUlTU0VfVEVTVC5DVVNUT01FUl9JRCcgfCB0cmFuc2xhdGV9fTwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgaWQ9ImN1c3RvbWVyLWlkLWNvZGUiIHR5cGU9InRleHQiIHBJbnB1dFRleHQKICAgICAgICAgICAgICAgICBbKG5nTW9kZWwpXT0iY3VzdG9tZXJGaWRlbGl0eUNhcmROdW1iZXIiIHN0eWxlPSJ3aWR0aDogNDAlOyBtYXJnaW4tcmlnaHQ6IDFlbTsiPgogICAgICAgICAgCiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHAtcGFuZWwgaGVhZGVyPSJ7eydDQUlTU0VfVEVTVC5IRUFERVJfUEFORUwnIHwgdHJhbnNsYXRlfX0iIFt0b2dnbGVhYmxlXT0idHJ1ZSIKICAgICAgICAgICAgIFtzdHlsZV09InsnbWFyZ2luJzonMjBweCA1MHB4J30iPgogICAgICA8ZGl2IGNsYXNzPSJ1aS1nIj4KICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1nLTEyIHVpLW1kLTQiPgogICAgICAgICAgPGxhYmVsPnt7ICdDQUlTU0VfVEVTVC5TSVRFX0xBQkVMJyB8IHRyYW5zbGF0ZSB9fTwvbGFiZWw+CiAgICAgICAgICA8YXBwLXJvbWVzLWF1dG9jb21wbGV0ZSBbc2V0dGluZ3NdPSJzZXR0aW5ncyIgWyhzZWxlY3RlZEVudGl0eSldPSJzZWxlY3RlZFNpdGUiPgogICAgICAgICAgPC9hcHAtcm9tZXMtYXV0b2NvbXBsZXRlPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9InVpLWctMTIgdWktbWQtNCI+CiAgICAgICAgICA8bGFiZWw+e3snQ0FJU1NFX1RFU1QuREFURV9MQUJFTCcgfCB0cmFuc2xhdGUgfX08L2xhYmVsPgogICAgICAgICAgPHAtY2FsZW5kYXIgWyhuZ01vZGVsKV09ImRhdGUiIGRhdGVGb3JtYXQ9ImRkL21tL3l5IiBbc2hvd0ljb25dPSJ0cnVlIiBbc2hvd1RpbWVdPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgW2xvY2FsZV09ImNhbGVuZGFyTGFiZWxzIiAob25CbHVyKT0icHJpY2VNZXNzYWdlPW51bGwiPjwvcC1jYWxlbmRhcj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1nLTEyIHVpLW1kLTQiPgogICAgICAgICAgPGxhYmVsPnt7ICdDQUlTU0VfVEVTVC5OVU1fQ0FSRF9GSURFTElURV9MQUJFTCcgfCB0cmFuc2xhdGV9fTwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgaWQ9ImZpZGVsaXR5LWNhcmQtbnVtYmVyIiB0eXBlPSJ0ZXh0IiBwSW5wdXRUZXh0CiAgICAgICAgICAgICAgICAgWyhuZ01vZGVsKV09ImN1c3RvbWVyRmlkZWxpdHlDYXJkTnVtYmVyIiBzdHlsZT0id2lkdGg6IDQwJTsgbWFyZ2luLXJpZ2h0OiAxZW07Ij4KICAgICAgICAgIDxidXR0b24gcEJ1dHRvbiBpZD0iZmlkZWl0eS1jYXJkLW51bWJlci1idG4iIHR5cGU9ImJ1dHRvbiIgKGNsaWNrKT0iZ2V0Q3VzdG9tZXJJbmZvKCkiCiAgICAgICAgICAgICAgICAgIGxhYmVsPSJ7eyAnQ0FJU1NFX1RFU1QuR0VUX0lORk8nIHwgdHJhbnNsYXRlIH19IgogICAgICAgICAgICAgICAgICBbZGlzYWJsZWRdPSJjdXN0b21lckZpZGVsaXR5Q2FyZE51bWJlci5sZW5ndGg8MSI+PC9idXR0b24+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0idWktZy0xMiB1aS1tZC00Ij4KICAgICAgICAgIDxsYWJlbD57eyAnQ0FJU1NFX1RFU1QuQ1VTVE9NRVJfSUQnIHwgdHJhbnNsYXRlfX08L2xhYmVsPgogICAgICAgICAgPGlucHV0IGlkPSJjdXN0b21lci1pZC1jb2RlIiB0eXBlPSJ0ZXh0IiBwSW5wdXRUZXh0CiAgICAgICAgICAgICAgICAgWyhuZ01vZGVsKV09ImN1c3RvbWVyRmlkZWxpdHlDYXJkTnVtYmVyIiBzdHlsZT0id2lkdGg6IDQwJTsgbWFyZ2luLXJpZ2h0OiAxZW07Ij4KICAgICAgICAgIDxidXR0b24gcEJ1dHRvbiBpZD0iY3VzdG9tZXItaWQtY29kZS1idG4iIHR5cGU9ImJ1dHRvbiIgKGNsaWNrKT0iZ2V0Q3VzdG9tZXJJbmZvKCkiCiAgICAgICAgICAgICAgICAgIGxhYmVsPSJ7eyAnQ0FJU1NFX1RFU1QuR0VUX0lORk8nIHwgdHJhbnNsYXRlIH19IgogICAgICAgICAgICAgICAgICBbZGlzYWJsZWRdPSJjdXN0b21lckZpZGVsaXR5Q2FyZE51bWJlci5sZW5ndGg8MSI+PC9idXR0b24+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9wLXBhbmVsPgo=</text>
+        <text encoding="base64">PGJ1dHRvbiBwQnV0dG9uIGlkPSJmaWRlaXR5LWNhcmQtbnVtYmVyLWJ0biIgdHlwZT0iYnV0dG9uIiAoY2xpY2spPSJnZXRDdXN0b21lckluZm8oKSIKICAgICAgICAgICAgICAgICAgbGFiZWw9Int7ICdDQUlTU0VfVEVTVC5HRVRfSU5GTycgfCB0cmFuc2xhdGUgfX0iCiAgICAgICAgICAgICAgICAgIFtkaXNhYmxlZF09ImN1c3RvbWVyRmlkZWxpdHlDYXJkTnVtYmVyLmxlbmd0aDwxIj48L2J1dHRvbj4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0idWktZy0xMiB1aS1tZC00Ij4KICAgICAgICAgIDxsYWJlbD57eyAnQ0FJU1NFX1RFU1QuQ1VTVE9NRVJfSUQnIHwgdHJhbnNsYXRlfX08L2xhYmVsPgogICAgICAgICAgPGlucHV0IGlkPSJjdXN0b21lci1pZC1jb2RlIiB0eXBlPSJ0ZXh0IiBwSW5wdXRUZXh0CiAgICAgICAgICAgICAgICAgWyhuZ01vZGVsKV09ImN1c3RvbWVyRmlkZWxpdHlDYXJkTnVtYmVyIiBzdHlsZT0id2lkdGg6IDQwJTsgbWFyZ2luLXJpZ2h0OiAxZW07Ij4KICAgICAgICAgIAogICAgICAgIDwvZGl2Pgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICA8bGFiZWw+e3sgJ0NBSVNTRV9URVNULkNVU1RPTUVSX0lEJyB8IHRyYW5zbGF0ZX19PC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCBpZD0iY3VzdG9tZXItaWQtY29kZSIgdHlwZT0idGV4dCIgcElucHV0VGV4dAogICAgICAgICAgICAgICAgIFsobmdNb2RlbCldPSJjdXN0b21lckZpZGVsaXR5Q2FyZE51bWJlciIgc3R5bGU9IndpZHRoOiA0MCU7IG1hcmdpbi1yaWdodDogMWVtOyI+CiAgICAgICAgICA8YnV0dG9uIHBCdXR0b24gaWQ9ImZpZGVpdHktY2FyZC1udW1iZXItYnRuIiB0eXBlPSJidXR0b24iIChjbGljayk9ImdldEN1c3RvbWVySW5mbygpIgogICAgICAgICAgICAgICAgICBsYWJlbD0ie3sgJ0NBSVNTRV9URVNULkdFVF9JTkZPJyB8IHRyYW5zbGF0ZSB9fSIKICAgICAgICAgICAgICAgICAgW2Rpc2FibGVkXT0iY3VzdG9tZXJGaWRlbGl0eUNhcmROdW1iZXIubGVuZ3RoPDEiPjwvYnV0dG9uPgogICAgICAgIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGJ1dHRvbiBwQnV0dG9uIGlkPSJjdXN0b21lci1pZC1jb2RlLWJ0biIgdHlwZT0iYnV0dG9uIiAoY2xpY2spPSJnZXRDdXN0b21lckluZm8oKSIKICAgICAgICAgICAgICAgICAgbGFiZWw9Int7ICdDQUlTU0VfVEVTVC5HRVRfSU5GTycgfCB0cmFuc2xhdGUgfX0iCiAgICAgICAgICAgICAgICAgIFtkaXNhYmxlZF09ImN1c3RvbWVyRmlkZWxpdHlDYXJkTnVtYmVyLmxlbmd0aDwxIj48L2J1dHRvbj4K</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0idWktZy0xMiB1aS1tZC00Ij4KICAgICAgICAgIDxsYWJlbD57eyAnQ0FJU1NFX1RFU1QuQ1VTVE9NRVJfSUQnIHwgdHJhbnNsYXRlfX08L2xhYmVsPgogICAgICAgICAgPGlucHV0IGlkPSJjdXN0b21lci1pZC1jb2RlIiB0eXBlPSJ0ZXh0IiBwSW5wdXRUZXh0CiAgICAgICAgICAgICAgICAgWyhuZ01vZGVsKV09ImN1c3RvbWVyRmlkZWxpdHlDYXJkTnVtYmVyIiBzdHlsZT0id2lkdGg6IDQwJTsgbWFyZ2luLXJpZ2h0OiAxZW07Ij4KICAgICAgICAgIDxidXR0b24gcEJ1dHRvbiBpZD0iY3VzdG9tZXItaWQtY29kZS1idG4iIHR5cGU9ImJ1dHRvbiIgKGNsaWNrKT0iZ2V0Q3VzdG9tZXJJbmZvKCkiCiAgICAgICAgICAgICAgICAgIGxhYmVsPSJ7eyAnQ0FJU1NFX1RFU1QuR0VUX0lORk8nIHwgdHJhbnNsYXRlIH19IgogICAgICAgICAgICAgICAgICBbZGlzYWJsZWRdPSJjdXN0b21lckZpZGVsaXR5Q2FyZE51bWJlci5sZW5ndGg8MSI+PC9idXR0b24+CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICA8bGFiZWw+e3sgJ0NBSVNTRV9URVNULkNVU1RPTUVSX0lEJyB8IHRyYW5zbGF0ZX19PC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCBpZD0iY3VzdG9tZXItaWQtY29kZSIgdHlwZT0idGV4dCIgcElucHV0VGV4dAogICAgICAgICAgICAgICAgIFsobmdNb2RlbCldPSJjdXN0b21lckZpZGVsaXR5Q2FyZE51bWJlciIgc3R5bGU9IndpZHRoOiA0MCU7IG1hcmdpbi1yaWdodDogMWVtOyI+CiAgICAgICAgICA8YnV0dG9uIHBCdXR0b24gaWQ9ImN1c3RvbWVyLWlkLWNvZGUtYnRuIiB0eXBlPSJidXR0b24iIChjbGljayk9ImdldEN1c3RvbWVySW5mbygpIgogICAgICAgICAgICAgICAgICBsYWJlbD0ie3sgJ0NBSVNTRV9URVNULkdFVF9JTkZPJyB8IHRyYW5zbGF0ZSB9fSIKICAgICAgICAgICAgICAgICAgW2Rpc2FibGVkXT0iY3VzdG9tZXJGaWRlbGl0eUNhcmROdW1iZXIubGVuZ3RoPDEiPjwvYnV0dG9uPgogICAgICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">PHAtcGFuZWwgaGVhZGVyPSJ7eydDQUlTU0VfVEVTVC5IRUFERVJfUEFORUwnIHwgdHJhbnNsYXRlfX0iIFt0b2dnbGVhYmxlXT0idHJ1ZSIKICAgICAgICAgICAgIFtzdHlsZV09InsnbWFyZ2luJzonMjBweCA1MHB4J30iPgogICAgICA8ZGl2IGNsYXNzPSJ1aS1nIj4KICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1nLTEyIHVpLW1kLTQiPgogICAgICAgICAgPGxhYmVsPnt7ICdDQUlTU0VfVEVTVC5TSVRFX0xBQkVMJyB8IHRyYW5zbGF0ZSB9fTwvbGFiZWw+CiAgICAgICAgICA8YXBwLXJvbWVzLWF1dG9jb21wbGV0ZSBbc2V0dGluZ3NdPSJzZXR0aW5ncyIgWyhzZWxlY3RlZEVudGl0eSldPSJzZWxlY3RlZFNpdGUiPgogICAgICAgICAgPC9hcHAtcm9tZXMtYXV0b2NvbXBsZXRlPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9InVpLWctMTIgdWktbWQtNCI+CiAgICAgICAgICA8bGFiZWw+e3snQ0FJU1NFX1RFU1QuREFURV9MQUJFTCcgfCB0cmFuc2xhdGUgfX08L2xhYmVsPgogICAgICAgICAgPHAtY2FsZW5kYXIgWyhuZ01vZGVsKV09ImRhdGUiIGRhdGVGb3JtYXQ9ImRkL21tL3l5IiBbc2hvd0ljb25dPSJ0cnVlIiBbc2hvd1RpbWVdPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgW2xvY2FsZV09ImNhbGVuZGFyTGFiZWxzIiAob25CbHVyKT0icHJpY2VNZXNzYWdlPW51bGwiPjwvcC1jYWxlbmRhcj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1nLTEyIHVpLW1kLTQiPgogICAgICAgICAgPGxhYmVsPnt7ICdDQUlTU0VfVEVTVC5OVU1fQ0FSRF9GSURFTElURV9MQUJFTCcgfCB0cmFuc2xhdGV9fTwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgaWQ9ImZpZGVsaXR5LWNhcmQtbnVtYmVyIiB0eXBlPSJ0ZXh0IiBwSW5wdXRUZXh0CiAgICAgICAgICAgICAgICAgWyhuZ01vZGVsKV09ImN1c3RvbWVyRmlkZWxpdHlDYXJkTnVtYmVyIiBzdHlsZT0id2lkdGg6IDQwJTsgbWFyZ2luLXJpZ2h0OiAxZW07Ij4KICAgICAgICAgIDxidXR0b24gcEJ1dHRvbiBpZD0iZmlkZWl0eS1jYXJkLW51bWJlci1idG4iIHR5cGU9ImJ1dHRvbiIgKGNsaWNrKT0iZ2V0Q3VzdG9tZXJJbmZvKCkiCiAgICAgICAgICAgICAgICAgIGxhYmVsPSJ7eyAnQ0FJU1NFX1RFU1QuR0VUX0lORk8nIHwgdHJhbnNsYXRlIH19IgogICAgICAgICAgICAgICAgICBbZGlzYWJsZWRdPSJjdXN0b21lckZpZGVsaXR5Q2FyZE51bWJlci5sZW5ndGg8MSI+PC9idXR0b24+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0idWktZy0xMiB1aS1tZC00Ij4KICAgICAgICAgIDxsYWJlbD57eyAnQ0FJU1NFX1RFU1QuQ1VTVE9NRVJfSUQnIHwgdHJhbnNsYXRlfX08L2xhYmVsPgogICAgICAgICAgPGlucHV0IGlkPSJjdXN0b21lci1pZC1jb2RlIiB0eXBlPSJ0ZXh0IiBwSW5wdXRUZXh0CiAgICAgICAgICAgICAgICAgWyhuZ01vZGVsKV09ImN1c3RvbWVyRmlkZWxpdHlDYXJkTnVtYmVyIiBzdHlsZT0id2lkdGg6IDQwJTsgbWFyZ2luLXJpZ2h0OiAxZW07Ij4KICAgICAgICAgIDxidXR0b24gcEJ1dHRvbiBpZD0iY3VzdG9tZXItaWQtY29kZS1idG4iIHR5cGU9ImJ1dHRvbiIgKGNsaWNrKT0iZ2V0Q3VzdG9tZXJJbmZvKCkiCiAgICAgICAgICAgICAgICAgIGxhYmVsPSJ7eyAnQ0FJU1NFX1RFU1QuR0VUX0lORk8nIHwgdHJhbnNsYXRlIH19IgogICAgICAgICAgICAgICAgICBbZGlzYWJsZWRdPSJjdXN0b21lckZpZGVsaXR5Q2FyZE51bWJlci5sZW5ndGg8MSI+PC9idXR0b24+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9wLXBhbmVsPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>h marks</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>se</last-search>
+      <last-search>call</last-search>
       <last-offset />
-      <last-pattern>se</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>call</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sa</entry>
-        <entry>site</entry>
-        <entry>null</entry>
-        <entry>inclu</entry>
-        <entry>included</entry>
-        <entry>includedIn</entry>
-        <entry>get</entry>
-        <entry>log</entry>
-        <entry>Abs</entry>
-        <entry>name</entry>
         <entry>des</entry>
         <entry>descr</entry>
         <entry>descri</entry>
@@ -484,6 +483,16 @@
         <entry>CA</entry>
         <entry>\.</entry>
         <entry>se</entry>
+        <entry>select</entry>
+        <entry>selectedProduct</entry>
+        <entry>selected</entry>
+        <entry>selectedSite</entry>
+        <entry>si</entry>
+        <entry>siteAuto</entry>
+        <entry>settings</entry>
+        <entry>constructSite</entry>
+        <entry>site</entry>
+        <entry>call</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
@@ -495,7 +504,6 @@
         <entry encoding="base64">JzwsJz5zL2dldElEL2dldElk</entry>
         <entry>seq</entry>
         <entry>req</entry>
-        <entry>reg</entry>
         <entry>set rnu</entry>
         <entry>set number</entry>
         <entry>%s/product\.getId/product\.getCode/g</entry>
@@ -505,6 +513,7 @@
         <entry>q</entry>
         <entry>marks</entry>
         <entry>h marks</entry>
+        <entry>reg</entry>
         <entry>Update</entry>
       </history-cmd>
       <history-expr />
