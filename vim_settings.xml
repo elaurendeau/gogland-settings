@@ -9,12 +9,12 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" timestamp="1494339487752">
-        <mark key="'" line="36" column="38" />
-        <mark key="[" line="37" column="46" />
-        <mark key="]" line="37" column="30" />
-        <mark key="." line="37" column="30" />
-        <mark key="^" line="32" column="13" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" timestamp="1494340331554">
+        <mark key="'" line="22" column="58" />
+        <mark key="[" line="22" column="84" />
+        <mark key="]" line="22" column="84" />
+        <mark key="." line="22" column="84" />
+        <mark key="^" line="22" column="92" />
       </file>
       <file name="/fragment.js" timestamp="1493990422175">
         <mark key="[" line="0" column="0" />
@@ -343,23 +343,30 @@
       <jump line="32" column="13" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
       <jump line="34" column="33" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
       <jump line="35" column="36" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
-      <jump line="36" column="38" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
+      <jump line="16" column="10" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
+      <jump line="171" column="12" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
+      <jump line="36" column="17" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
+      <jump line="140" column="45" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
+      <jump line="163" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
+      <jump line="21" column="46" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
+      <jump line="22" column="58" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>btn</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>btn</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>fi</text>
+        <text>se</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRhdGEuY29udGVudFsnbGlzdE9mU2l0ZXMnXSA9IHRoaXMuc2VsZWN0aW9uLmxpc3RPZlNpdGVzID8gdGhpcy5zZWxlY3Rpb24ub2ZmZXJzRm9yUGVyaW9kcyA6IFtdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgPHAtZGlhbG9nIGhlYWRlcj0ie3sgJ0NBSVNTRV9URVNULlRFU1QiPnRlc3Q8L3AtZGlhbG9nPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1nLTEyIHVpLW1kLTQiPgogICAgICAgICAgPGxhYmVsPnt7ICdDQUlTU0VfVEVTVC5DVVNUT01FUl9JRCcgfCB0cmFuc2xhdGV9fTwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgaWQ9ImN1c3RvbWVyLWlkLWNvZGUiIHR5cGU9InRleHQiIHBJbnB1dFRleHQKICAgICAgICAgICAgICAgICBbKG5nTW9kZWwpXT0iY3VzdG9tZXJGaWRlbGl0eUNhcmROdW1iZXIiIHN0eWxlPSJ3aWR0aDogNDAlOyBtYXJnaW4tcmlnaHQ6IDFlbTsiPgogICAgICAgICAgCiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -421,46 +428,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1nLTEyIHVpLW1kLTQiPgogICAgICAgICAgPGxhYmVsPnt7ICdDQUlTU0VfVEVTVC5DVVNUT01FUl9JRCcgfCB0cmFuc2xhdGV9fTwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgaWQ9ImN1c3RvbWVyLWlkLWNvZGUiIHR5cGU9InRleHQiIHBJbnB1dFRleHQKICAgICAgICAgICAgICAgICBbKG5nTW9kZWwpXT0iY3VzdG9tZXJGaWRlbGl0eUNhcmROdW1iZXIiIHN0eWxlPSJ3aWR0aDogNDAlOyBtYXJnaW4tcmlnaHQ6IDFlbTsiPgogICAgICAgICAgCiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">PGJ1dHRvbiBwQnV0dG9uIGlkPSJmaWRlaXR5LWNhcmQtbnVtYmVyLWJ0biIgdHlwZT0iYnV0dG9uIiAoY2xpY2spPSJnZXRDdXN0b21lckluZm8oKSIKICAgICAgICAgICAgICAgICAgbGFiZWw9Int7ICdDQUlTU0VfVEVTVC5HRVRfSU5GTycgfCB0cmFuc2xhdGUgfX0iCiAgICAgICAgICAgICAgICAgIFtkaXNhYmxlZF09ImN1c3RvbWVyRmlkZWxpdHlDYXJkTnVtYmVyLmxlbmd0aDwxIj48L2J1dHRvbj4K</text>
       </register>
       <register name="4" type="4">
-        <text>kafka.hosts=10.80.145.173:9092
-kafka.groupid=</text>
+        <text encoding="base64">CiAgICAgICAgICA8bGFiZWw+e3sgJ0NBSVNTRV9URVNULkNVU1RPTUVSX0lEJyB8IHRyYW5zbGF0ZX19PC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCBpZD0iY3VzdG9tZXItaWQtY29kZSIgdHlwZT0idGV4dCIgcElucHV0VGV4dAogICAgICAgICAgICAgICAgIFsobmdNb2RlbCldPSJjdXN0b21lckZpZGVsaXR5Q2FyZE51bWJlciIgc3R5bGU9IndpZHRoOiA0MCU7IG1hcmdpbi1yaWdodDogMWVtOyI+CiAgICAgICAgICA8YnV0dG9uIHBCdXR0b24gaWQ9ImZpZGVpdHktY2FyZC1udW1iZXItYnRuIiB0eXBlPSJidXR0b24iIChjbGljayk9ImdldEN1c3RvbWVySW5mbygpIgogICAgICAgICAgICAgICAgICBsYWJlbD0ie3sgJ0NBSVNTRV9URVNULkdFVF9JTkZPJyB8IHRyYW5zbGF0ZSB9fSIKICAgICAgICAgICAgICAgICAgW2Rpc2FibGVkXT0iY3VzdG9tZXJGaWRlbGl0eUNhcmROdW1iZXIubGVuZ3RoPDEiPjwvYnV0dG9uPgogICAgICAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCmthZmthLmhvc3RzPTEwLjgwLjE0NS4yMzk6OTA5MgprYWZrYS5ncm91cGlkPWNlbnRyYWwtcmVzdApwb3N0Z3Jlc3FsLmhvc3Q9MTAuODAuMTQ1LjIzOQo9PT09PT09Cg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0idWktZy0xMiB1aS1tZC00Ij4KICAgICAgICAgIDxsYWJlbD57eyAnQ0FJU1NFX1RFU1QuQ1VTVE9NRVJfSUQnIHwgdHJhbnNsYXRlfX08L2xhYmVsPgogICAgICAgICAgPGlucHV0IGlkPSJjdXN0b21lci1pZC1jb2RlIiB0eXBlPSJ0ZXh0IiBwSW5wdXRUZXh0CiAgICAgICAgICAgICAgICAgWyhuZ01vZGVsKV09ImN1c3RvbWVyRmlkZWxpdHlDYXJkTnVtYmVyIiBzdHlsZT0id2lkdGg6IDQwJTsgbWFyZ2luLXJpZ2h0OiAxZW07Ij4KICAgICAgICAgIDxidXR0b24gcEJ1dHRvbiBpZD0iY3VzdG9tZXItaWQtY29kZS1idG4iIHR5cGU9ImJ1dHRvbiIgKGNsaWNrKT0iZ2V0Q3VzdG9tZXJJbmZvKCkiCiAgICAgICAgICAgICAgICAgIGxhYmVsPSJ7eyAnQ0FJU1NFX1RFU1QuR0VUX0lORk8nIHwgdHJhbnNsYXRlIH19IgogICAgICAgICAgICAgICAgICBbZGlzYWJsZWRdPSJjdXN0b21lckZpZGVsaXR5Q2FyZE51bWJlci5sZW5ndGg8MSI+PC9idXR0b24+CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50T2JqZWN0LmdldENvbnRlbnQoKS5wdXQoIiIpCg==</text>
+        <text encoding="base64">PHAtcGFuZWwgaGVhZGVyPSJ7eydDQUlTU0VfVEVTVC5IRUFERVJfUEFORUwnIHwgdHJhbnNsYXRlfX0iIFt0b2dnbGVhYmxlXT0idHJ1ZSIKICAgICAgICAgICAgIFtzdHlsZV09InsnbWFyZ2luJzonMjBweCA1MHB4J30iPgogICAgICA8ZGl2IGNsYXNzPSJ1aS1nIj4KICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1nLTEyIHVpLW1kLTQiPgogICAgICAgICAgPGxhYmVsPnt7ICdDQUlTU0VfVEVTVC5TSVRFX0xBQkVMJyB8IHRyYW5zbGF0ZSB9fTwvbGFiZWw+CiAgICAgICAgICA8YXBwLXJvbWVzLWF1dG9jb21wbGV0ZSBbc2V0dGluZ3NdPSJzZXR0aW5ncyIgWyhzZWxlY3RlZEVudGl0eSldPSJzZWxlY3RlZFNpdGUiPgogICAgICAgICAgPC9hcHAtcm9tZXMtYXV0b2NvbXBsZXRlPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9InVpLWctMTIgdWktbWQtNCI+CiAgICAgICAgICA8bGFiZWw+e3snQ0FJU1NFX1RFU1QuREFURV9MQUJFTCcgfCB0cmFuc2xhdGUgfX08L2xhYmVsPgogICAgICAgICAgPHAtY2FsZW5kYXIgWyhuZ01vZGVsKV09ImRhdGUiIGRhdGVGb3JtYXQ9ImRkL21tL3l5IiBbc2hvd0ljb25dPSJ0cnVlIiBbc2hvd1RpbWVdPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgW2xvY2FsZV09ImNhbGVuZGFyTGFiZWxzIiAob25CbHVyKT0icHJpY2VNZXNzYWdlPW51bGwiPjwvcC1jYWxlbmRhcj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1nLTEyIHVpLW1kLTQiPgogICAgICAgICAgPGxhYmVsPnt7ICdDQUlTU0VfVEVTVC5OVU1fQ0FSRF9GSURFTElURV9MQUJFTCcgfCB0cmFuc2xhdGV9fTwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgaWQ9ImZpZGVsaXR5LWNhcmQtbnVtYmVyIiB0eXBlPSJ0ZXh0IiBwSW5wdXRUZXh0CiAgICAgICAgICAgICAgICAgWyhuZ01vZGVsKV09ImN1c3RvbWVyRmlkZWxpdHlDYXJkTnVtYmVyIiBzdHlsZT0id2lkdGg6IDQwJTsgbWFyZ2luLXJpZ2h0OiAxZW07Ij4KICAgICAgICAgIDxidXR0b24gcEJ1dHRvbiBpZD0iZmlkZWl0eS1jYXJkLW51bWJlci1idG4iIHR5cGU9ImJ1dHRvbiIgKGNsaWNrKT0iZ2V0Q3VzdG9tZXJJbmZvKCkiCiAgICAgICAgICAgICAgICAgIGxhYmVsPSJ7eyAnQ0FJU1NFX1RFU1QuR0VUX0lORk8nIHwgdHJhbnNsYXRlIH19IgogICAgICAgICAgICAgICAgICBbZGlzYWJsZWRdPSJjdXN0b21lckZpZGVsaXR5Q2FyZE51bWJlci5sZW5ndGg8MSI+PC9idXR0b24+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0idWktZy0xMiB1aS1tZC00Ij4KICAgICAgICAgIDxsYWJlbD57eyAnQ0FJU1NFX1RFU1QuQ1VTVE9NRVJfSUQnIHwgdHJhbnNsYXRlfX08L2xhYmVsPgogICAgICAgICAgPGlucHV0IGlkPSJjdXN0b21lci1pZC1jb2RlIiB0eXBlPSJ0ZXh0IiBwSW5wdXRUZXh0CiAgICAgICAgICAgICAgICAgWyhuZ01vZGVsKV09ImN1c3RvbWVyRmlkZWxpdHlDYXJkTnVtYmVyIiBzdHlsZT0id2lkdGg6IDQwJTsgbWFyZ2luLXJpZ2h0OiAxZW07Ij4KICAgICAgICAgIDxidXR0b24gcEJ1dHRvbiBpZD0iY3VzdG9tZXItaWQtY29kZS1idG4iIHR5cGU9ImJ1dHRvbiIgKGNsaWNrKT0iZ2V0Q3VzdG9tZXJJbmZvKCkiCiAgICAgICAgICAgICAgICAgIGxhYmVsPSJ7eyAnQ0FJU1NFX1RFU1QuR0VUX0lORk8nIHwgdHJhbnNsYXRlIH19IgogICAgICAgICAgICAgICAgICBbZGlzYWJsZWRdPSJjdXN0b21lckZpZGVsaXR5Q2FyZE51bWJlci5sZW5ndGg8MSI+PC9idXR0b24+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9wLXBhbmVsPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0idWktZy0xMiB1aS1tZC00Ij4KICAgICAgICAgIDxsYWJlbD57eyAnQ0FJU1NFX1RFU1QuQ1VTVE9NRVJfSUQnIHwgdHJhbnNsYXRlfX08L2xhYmVsPgogICAgICAgICAgPGlucHV0IGlkPSJjdXN0b21lci1pZC1jb2RlIiB0eXBlPSJ0ZXh0IiBwSW5wdXRUZXh0CiAgICAgICAgICAgICAgICAgWyhuZ01vZGVsKV09ImN1c3RvbWVyRmlkZWxpdHlDYXJkTnVtYmVyIiBzdHlsZT0id2lkdGg6IDQwJTsgbWFyZ2luLXJpZ2h0OiAxZW07Ij4KICAgICAgICAgIAogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHNldFNpdGVzUGVuZGluZ0J5U2VsZWN0aW9uSWQoc2VsZWN0aW9uSWQ6IENvZGUpOiAuLi4K</text>
+        <text encoding="base64">PGJ1dHRvbiBwQnV0dG9uIGlkPSJjdXN0b21lci1pZC1jb2RlLWJ0biIgdHlwZT0iYnV0dG9uIiAoY2xpY2spPSJnZXRDdXN0b21lckluZm8oKSIKICAgICAgICAgICAgICAgICAgbGFiZWw9Int7ICdDQUlTU0VfVEVTVC5HRVRfSU5GTycgfCB0cmFuc2xhdGUgfX0iCiAgICAgICAgICAgICAgICAgIFtkaXNhYmxlZF09ImN1c3RvbWVyRmlkZWxpdHlDYXJkTnVtYmVyLmxlbmd0aDwxIj48L2J1dHRvbj4K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBbPzIwMTctPzA1LT8wNSA5OjI3IEFNXSBHb3Rmcm9pLCBTZWJhc3RpZW46Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICA8bGFiZWw+e3sgJ0NBSVNTRV9URVNULkNVU1RPTUVSX0lEJyB8IHRyYW5zbGF0ZX19PC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCBpZD0iY3VzdG9tZXItaWQtY29kZSIgdHlwZT0idGV4dCIgcElucHV0VGV4dAogICAgICAgICAgICAgICAgIFsobmdNb2RlbCldPSJjdXN0b21lckZpZGVsaXR5Q2FyZE51bWJlciIgc3R5bGU9IndpZHRoOiA0MCU7IG1hcmdpbi1yaWdodDogMWVtOyI+CiAgICAgICAgICA8YnV0dG9uIHBCdXR0b24gaWQ9ImN1c3RvbWVyLWlkLWNvZGUtYnRuIiB0eXBlPSJidXR0b24iIChjbGljayk9ImdldEN1c3RvbWVySW5mbygpIgogICAgICAgICAgICAgICAgICBsYWJlbD0ie3sgJ0NBSVNTRV9URVNULkdFVF9JTkZPJyB8IHRyYW5zbGF0ZSB9fSIKICAgICAgICAgICAgICAgICAgW2Rpc2FibGVkXT0iY3VzdG9tZXJGaWRlbGl0eUNhcmROdW1iZXIubGVuZ3RoPDEiPjwvYnV0dG9uPgogICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>h marks</text>
       </register>
     </registers>
     <search>
-      <last-search>fi</last-search>
+      <last-search>se</last-search>
       <last-offset />
-      <last-pattern>fi</last-pattern>
+      <last-pattern>se</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>'co</entry>
-        <entry>listO</entry>
-        <entry>off</entry>
         <entry>sa</entry>
         <entry>site</entry>
         <entry>null</entry>
@@ -478,6 +481,9 @@ kafka.groupid=</text>
         <entry>cus</entry>
         <entry>&quot;</entry>
         <entry>fi</entry>
+        <entry>CA</entry>
+        <entry>\.</entry>
+        <entry>se</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
@@ -487,7 +493,6 @@ kafka.groupid=</text>
         <entry>set nornu</entry>
         <entry>s/getID/getId/g</entry>
         <entry encoding="base64">JzwsJz5zL2dldElEL2dldElk</entry>
-        <entry>marks</entry>
         <entry>seq</entry>
         <entry>req</entry>
         <entry>reg</entry>
@@ -498,6 +503,8 @@ kafka.groupid=</text>
         <entry>v</entry>
         <entry>vsplit</entry>
         <entry>q</entry>
+        <entry>marks</entry>
+        <entry>h marks</entry>
         <entry>Update</entry>
       </history-cmd>
       <history-expr />
@@ -578,6 +585,12 @@ kafka.groupid=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>pressed F4</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
