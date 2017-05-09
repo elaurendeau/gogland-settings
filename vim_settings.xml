@@ -3,11 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/test/java/com/cgi/rxp/manager/impl/ValueChangeOperatorManagerImplTest.java" timestamp="1493303802381">
-        <mark key="'" line="126" column="24" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-rest/src/main/java/com/cgi/rxp/spring/controllers/TransactionController.java" timestamp="1494348432327">
+        <mark key="'" line="32" column="45" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" timestamp="1494343202872">
         <mark key="'" line="22" column="35" />
@@ -26,45 +23,11 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="7" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1493818819199">
+      <file name="/a.dummy" timestamp="1494349251115">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" timestamp="1494257591024">
         <mark key="'" line="85" column="8" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/product-list/product-list.component.ts" timestamp="1493404206241">
-        <mark key="'" line="69" column="59" />
-        <mark key="[" line="71" column="8" />
-        <mark key="]" line="71" column="14" />
-        <mark key="^" line="71" column="14" />
-        <mark key="." line="71" column="14" />
-      </file>
-      <file name="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" timestamp="1493863056706">
-        <mark key="'" line="15" column="32" />
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="32" />
-        <mark key="^" line="15" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/offer-detail/offer-detail.component.ts" timestamp="1493991070824">
-        <mark key="'" line="262" column="39" />
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="295" column="0" />
-        <mark key="." line="295" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_services/engine.service.ts" timestamp="1494344121631">
-        <mark key="'" line="91" column="10" />
-        <mark key="[" line="27" column="68" />
-        <mark key="]" line="27" column="77" />
-        <mark key="." line="27" column="77" />
-        <mark key="^" line="27" column="77" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/settings-attributes-detail/settings-attributes-detail.component.ts" timestamp="1493994029061">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="348" column="26" />
-        <mark key="]" line="348" column="8" />
-        <mark key="^" line="348" column="8" />
-        <mark key="." line="348" column="8" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-core/src/main/java/com/cgi/rxp/spring/controllers/AbstractSyncController.java" timestamp="1493318818578">
         <mark key="'" line="24" column="15" />
@@ -72,16 +35,6 @@
         <mark key="]" line="39" column="27" />
         <mark key="^" line="24" column="15" />
         <mark key="." line="39" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/clients/AbstractSyncRestClient.java" timestamp="1494256883261">
-        <mark key="'" line="73" column="11" />
-        <mark key="[" line="101" column="68" />
-        <mark key="]" line="101" column="68" />
-        <mark key="^" line="101" column="67" />
-        <mark key="." line="101" column="68" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-customer-rest/src/main/java/com/cgi/rxp/kafka/impl/CustomerListener.java" timestamp="1494261073363">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/impl/inner/Product.java" timestamp="1493327267217">
         <mark key="'" line="103" column="18" />
@@ -97,6 +50,108 @@
         <mark key="." line="437" column="41" />
         <mark key="^" line="437" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" timestamp="1494001691144">
+        <mark key="'" line="204" column="24" />
+        <mark key="[" line="208" column="46" />
+        <mark key="]" line="233" column="26" />
+        <mark key="." line="233" column="26" />
+        <mark key="^" line="233" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" timestamp="1494271388126">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="37" column="30" />
+        <mark key="." line="37" column="30" />
+        <mark key="^" line="37" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/SelectionController.java" timestamp="1493912969565">
+        <mark key="'" line="94" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" timestamp="1493831452139">
+        <mark key="'" line="30" column="17" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="1" />
+        <mark key="^" line="227" column="1" />
+        <mark key="." line="227" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/kafka/impl/TransactionListenerImpl.java" timestamp="1494349116497" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/SiteRestRedisDAOImpl.java" timestamp="1494256846724">
+        <mark key="'" line="30" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ProductManagerImpl.java" timestamp="1493307024458">
+        <mark key="'" line="108" column="37" />
+        <mark key="[" line="109" column="68" />
+        <mark key="]" line="109" column="68" />
+        <mark key="." line="109" column="68" />
+        <mark key="^" line="58" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/resources/config.properties" timestamp="1494256484283">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/engine/TransactionConstants.java" timestamp="1493321222530">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+        <mark key="^" line="14" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/kafka/impl/MandateListenerImpl.java" timestamp="1494349213765">
+        <mark key="'" line="35" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/impl/inner/TransactionProduct.java" timestamp="1493307656970">
+        <mark key="'" line="104" column="25" />
+        <mark key="[" line="103" column="8" />
+        <mark key="]" line="103" column="8" />
+        <mark key="^" line="104" column="25" />
+        <mark key="." line="103" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/TopicConstants.java" timestamp="1494349228754">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="28" />
+        <mark key="^" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/product-list/product-list.component.ts" timestamp="1493404206241">
+        <mark key="'" line="69" column="59" />
+        <mark key="[" line="71" column="8" />
+        <mark key="]" line="71" column="14" />
+        <mark key="^" line="71" column="14" />
+        <mark key="." line="71" column="14" />
+      </file>
+      <file name="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" timestamp="1493863056706">
+        <mark key="'" line="15" column="32" />
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+        <mark key="^" line="15" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_services/engine.service.ts" timestamp="1494344121631">
+        <mark key="'" line="91" column="10" />
+        <mark key="[" line="27" column="68" />
+        <mark key="]" line="27" column="77" />
+        <mark key="." line="27" column="77" />
+        <mark key="^" line="27" column="77" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/settings-attributes-detail/settings-attributes-detail.component.ts" timestamp="1493994029061">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="348" column="26" />
+        <mark key="]" line="348" column="8" />
+        <mark key="^" line="348" column="8" />
+        <mark key="." line="348" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/clients/AbstractSyncRestClient.java" timestamp="1494256883261">
+        <mark key="'" line="73" column="11" />
+        <mark key="[" line="101" column="68" />
+        <mark key="]" line="101" column="68" />
+        <mark key="^" line="101" column="67" />
+        <mark key="." line="101" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-customer-rest/src/main/java/com/cgi/rxp/kafka/impl/CustomerListener.java" timestamp="1494261073363">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/test/java/com/cgi/rxp/manager/impl/TransactionManagerImplTest.java" timestamp="1493304428715">
         <mark key="'" line="56" column="1" />
         <mark key="[" line="162" column="38" />
@@ -106,12 +161,6 @@
       </file>
       <file name="/JavaScript Console" timestamp="1494344118694">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/LengthOperatorManagerImpl.java" timestamp="1493818604637">
-        <mark key="'" line="55" column="11" />
-        <mark key="[" line="23" column="10" />
-        <mark key="]" line="23" column="10" />
-        <mark key="." line="23" column="10" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/OrOperatorManagerImpl.java" timestamp="1493827442478">
         <mark key="'" line="22" column="42" />
@@ -136,31 +185,8 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" timestamp="1494001691144">
-        <mark key="'" line="204" column="24" />
-        <mark key="[" line="208" column="46" />
-        <mark key="]" line="233" column="26" />
-        <mark key="." line="233" column="26" />
-        <mark key="^" line="233" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CountOperatorManagerImpl.java" timestamp="1494271388126">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="37" column="26" />
-        <mark key="]" line="37" column="30" />
-        <mark key="." line="37" column="30" />
-        <mark key="^" line="37" column="30" />
-      </file>
       <file name="/Dummy.txt" timestamp="1494012547473">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/SelectionController.java" timestamp="1493912969565">
-        <mark key="'" line="94" column="45" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/OfferController.java" timestamp="1493407727149">
-        <mark key="'" line="164" column="17" />
-        <mark key="[" line="108" column="27" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" timestamp="1493836782175">
         <mark key="'" line="41" column="37" />
@@ -169,13 +195,6 @@
         <mark key="^" line="41" column="37" />
         <mark key="." line="41" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" timestamp="1493831452139">
-        <mark key="'" line="30" column="17" />
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="1" />
-        <mark key="^" line="227" column="1" />
-        <mark key="." line="227" column="1" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" timestamp="1494271129878">
         <mark key="'" line="71" column="4" />
         <mark key="[" line="3946" column="52" />
@@ -183,16 +202,7 @@
         <mark key="." line="3946" column="55" />
         <mark key="^" line="3946" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/SiteRestRedisDAOImpl.java" timestamp="1494256846724">
-        <mark key="'" line="30" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ProductManagerImpl.java" timestamp="1493307024458">
-        <mark key="'" line="108" column="37" />
-        <mark key="[" line="109" column="68" />
-        <mark key="]" line="109" column="68" />
-        <mark key="." line="109" column="68" />
-        <mark key="^" line="58" column="46" />
-      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-core/src/main/java/com/cgi/rxp/spring/controllers/AbstractDispatcherController.java" timestamp="1494348856957" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" timestamp="1494344203659">
         <mark key="'" line="147" column="63" />
         <mark key="[" line="157" column="69" />
@@ -207,18 +217,6 @@
         <mark key="." line="211" column="77" />
         <mark key="^" line="211" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/MandateCouchbaseServiceImpl.java" timestamp="1493384033237">
-        <mark key="'" line="140" column="48" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/resources/config.properties" timestamp="1494256484283">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="24" />
-        <mark key="^" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/OfferRestRedisDAOImpl.java" timestamp="1493814419772">
         <mark key="[" line="44" column="19" />
         <mark key="]" line="39" column="18" />
@@ -232,25 +230,12 @@
         <mark key="^" line="11" column="48" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/engine/TransactionConstants.java" timestamp="1493321222530">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="14" column="5" />
-        <mark key="^" line="14" column="5" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/FilterManagerTest.java" timestamp="1493926838519">
         <mark key="'" line="53" column="60" />
         <mark key="[" line="50" column="93" />
         <mark key="]" line="50" column="8" />
         <mark key="." line="50" column="8" />
         <mark key="^" line="50" column="8" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_models/action.ts" timestamp="1493990130425">
-        <mark key="'" line="56" column="12" />
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="57" column="8" />
-        <mark key="." line="57" column="8" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_factories/action.factory.ts" timestamp="1493990939904">
         <mark key="'" line="81" column="22" />
@@ -259,25 +244,11 @@
         <mark key="." line="98" column="36" />
         <mark key="^" line="98" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/impl/inner/TransactionProduct.java" timestamp="1493307656970">
-        <mark key="'" line="104" column="25" />
-        <mark key="[" line="103" column="8" />
-        <mark key="]" line="103" column="8" />
-        <mark key="^" line="104" column="25" />
-        <mark key="." line="103" column="8" />
-      </file>
-      <file name="/fragment.java" timestamp="1493912971516">
+      <file name="/fragment.java" timestamp="1494348726950">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="60" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/FilterManagerTest.java" />
-      <jump line="262" column="39" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/offer-detail/offer-detail.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_factories/action.factory.ts" />
-      <jump line="57" column="12" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_models/action.ts" />
-      <jump line="180" column="18" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_factories/action.factory.ts" />
-      <jump line="168" column="29" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_factories/action.factory.ts" />
-      <jump line="170" column="18" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_factories/action.factory.ts" />
       <jump line="93" column="36" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_factories/action.factory.ts" />
       <jump line="76" column="22" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_factories/action.factory.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/selection-detail/selection-detail.component.ts" />
@@ -371,6 +342,13 @@
       <jump line="167" column="102" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="114" column="2" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="147" column="63" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-rest/src/main/java/com/cgi/rxp/spring/controllers/TransactionController.java" />
+      <jump line="32" column="45" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-rest/src/main/java/com/cgi/rxp/spring/controllers/TransactionController.java" />
+      <jump line="18" column="19" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/kafka/impl/MandateListenerImpl.java" />
+      <jump line="21" column="35" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/kafka/impl/MandateListenerImpl.java" />
+      <jump line="25" column="11" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/kafka/impl/MandateListenerImpl.java" />
+      <jump line="29" column="60" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/kafka/impl/MandateListenerImpl.java" />
+      <jump line="35" column="23" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/kafka/impl/MandateListenerImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -380,7 +358,7 @@
         <text>SiteStrucuture</text>
       </register>
       <register name="/" type="4">
-        <text>call</text>
+        <text>mandate</text>
       </register>
       <register name="0" type="4">
         <text>y(date, site, car</text>
@@ -465,16 +443,14 @@
       </register>
     </registers>
     <search>
-      <last-search>call</last-search>
+      <last-search>mandate</last-search>
       <last-offset />
-      <last-pattern>call</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>mandate</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>des</entry>
-        <entry>descr</entry>
         <entry>descri</entry>
         <entry>NU</entry>
         <entry>cus</entry>
@@ -493,6 +469,8 @@
         <entry>constructSite</entry>
         <entry>site</entry>
         <entry>call</entry>
+        <entry>fina</entry>
+        <entry>mandate</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
