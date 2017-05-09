@@ -101,6 +101,13 @@
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/kafka/impl/MandateListenerImpl.java" timestamp="1494349213765">
         <mark key="'" line="35" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/TransactionManagerImpl.java" timestamp="1494354802044">
+        <mark key="'" line="77" column="5" />
+        <mark key="[" line="77" column="43" />
+        <mark key="]" line="78" column="5" />
+        <mark key="^" line="78" column="5" />
+        <mark key="." line="78" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/impl/inner/TransactionProduct.java" timestamp="1493307656970">
         <mark key="'" line="104" column="25" />
         <mark key="[" line="103" column="8" />
@@ -247,7 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1759" column="46" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
       <jump line="1116" column="70" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
       <jump line="1117" column="31" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
       <jump line="1758" column="14" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" />
@@ -347,6 +353,7 @@
       <jump line="46" column="3" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-rest/src/main/java/com/cgi/rxp/spring/controllers/TransactionController.java" />
       <jump line="148" column="92" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="294" column="4" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
+      <jump line="77" column="5" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/TransactionManagerImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -359,7 +366,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>dd</text>
+        <text>null</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuc2l0ZUF1dG9Db21wbGV0ZVNldHRpbmdzLmVudGl0eSA9ICdzaXRlJwogICAgdGhpcy5zaXRlQXV0b0NvbXBsZXRlU2V0dGluZ3MuZGlzcGxheWVkID0gdHJ1ZTsK</text>
@@ -446,9 +453,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dd</last-search>
+      <last-search>null</last-search>
       <last-offset />
-      <last-pattern>dd</last-pattern>
+      <last-pattern>null</last-pattern>
       <last-replace>this.cartData, this.transactionId)</last-replace>
       <last-substitute>this.cartData)</last-substitute>
       <last-dir>1</last-dir>
@@ -456,7 +463,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selectedProduct</entry>
         <entry>selected</entry>
         <entry>selectedSite</entry>
         <entry>si</entry>
@@ -476,6 +482,7 @@
         <entry>this.cartData</entry>
         <entry>this.cartData)</entry>
         <entry>dd</entry>
+        <entry>null</entry>
       </history-search>
       <history-cmd>
         <entry>103</entry>
