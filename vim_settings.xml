@@ -201,13 +201,7 @@
       <file name="/Dummy.txt" timestamp="1494012547473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" timestamp="1494422970155">
-        <mark key="'" line="41" column="37" />
-        <mark key="[" line="41" column="58" />
-        <mark key="]" line="41" column="58" />
-        <mark key="^" line="41" column="37" />
-        <mark key="." line="41" column="58" />
-      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" timestamp="1494422970155" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" timestamp="1494271129878">
         <mark key="'" line="71" column="4" />
         <mark key="[" line="3946" column="52" />
@@ -216,11 +210,6 @@
         <mark key="^" line="3946" column="55" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/CustomerRestRedisDAOImpl.java" timestamp="1494360849089" />
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/OfferServiceImpl.java" timestamp="1494426029043">
-        <mark key="[" line="86" column="101" />
-        <mark key="]" line="86" column="101" />
-        <mark key="." line="86" column="101" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-core/src/main/java/com/cgi/rxp/spring/controllers/AbstractDispatcherController.java" timestamp="1494348856957" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/RedisPreloadServiceImpl.java" timestamp="1494424390381">
         <mark key="'" line="71" column="59" />
