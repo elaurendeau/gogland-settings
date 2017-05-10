@@ -32,12 +32,12 @@
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/util/ClassesUtil.java" timestamp="1494421116466">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" timestamp="1494430843803">
-        <mark key="'" line="108" column="4" />
-        <mark key="[" line="52" column="74" />
-        <mark key="]" line="101" column="46" />
-        <mark key="^" line="101" column="46" />
-        <mark key="." line="101" column="46" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" timestamp="1494444784753">
+        <mark key="'" line="157" column="128" />
+        <mark key="[" line="157" column="4" />
+        <mark key="]" line="157" column="135" />
+        <mark key="^" line="157" column="135" />
+        <mark key="." line="157" column="30" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-core/src/main/java/com/cgi/rxp/spring/controllers/AbstractSyncController.java" timestamp="1493318818578">
         <mark key="'" line="24" column="15" />
@@ -46,7 +46,7 @@
         <mark key="^" line="24" column="15" />
         <mark key="." line="39" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/impl/inner/Product.java" timestamp="1493327267217">
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/impl/inner/Product.java" timestamp="1494442410023">
         <mark key="'" line="103" column="18" />
         <mark key="[" line="131" column="49" />
         <mark key="]" line="95" column="30" />
@@ -74,8 +74,17 @@
         <mark key="." line="37" column="30" />
         <mark key="^" line="37" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/ProductRestRedisDAOImpl.java" timestamp="1494442504351">
+        <mark key="[" line="56" column="12" />
+        <mark key="]" line="56" column="12" />
+        <mark key="." line="56" column="12" />
+        <mark key="^" line="56" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/SelectionController.java" timestamp="1493912969565">
         <mark key="'" line="94" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/impl/Transaction.java" timestamp="1494444350837">
+        <mark key="[" line="34" column="28" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" timestamp="1493831452139">
         <mark key="'" line="30" column="17" />
@@ -104,6 +113,12 @@
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-customer-rest/pom.xml" timestamp="1494420774066">
         <mark key="'" line="81" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/resources/config.properties" timestamp="1494256484283">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/engine/TransactionConstants.java" timestamp="1493321222530">
         <mark key="'" line="17" column="0" />
@@ -198,8 +213,16 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="31" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494012547473">
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_models/selection.ts" timestamp="1493993782770">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1494445339858">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="37" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/ActionManagerImpl.java" timestamp="1494422970155" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SchemaDescriptionTest.java" timestamp="1494271129878">
@@ -209,7 +232,12 @@
         <mark key="." line="3946" column="55" />
         <mark key="^" line="3946" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/CustomerRestRedisDAOImpl.java" timestamp="1494360849089" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/impl/ProductData.java" timestamp="1494442426642" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/CustomerRestRedisDAOImpl.java" timestamp="1494442025336">
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/OfferServiceImpl.java" timestamp="1494432148224">
         <mark key="'" line="85" column="0" />
         <mark key="[" line="86" column="0" />
@@ -232,6 +260,12 @@
         <mark key="]" line="211" column="77" />
         <mark key="." line="211" column="77" />
         <mark key="^" line="211" column="77" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/OfferRestRedisDAOImpl.java" timestamp="1493814419772">
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="39" column="18" />
+        <mark key="." line="39" column="18" />
+        <mark key="^" line="39" column="18" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/constant/PolishConstants.java" timestamp="1493836012994">
         <mark key="'" line="11" column="48" />
@@ -266,8 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="54" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="269" column="23" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="4" column="8" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="59" column="50" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
@@ -366,25 +398,27 @@
       <jump line="32" column="19" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/ICustomerManager.java" />
       <jump line="30" column="33" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/ICustomerManager.java" />
       <jump line="89" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/OfferServiceImpl.java" />
+      <jump line="156" column="4" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" />
+      <jump line="159" column="128" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3Rpb25EdG9zLmZvckVhY2goZHRvIC0+IGN1c3RvbWVyT2ZmZXJDb2Rlcy5hZGRBbGwoZHRvLmdldE9mZmVycygpKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0.80.145.239</text>
       </register>
       <register name="h" type="4">
         <text>Service</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDw+KG9mZmVyQ291bnQpOw==</text>
+        <text>0.80.145.239</text>
       </register>
       <register name="/" type="4">
-        <text>id</text>
+        <text>left</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjdXN0b21lck1hbmFnZXIuZ2V0Q29udGV4dE9mZmVycyh0cmFuc2FjdGlvbi5nZXRDdXN0b21lcigpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3Rpb25EdG9zLmZvckVhY2goZHRvIC0+IGN1c3RvbWVyT2ZmZXJDb2Rlcy5hZGRBbGwoZHRvLmdldE9mZmVycygpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByb2R1Y3QuZ2V0UHJvZHVjdERlYWxMaXN0KCkuc3RyZWFtKCkucmVkdWNlKDAuMCwgKGEsIGIpIC0+IHByb2R1Y3QuZ2V0VG90YWxQcmljZSgpIC0gYi5nZXRQcmljZSgpLCAoYSwgYikgLT4gYSArIGIpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -437,45 +471,44 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3Rpb25EdG9zLmZvckVhY2goZHRvIC0+IGN1c3RvbWVyT2ZmZXJDb2Rlcy5hZGRBbGwoZHRvLmdldE9mZmVycygpKSk7Cg==</text>
+      <register name="3" type="4">
+        <text>{
+        a.get + b
+      }</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIC5mb3JFYWNoKHByb2R1Y3QgLT4gcHJvZHVjdC5nZXRDYW5kaWRhdGVPZmZlckxpc3QoKS5hZGQob2ZmZXJDb2RlKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY3VycmVudE9mZmVyLmdldFByb2R1Y3RMaXN0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFNlbGVjdGlvbkRUTz4gc2VsZWN0aW9uRHRvcyA9IHRyYW5zYWN0aW9uLmdldEN1c3RvbWVyKCkuZ2V0U2VsZWN0aW9ucygpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gQWRkIHRoZSBvZmZlciBvbiB0aGUgcHJvZHVjdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21lck1hbmFnZXIuZ2V0Q29udGV4dE9mZmVycyh0cmFuc2FjdGlvbi5nZXRDdXN0b21lcigpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gT3B0aW9uYWwub2ZOdWxsYWJsZShyZXN0Q2xpZW50LmZpbmRCeUNvZGUoY29kZSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>id</last-search>
+      <last-search>left</last-search>
       <last-offset />
-      <last-pattern>id</last-pattern>
+      <last-pattern>left</last-pattern>
       <last-replace>customer</last-replace>
       <last-substitute>site</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cust</entry>
-        <entry>call</entry>
-        <entry>construc</entry>
         <entry>Transa</entry>
         <entry>this.cartData</entry>
         <entry>this.cartData)</entry>
@@ -493,6 +526,9 @@
         <entry>Service</entry>
         <entry>String</entry>
         <entry>id</entry>
+        <entry>stream</entry>
+        <entry>{</entry>
+        <entry>left</entry>
       </history-search>
       <history-cmd>
         <entry>set rnuno</entry>
