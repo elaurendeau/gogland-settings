@@ -60,6 +60,12 @@
         <mark key="." line="437" column="41" />
         <mark key="^" line="437" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SelectionCouchbaseServiceImpl.java" timestamp="1494524724967">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="1" />
+        <mark key="." line="141" column="1" />
+        <mark key="^" line="141" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" timestamp="1494001691144">
         <mark key="'" line="204" column="24" />
         <mark key="[" line="208" column="46" />
@@ -80,8 +86,9 @@
         <mark key="." line="56" column="12" />
         <mark key="^" line="56" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/SelectionController.java" timestamp="1494510705613">
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/SelectionController.java" timestamp="1494525545448">
         <mark key="'" line="94" column="45" />
+        <mark key="[" line="120" column="36" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/impl/Transaction.java" timestamp="1494444350837">
         <mark key="[" line="34" column="28" />
@@ -401,7 +408,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">RG9jdW1lbnROb3RGb3VuZEV4Y2VwdGlvbiA=</text>
+        <text encoding="base64">ICAgKiAobm9uLUphdmFkb2MpCiAgICogCiAgICogQHNlZQogICAqIGNvbS5jZ2kucm9tZXMuZnJvbWVzd29yay5jb3VjaGJhc2Uuc2VydmljZS5pbXBsLkFic3RyYWN0Q291Y2hiYXNlU2VydmljZSMKICAgKiB1cGRhdGUoY29tLmNnaS5yb21lcy5mcm9tZXN3b3JrLmNvdWNoYmFzZS5kb2N1bWVudC5Eb2N1bWVudE9iamVjdCwKICAgKiBqYXZhLmxhbmcuU3RyaW5nKQogICAqLwogIEBPdmVycmlkZQogIHB1YmxpYyBEb2N1bWVudE9iamVjdCB1cGRhdGUoRG9jdW1lbnRPYmplY3QgZG9jdW1lbnRPYmplY3QsIFN0cmluZyB1c2VybmFtZSkKICAgICAgdGhyb3dzIERvY3VtZW50Tm90Rm91bmRFeGNlcHRpb24sIFdyb25nVHlwZUV4Y2VwdGlvbiwgSW52YWxpZEZvcm1hdEV4Y2VwdGlvbiwgSU9FeGNlcHRpb24sCiAgICAgIEZ1bmN0aW9uYWxFeGNlcHRpb24sIE5vU3VjaEFsZ29yaXRobUV4Y2VwdGlvbiB7CiAgICBTZWxlY3Rpb25EVE8gc2VsZWN0aW9uID0gZG9jdW1lbnRPYmplY3RUb0RUTyhkb2N1bWVudE9iamVjdCk7CiAgICBkb2N1bWVudE9iamVjdC5zZXRIYXNoY29kZShzZWxlY3Rpb24uaGFzaE1lKCkpOwogICAgU3RyaW5nIG9sZEhhc2ggPSBmaW5kSGFzaGNvZGVCeUlkKGRvY3VtZW50T2JqZWN0LmdldElkKCkpOwogICAgZG9jdW1lbnRPYmplY3QgPSBzdXBlci51cGRhdGUoZG9jdW1lbnRPYmplY3QsIHVzZXJuYW1lKTsKICAgIGlmICghcw==</text>
       </register>
       <register name="h" type="4">
         <text>Service</text>
@@ -415,8 +422,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjdXN0b21lck1hbmFnZXIuZ2V0Q29udGV4dE9mZmVycyh0cmFuc2FjdGlvbi5nZXRDdXN0b21lcigpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgKiAobm9uLUphdmFkb2MpCiAgICogCiAgICogQHNlZQogICAqIGNvbS5jZ2kucm9tZXMuZnJvbWVzd29yay5jb3VjaGJhc2Uuc2VydmljZS5pbXBsLkFic3RyYWN0Q291Y2hiYXNlU2VydmljZSMKICAgKiB1cGRhdGUoY29tLmNnaS5yb21lcy5mcm9tZXN3b3JrLmNvdWNoYmFzZS5kb2N1bWVudC5Eb2N1bWVudE9iamVjdCwKICAgKiBqYXZhLmxhbmcuU3RyaW5nKQogICAqLwogIEBPdmVycmlkZQogIHB1YmxpYyBEb2N1bWVudE9iamVjdCB1cGRhdGUoRG9jdW1lbnRPYmplY3QgZG9jdW1lbnRPYmplY3QsIFN0cmluZyB1c2VybmFtZSkKICAgICAgdGhyb3dzIERvY3VtZW50Tm90Rm91bmRFeGNlcHRpb24sIFdyb25nVHlwZUV4Y2VwdGlvbiwgSW52YWxpZEZvcm1hdEV4Y2VwdGlvbiwgSU9FeGNlcHRpb24sCiAgICAgIEZ1bmN0aW9uYWxFeGNlcHRpb24sIE5vU3VjaEFsZ29yaXRobUV4Y2VwdGlvbiB7CiAgICBTZWxlY3Rpb25EVE8gc2VsZWN0aW9uID0gZG9jdW1lbnRPYmplY3RUb0RUTyhkb2N1bWVudE9iamVjdCk7CiAgICBkb2N1bWVudE9iamVjdC5zZXRIYXNoY29kZShzZWxlY3Rpb24uaGFzaE1lKCkpOwogICAgU3RyaW5nIG9sZEhhc2ggPSBmaW5kSGFzaGNvZGVCeUlkKGRvY3VtZW50T2JqZWN0LmdldElkKCkpOwogICAgZG9jdW1lbnRPYmplY3QgPSBzdXBlci51cGRhdGUoZG9jdW1lbnRPYmplY3QsIHVzZXJuYW1lKTsKICAgIGlmICghcw==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -467,31 +474,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgICBUT0RPIGFkZCBudWxsIGNoZWNrCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgT3B0aW9uYWw8Q3VzdG9tZXI+IGN1c3RvbWVyID0gY3VzdG9tZXJNYW5hZ2VyLmdldEJ5Q29kZSh0cmFuc2FjdGlvbi5nZXRDdXN0b21lcigpLmdldENvZGUoKSk7CgogICAgICBpZiAoY3VzdG9tZXIuaXNQcmVzZW50KCkpIHsKICAgICAgICB0cmFuc2FjdGlvbi5zZXRDdXN0b21lcihjdXN0b21lci5nZXQoKSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigiQ3VzdG9tZXIgbm90IGZvdW5kIik7CiAgICAgIH0K</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLy8gICAgICBUT0RPIGFkZCBudWxsIGNoZWNrCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">cHRpb25hbDxDdXN0b21lcj4gY3VzdG9tZXIgPSBjdXN0b21lck1hbmFnZXIuZ2V0QnlDb2RlKHRyYW5zYWN0aW9uLmdldEN1c3RvbWVyKCkuZ2V0Q29kZSgpKTsKCiAgICAgIGlmIChjdXN0b21lci5pc1ByZXNlbnQoKSkgewogICAgICAgIHRyYW5zYWN0aW9uLnNldEN1c3RvbWVyKGN1c3RvbWVyLmdldCgpKTsKICAgICAgfSBlbHNlIHsKICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJDdXN0b21lciBub3QgZm91bmQiKTsKICAgICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgT3B0aW9uYWw8Q3VzdG9tZXI+IGN1c3RvbWVyID0gY3VzdG9tZXJNYW5hZ2VyLmdldEJ5Q29kZSh0cmFuc2FjdGlvbi5nZXRDdXN0b21lcigpLmdldENvZGUoKSk7CgogICAgICBpZiAoY3VzdG9tZXIuaXNQcmVzZW50KCkpIHsKICAgICAgICB0cmFuc2FjdGlvbi5zZXRDdXN0b21lcihjdXN0b21lci5nZXQoKSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigiQ3VzdG9tZXIgbm90IGZvdW5kIik7CiAgICAgIH0K</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">cHRpb25hbDxDdXN0b21lcj4gY3VzdG9tZXIgPSBjdXN0b21lck1hbmFnZXIuZ2V0QnlDb2RlKHRyYW5zYWN0aW9uLmdldEN1c3RvbWVyKCkuZ2V0Q29kZSgpKTsKCiAgICAgIGlmIChjdXN0b21lci5pc1ByZXNlbnQoKSkgewogICAgICAgIHRyYW5zYWN0aW9uLnNldEN1c3RvbWVyKGN1c3RvbWVyLmdldCgpKTsKICAgICAgfSBlbHNlIHsKICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJDdXN0b21lciBub3QgZm91bmQiKTsKICAgICAg</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">IAogICAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgT3B0aW9uYWw8Q3VzdG9tZXI+IGN1c3RvbWVyID0gY3VzdG9tZXJNYW5hZ2VyLmdldEJ5Q29kZSh0cmFuc2FjdGlvbi5nZXRDdXN0b21lcigpLmdldENvZGUoKSk7CgogICAgICBpZiAoY3VzdG9tZXIuaXNQcmVzZW50KCkpIHsKICAgICAgICB0cmFuc2FjdGlvbi5zZXRDdXN0b21lcihjdXN0b21lci5nZXQoKSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigiQ3VzdG9tZXIgbm90IGZvdW5kIik7CiAgICAgIH0K</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgIAogICAgICB9Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgT3B0aW9uYWw8Q3VzdG9tZXI+IGN1c3RvbWVyID0gY3VzdG9tZXJNYW5hZ2VyLmdldEJ5Q29kZSh0cmFuc2FjdGlvbi5nZXRDdXN0b21lcigpLmdldENvZGUoKSk7CgogICAgICBpZiAoY3VzdG9tZXIuaXNQcmVzZW50KCkpIHsKICAgICAgICB0cmFuc2FjdGlvbi5zZXRDdXN0b21lcihjdXN0b21lci5nZXQoKSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigiQ3VzdG9tZXIgbm90IGZvdW5kIik7CiAgICAgIH0K</text>
-      </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -501,7 +508,7 @@
       <last-replace>customer</last-replace>
       <last-substitute>site</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -527,8 +534,6 @@
         <entry>f</entry>
       </history-search>
       <history-cmd>
-        <entry>set rnuno</entry>
-        <entry>set nornu</entry>
         <entry>s/getID/getId/g</entry>
         <entry encoding="base64">JzwsJz5zL2dldElEL2dldElk</entry>
         <entry>seq</entry>
@@ -544,9 +549,11 @@
         <entry>%s/this.cartData)/this.cartData, this.transactionId)/g</entry>
         <entry>%s/Site/Customer/g</entry>
         <entry>%s/site/customer/g</entry>
-        <entry>noh</entry>
         <entry>reg</entry>
         <entry>Update</entry>
+        <entry>set syntax=json</entry>
+        <entry>execute '%! python -m json.tool'</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
