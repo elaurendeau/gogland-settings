@@ -80,7 +80,7 @@
         <mark key="." line="56" column="12" />
         <mark key="^" line="56" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/SelectionController.java" timestamp="1493912969565">
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/SelectionController.java" timestamp="1494510705613">
         <mark key="'" line="94" column="45" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/impl/Transaction.java" timestamp="1494444350837">
@@ -191,8 +191,8 @@
       <file name="/JavaScript Console" timestamp="1494351543495">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/node/SchemaDescriptionTest.java" timestamp="1494418760430">
-        <mark key="'" line="70" column="0" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/node/SchemaDescriptionTest.java" timestamp="1494510840940">
+        <mark key="'" line="72" column="36" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/OrOperatorManagerImpl.java" timestamp="1493827442478">
         <mark key="'" line="22" column="42" />
@@ -217,7 +217,7 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494508505920">
+      <file name="/Dummy.txt" timestamp="1494509390331">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="37" />
@@ -293,13 +293,11 @@
         <mark key="." line="98" column="36" />
         <mark key="^" line="98" column="36" />
       </file>
-      <file name="/fragment.java" timestamp="1494426150150">
+      <file name="/fragment.java" timestamp="1494510706626">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="9" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="44" column="2" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="51" column="9" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="56" column="9" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="15" column="29" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" />
@@ -398,6 +396,8 @@
       <jump line="32" column="27" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/OfferServiceImpl.java" />
       <jump line="96" column="8" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/parser/ParserImpl.java" />
+      <jump line="3947" column="8" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/node/SchemaDescriptionTest.java" />
+      <jump line="72" column="36" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/node/SchemaDescriptionTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -410,7 +410,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>custom</text>
+        <text>filterGroup</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjdXN0b21lck1hbmFnZXIuZ2V0Q29udGV4dE9mZmVycyh0cmFuc2FjdGlvbi5nZXRDdXN0b21lcigpKQo=</text>
@@ -495,17 +495,16 @@
       </register>
     </registers>
     <search>
-      <last-search>custom</last-search>
+      <last-search>filterGroup</last-search>
       <last-offset />
-      <last-pattern>custom</last-pattern>
+      <last-pattern>filterGroup</last-pattern>
       <last-replace>customer</last-replace>
       <last-substitute>site</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>this.cartData</entry>
         <entry>this.cartData)</entry>
         <entry>dd</entry>
         <entry>null</entry>
@@ -525,6 +524,7 @@
         <entry>{</entry>
         <entry>left</entry>
         <entry>custom</entry>
+        <entry>filterGroup</entry>
       </history-search>
       <history-cmd>
         <entry>set rnuno</entry>
