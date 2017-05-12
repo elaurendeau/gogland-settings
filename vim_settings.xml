@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-rest/src/main/java/com/cgi/rxp/spring/controllers/TransactionController.java" timestamp="1494351024085">
-        <mark key="'" line="46" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/utils/ClassesUtil.java" timestamp="1494421096977">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" timestamp="1494351792601">
         <mark key="'" line="29" column="34" />
         <mark key="[" line="30" column="44" />
@@ -28,9 +22,6 @@
       </file>
       <file name="/a.dummy" timestamp="1494349251115">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/util/ClassesUtil.java" timestamp="1494421116466">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" timestamp="1494446589652">
         <mark key="'" line="95" column="8" />
@@ -86,7 +77,7 @@
         <mark key="." line="56" column="12" />
         <mark key="^" line="56" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/SelectionController.java" timestamp="1494526295388">
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/SelectionController.java" timestamp="1494606050362">
         <mark key="'" line="94" column="45" />
         <mark key="[" line="120" column="36" />
       </file>
@@ -99,9 +90,6 @@
         <mark key="]" line="227" column="1" />
         <mark key="^" line="227" column="1" />
         <mark key="." line="227" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/SiteRestRedisDAOImpl.java" timestamp="1494256846724">
-        <mark key="'" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/CustomerManagerImpl.java" timestamp="1494431865267">
         <mark key="'" line="55" column="38" />
@@ -117,9 +105,6 @@
         <mark key="." line="109" column="68" />
         <mark key="^" line="58" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-customer-rest/pom.xml" timestamp="1494420774066">
-        <mark key="'" line="81" column="23" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/resources/config.properties" timestamp="1494601226050" />
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/engine/TransactionConstants.java" timestamp="1493321222530">
         <mark key="'" line="17" column="0" />
@@ -127,9 +112,6 @@
         <mark key="]" line="14" column="5" />
         <mark key="." line="14" column="5" />
         <mark key="^" line="14" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/kafka/impl/MandateListenerImpl.java" timestamp="1494349213765">
-        <mark key="'" line="35" column="23" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/manager/impl/TransactionManagerImpl.java" timestamp="1494359779538">
         <mark key="'" line="78" column="0" />
@@ -180,9 +162,6 @@
         <mark key="^" line="101" column="67" />
         <mark key="." line="112" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-customer-rest/src/main/java/com/cgi/rxp/kafka/impl/CustomerListener.java" timestamp="1494261073363">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/test/java/com/cgi/rxp/manager/impl/TransactionManagerImplTest.java" timestamp="1493304428715">
         <mark key="'" line="56" column="1" />
         <mark key="[" line="162" column="38" />
@@ -190,7 +169,7 @@
         <mark key="." line="162" column="45" />
         <mark key="^" line="162" column="45" />
       </file>
-      <file name="/JavaScript Console" timestamp="1494351543495">
+      <file name="/JavaScript Console" timestamp="1494605821359">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/node/SchemaDescriptionTest.java" timestamp="1494600616475">
@@ -253,9 +232,6 @@
         <mark key="]" line="86" column="0" />
         <mark key="^" line="85" column="40" />
         <mark key="." line="86" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/RedisPreloadServiceImpl.java" timestamp="1494424390381">
-        <mark key="'" line="71" column="59" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" timestamp="1494353754012">
         <mark key="[" line="148" column="0" />
