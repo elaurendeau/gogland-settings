@@ -19,7 +19,7 @@
       <file name="/fragment.js" timestamp="1493990422175">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1494349251115">
+      <file name="/a.dummy" timestamp="1494868056052">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/util/ClassesUtil.java" timestamp="1494421116466">
@@ -104,7 +104,7 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494509390331">
+      <file name="/Dummy.txt" timestamp="1494868634931">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="37" />
@@ -130,6 +130,9 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-couchbase/src/main/java/com/cgi/romes/fromeswork/couchbase/service/impl/AbstractCouchbaseService.java" timestamp="1494598668671" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-gateway-zuul/src/main/resources/application.properties" timestamp="1494868086069">
+        <mark key="[" line="19" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/OfferServiceImpl.java" timestamp="1494619042008">
         <mark key="'" line="32" column="27" />
         <mark key="[" line="99" column="19" />
@@ -148,6 +151,7 @@
         <mark key="^" line="147" column="41" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-redis/pom.xml" timestamp="1494859261237" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-customer-rest/src/main/java/com/cgi/rxp/sync/spring/config/RxpSyncRestClientApplication.java" timestamp="1494869041426" />
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/OfferRestRedisDAOImpl.java" timestamp="1493814419772">
         <mark key="[" line="44" column="19" />
         <mark key="]" line="39" column="18" />
