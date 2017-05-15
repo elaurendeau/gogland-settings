@@ -50,10 +50,6 @@
         <mark key="^" line="56" column="12" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-core/pom.xml" timestamp="1494859356368" />
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/SelectionController.java" timestamp="1494606050362">
-        <mark key="'" line="94" column="45" />
-        <mark key="[" line="120" column="36" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/impl/Transaction.java" timestamp="1494444350837">
         <mark key="[" line="34" column="28" />
       </file>
@@ -83,11 +79,11 @@
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/offer-detail/offer-detail.component.ts" timestamp="1494857339520">
         <mark key="'" line="40" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_services/engine.service.ts" timestamp="1494854241615">
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_services/engine.service.ts" timestamp="1494866629078">
         <mark key="'" line="27" column="102" />
-        <mark key="[" line="9" column="91" />
-        <mark key="]" line="9" column="97" />
-        <mark key="." line="9" column="97" />
+        <mark key="[" line="116" column="6" />
+        <mark key="]" line="116" column="6" />
+        <mark key="." line="116" column="6" />
         <mark key="^" line="9" column="97" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-customer-rest/src/main/java/com/cgi/rxp/kafka/impl/CustomerListener.java" timestamp="1494261073363">
@@ -265,14 +261,14 @@
       <jump line="7" column="23" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test-result/caisse-test-result.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>price</text>
       </register>
       <register name="h" type="4">
         <text>Service</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA8cD4gdGVzdDwvcD4=</text>
+        <text>price</text>
       </register>
       <register name="/" type="4">
         <text>label</text>
