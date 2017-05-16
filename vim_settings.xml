@@ -82,12 +82,11 @@
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/impl/Transaction.java" timestamp="1494444350837">
         <mark key="[" line="34" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test-result/caisse-test-result.component.html" timestamp="1494960715938">
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test-result/caisse-test-result.component.html" timestamp="1494962289589">
         <mark key="'" line="28" column="63" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="18" column="69" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" timestamp="1493831452139">
         <mark key="'" line="30" column="17" />
@@ -254,12 +253,12 @@
         <mark key="." line="3946" column="55" />
         <mark key="^" line="3946" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test-result/caisse-test-result.component.css" timestamp="1494960325732">
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test-result/caisse-test-result.component.css" timestamp="1494961790651">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="7" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="46" column="26" />
+        <mark key="." line="46" column="26" />
+        <mark key="^" line="46" column="26" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/CustomerRestRedisDAOImpl.java" timestamp="1494442025336">
         <mark key="[" line="26" column="9" />
@@ -428,13 +427,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwhLS08ZGl2IGNsYXNzPSJwcm9kdWN0LXJvdyB7e29kZCA/IG9kZC1yb3cgOiBldmVuLXJvd319Ij4tLT4K</text>
       </register>
       <register name="h" type="4">
         <text>Service</text>
       </register>
       <register name="-" type="4">
-        <text>lightgray</text>
+        <text encoding="base64">IG9kZC1yb3c=</text>
       </register>
       <register name="/" type="4">
         <text>\$</text>
@@ -443,7 +442,7 @@
         <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiBsaWdodGdyYXlkYjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwhLS08ZGl2IGNsYXNzPSJwcm9kdWN0LXJvdyB7e29kZCA/IG9kZC1yb3cgOiBldmVuLXJvd319Ij4tLT4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -497,28 +496,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb2xvcjoK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJwcm9kdWN0LXJvdyB7e29kZCA/IG9kZC1yb3cgOiBldmVuLXJvd319Ij4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHAtZmllbGRzZXQgY2xhc3M9InByb2R1Y3QtbGlzdCIgbGVnZW5kPSJQcm9kdWN0IExpc3QiPgoKICAgICAgPGRpdiAqbmdGb3I9ImxldCBwcm9kdWN0IG9mIHRyYW5zYWN0aW9uLnByb2R1Y3RzOyBsZXQgb2RkPW9kZCI+CgogICAgICAgIDxkaXYgW3N0eWxlLmJhY2tncm91bmQtY29sb3JdPSJvZGQgPyAnbGlnaHRncmF5JzogbnVsbCIgY2xhc3M9InByb2R1Y3Qtcm93Ij4KICAgICAgICAgIDxkaXY+e3twcm9kdWN0LmRlc2NyaXB0aW9ufX08L2Rpdj4KICAgICAgICAgIGw+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJwcmljZS1wYW5uZWwiPgoKCiAgICAgICAgICAgIDxkaXYgY2xhc3M9InByb2R1Y3QtcHJpY2UiPnt7cHJvZHVjdC50b3RhbFByaWNlfX0kPC9kaXY+CiAgICAgICAgICAgIDxkaXY+CgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im9mZmVyIiAqbmdGb3I9ImxldCBkZWFsIG9mIHByb2R1Y3QucHJvZHVjdERlYWxMaXN0Ij4KICAgICAgICAgICAgICAgIHt7ZGVhbC5vZmZlcklkfX0gLSB7e2RlYWwucXVhbnRpdHl9fSBAIHt7ZGVhbC5wcmljZX19JAogICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgPC9kaXY+CgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvcC1maWVsZHNldD4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">bD4K</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">Cgo8L3AtcGFuZQ==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgW3N0eWxlXT0ieydtYXJnaW4nOicyMHB4IDUwcHgnfSI+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgW3RvZ2dsZWFibGVdPSJ0cnVlIgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb2xvcjoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PHAtZmllbGRzZXQgY2xhc3M9InByb2R1Y3QtbGlzdCIgbGVnZW5kPSJQcm9kdWN0IExpc3QiPgoKICAgICAgPGRpdiAqbmdGb3I9ImxldCBwcm9kdWN0IG9mIHRyYW5zYWN0aW9uLnByb2R1Y3RzOyBsZXQgb2RkPW9kZCI+CgogICAgICAgIDxkaXYgW3N0eWxlLmJhY2tncm91bmQtY29sb3JdPSJvZGQgPyAnbGlnaHRncmF5JzogbnVsbCIgY2xhc3M9InByb2R1Y3Qtcm93Ij4KICAgICAgICAgIDxkaXY+e3twcm9kdWN0LmRlc2NyaXB0aW9ufX08L2Rpdj4KICAgICAgICAgIGw+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJwcmljZS1wYW5uZWwiPgoKCiAgICAgICAgICAgIDxkaXYgY2xhc3M9InByb2R1Y3QtcHJpY2UiPnt7cHJvZHVjdC50b3RhbFByaWNlfX0kPC9kaXY+CiAgICAgICAgICAgIDxkaXY+CgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im9mZmVyIiAqbmdGb3I9ImxldCBkZWFsIG9mIHByb2R1Y3QucHJvZHVjdERlYWxMaXN0Ij4KICAgICAgICAgICAgICAgIHt7ZGVhbC5vZmZlcklkfX0gLSB7e2RlYWwucXVhbnRpdHl9fSBAIHt7ZGVhbC5wcmljZX19JAogICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgPC9kaXY+CgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvcC1maWVsZHNldD4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bD4K</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Cgo8L3AtcGFuZQ==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgW3N0eWxlXT0ieydtYXJnaW4nOicyMHB4IDUwcHgnfSI+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">PHAtcGFuZWwgKm5nSWY9InRyYW5zYWN0aW9uIiBoZWFkZXI9Int7J0NBSVNTRV9URVNULklORk9fVFJBTlNBQ1RJT04nIHwgdHJhbnNsYXRlfX0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgW3RvZ2dsZWFibGVdPSJ0cnVlIgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
