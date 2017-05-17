@@ -55,7 +55,8 @@
         <mark key="^" line="17" column="18" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/IProductService.java" timestamp="1495030511010" />
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" timestamp="1495043884068">
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" timestamp="1495044738019">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="30" />
         <mark key="." line="60" column="30" />
@@ -135,32 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="361" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="362" column="10" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="364" column="11" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="365" column="10" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="367" column="11" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="368" column="10" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="370" column="11" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="371" column="10" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="372" column="12" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="373" column="36" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="374" column="29" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="375" column="31" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="376" column="25" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="377" column="14" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="379" column="11" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="380" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="381" column="10" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="383" column="8" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="384" column="18" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="385" column="27" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="386" column="44" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="387" column="23" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="388" column="41" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="389" column="21" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="390" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="391" column="10" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="393" column="11" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="394" column="10" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="396" column="11" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
@@ -235,6 +210,32 @@
       <jump line="3" column="23" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/ProductServiceImpl.java" />
       <jump line="4" column="27" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/ProductServiceImpl.java" />
       <jump line="5" column="27" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/ProductServiceImpl.java" />
+      <jump line="134" column="2" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="141" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="121" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="70" column="3" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="84" column="8" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="142" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="60" column="2" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="58" column="4" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="67" column="2" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="69" column="28" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="71" column="3" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="74" column="3" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="76" column="3" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="105" column="5" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="116" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="102" column="8" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="96" column="8" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="78" column="3" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="106" column="8" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
