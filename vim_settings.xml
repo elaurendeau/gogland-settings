@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" timestamp="1494963602611">
@@ -10,18 +10,12 @@
         <mark key="." line="160" column="51" />
         <mark key="^" line="163" column="11" />
       </file>
-      <file name="/fragment.js" timestamp="1494935873366">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/resources/application.properties" timestamp="1495027653841">
         <mark key="'" line="12" column="29" />
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="18" />
         <mark key="^" line="11" column="127" />
         <mark key="." line="13" column="17" />
-      </file>
-      <file name="/a.dummy" timestamp="1494868056052">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/TransactionServiceImpl.java" timestamp="1495041323668">
         <mark key="[" line="188" column="0" />
@@ -37,9 +31,6 @@
         <mark key="^" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-core/pom.xml" timestamp="1494859356368" />
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/impl/Transaction.java" timestamp="1494444350837">
-        <mark key="[" line="34" column="28" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test-result/caisse-test-result.component.html" timestamp="1494962289589">
         <mark key="'" line="28" column="63" />
         <mark key="[" line="11" column="0" />
@@ -53,6 +44,13 @@
         <mark key="]" line="17" column="18" />
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/kafka/impl/TransactionListenerImpl.java" timestamp="1495131259183">
+        <mark key="'" line="111" column="12" />
+        <mark key="[" line="111" column="13" />
+        <mark key="]" line="111" column="13" />
+        <mark key="^" line="111" column="12" />
+        <mark key="." line="111" column="13" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/IProductService.java" timestamp="1495030511010" />
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" timestamp="1495044738019">
@@ -81,8 +79,11 @@
         <mark key="." line="51" column="83" />
         <mark key="^" line="51" column="83" />
       </file>
-      <file name="/JavaScript Console" timestamp="1494935838997">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1495131170907">
+        <mark key="'" line="443" column="1" />
+        <mark key="]" line="442" column="36" />
+        <mark key="." line="442" column="36" />
+        <mark key="^" line="442" column="36" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test-result/caisse-test-result.component.ts" timestamp="1494942626521">
         <mark key="[" line="1" column="51" />
@@ -112,10 +113,7 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-couchbase/src/main/java/com/cgi/romes/fromeswork/couchbase/service/impl/AbstractCouchbaseService.java" timestamp="1494598668671" />
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-gateway-zuul/src/main/resources/application.properties" timestamp="1494868086069">
-        <mark key="[" line="19" column="24" />
-      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-couchbase/src/main/java/com/cgi/romes/fromeswork/couchbase/service/impl/AbstractCouchbaseService.java" timestamp="1495131055806" />
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/OfferServiceImpl.java" timestamp="1494619042008">
         <mark key="'" line="32" column="27" />
         <mark key="[" line="99" column="19" />
@@ -136,9 +134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="393" column="11" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="394" column="10" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="396" column="11" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="397" column="10" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="399" column="11" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="400" column="10" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
@@ -236,25 +231,29 @@
       <jump line="78" column="3" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
       <jump line="106" column="8" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" />
+      <jump line="285" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
+      <jump line="443" column="1" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
+      <jump line="110" column="12" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/kafka/impl/TransactionListenerImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAga2Fma2FQcm9kdWNlci5zZW5kKGdldFRvcGljRm9yUmVxdWVzdCgpLAogICAgICAgICAgbmV3IFJlcXVlc3RGb3JTeW5jKGtleSArIFByb2R1Y3RDb25zdGFudHMuUFJPRFVDVF9BTElBU19TRVBBUkFUT1IgKyB2YWx1ZSwK</text>
+      <register name="&quot;" type="4">
+        <text>rintStackTrace();</text>
       </register>
       <register name="h" type="4">
         <text>Service</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KSAgICAgICAgICAgICA=</text>
+        <text>rintStackTrace();</text>
       </register>
       <register name="/" type="4">
         <text>IP</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiBsaWdodGdyYXlkYjsK</text>
+        <text encoding="base64">ICAgICAgcHJvZHVjdFNlcnZpY2UK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAga2Fma2FQcm9kdWNlci5zZW5kKGdldFRvcGljRm9yUmVxdWVzdCgpLAogICAgICAgICAgbmV3IFJlcXVlc3RGb3JTeW5jKGtleSArIFByb2R1Y3RDb25zdGFudHMuUFJPRFVDVF9BTElBU19TRVBBUkFUT1IgKyB2YWx1ZSwK</text>
+      <register name="1" type="4">
+        <text>WrongTypeException | IOException | InvalidFormatException | NoSuchAlgorithmException | FunctionalException | DocumentNotFoundException e) {
+      e.p</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -308,28 +307,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyYW5zYWN0aW9uLmdldFByb2R1Y3RMaXN0KCkuc3RyZWFtKCkuZmlsdGVyKHByb2R1Y3QgLT4gcHJvZHVjdC5nZXRJZCgpID09IG51bGwpCiAgICAgICAgLmZvckVhY2gocHJvZHVjdCAtPiB7CiAgICAgICAgICAgICAgdHJ5IHsKCiAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAvL1RPRE8gY29udmVydCB0byBhIHJlZ3VsYXIgZm9yZWFjaAogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgcHJvZHVjdFNlcnZpY2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAga2Fma2FQcm9kdWNlci5zZW5kKGdldFRvcGljRm9yUmVxdWVzdCgpLAogICAgICAgICAgbmV3IFJlcXVlc3RGb3JTeW5jKGtleSArIFByb2R1Y3RDb25zdGFudHMuUFJPRFVDVF9BTElBU19TRVBBUkFUT1IgKyB2YWx1ZSwK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHRyYW5zYWN0aW9uLmdldFByb2R1Y3RMaXN0KCkuc3RyZWFtKCkuZmlsdGVyKHByb2R1Y3QgLT4gcHJvZHVjdC5nZXRJZCgpID09IG51bGwpCiAgICAgICAgLmZvckVhY2gocHJvZHVjdCAtPiB7CiAgICAgICAgICAgICAgdHJ5IHsKCiAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAvL1RPRE8gY29udmVydCB0byBhIHJlZ3VsYXIgZm9yZWFjaAogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICApOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3RTZXJ2aWNlCiAgICAgICAgICAgICAgICAgICAgLmFkZFByb2R1Y3REYXRhVG9Qcm9kdWN0SW5zdGFuY2UocHJvZHVjdExpc3RUb1VwZGF0ZS5nZXQocHJvZHVjdC5nZXRBbGlhcygpKSwKICAgICAgICAgICAgICAgICAgICAgICAgcHJvZHVjdCwgdHJhbnNhY3Rpb24uZ2V0U2l0ZSgpLmdldENvZGUoKSwgdHJhbnNhY3Rpb24uZ2V0RGF0ZSgpKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAvKioKICAgKiBBZ2dyZWdhdGUgdGhlIHByb2R1Y3QgZGF0YSB3aXRoaW4gYW4gaW5zdGFuY2Ugb2YgdGhlIHByb2R1Y3QgdXNpbmcgaXRzIEFsaWFzZXMKICAgKgogICAqIEBwYXJhbSBwcm9kdWN0SW5zdGFuY2UgdGhlIHtAbGluayBjb20uY2dpLnJ4cC5zeW5jLmR0by5pbXBsLmVuZ2luZS5kdG8uUHJvZHVjdH0gaW5zdGFuY2UgdGhhdCBuZWVkcyBkYXRhCiAgICogQHJldHVybiB0aGUgY29tcGxldGUge0BsaW5rIGNvbS5jZ2kucnhwLnN5bmMuZHRvLmltcGwuZW5naW5lLmR0by5Qcm9kdWN0fQogICAqIEB0aHJvd3MgSnNvblByb2Nlc3NpbmdFeGNlcHRpb24KICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCiAgICogQHRocm93cyBQYXJzZUV4Y2VwdGlvbgogICAqIEB0aHJvd3MgRXhjZXB0aW9uCiAgICov</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIHByb2R1Y3Qu</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3Quc2V0QWxpYXMoZHRvLmdldEFsaWFzKCkpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZCAgICBwcm9kdWN0LnNldChkdG8uZ2V0UHJvZHVjdFVPTUxpc3QoKSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgIHByb2R1Y3Quc2V0QWxpYXMoZHRvLmdldEFsaWFzKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
