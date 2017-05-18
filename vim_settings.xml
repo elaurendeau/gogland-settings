@@ -43,6 +43,9 @@
       <file name="/Kotlin Console" timestamp="1495055644429">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/workspace_kotlin/TEST/src/test.kt" timestamp="1495148797751">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="15" column="32" filename="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" />
@@ -132,7 +135,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxpbWdcPg==</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -150,6 +153,8 @@
         <entry>set numeral</entry>
         <entry>%</entry>
         <entry>Update</entry>
+        <entry>set syntax=json</entry>
+        <entry>execute '%! python -m json.tool'</entry>
       </history-cmd>
       <history-expr />
       <history-input />
