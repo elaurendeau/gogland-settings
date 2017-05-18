@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" timestamp="1494963602611">
@@ -22,17 +22,7 @@
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-couchbase/src/main/java/com/cgi/romes/fromeswork/couchbase/dao/impl/AbstractCouchbaseDAO.java" timestamp="1495134040222">
-        <mark key="[" line="225" column="101" />
-        <mark key="]" line="227" column="0" />
-        <mark key="." line="227" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/IProductDAO.java" timestamp="1495025513437" />
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/offer-quantity/offer-quantity.component.html" timestamp="1494854576369">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/ProductRestRedisDAOImpl.java" timestamp="1495029931568">
         <mark key="'" line="67" column="67" />
         <mark key="[" line="67" column="55" />
@@ -55,12 +45,12 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/kafka/impl/TransactionListenerImpl.java" timestamp="1495134290349">
-        <mark key="'" line="113" column="12" />
-        <mark key="[" line="87" column="47" />
-        <mark key="]" line="87" column="45" />
-        <mark key="^" line="87" column="45" />
-        <mark key="." line="87" column="45" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/kafka/impl/TransactionListenerImpl.java" timestamp="1495136344525">
+        <mark key="'" line="110" column="12" />
+        <mark key="[" line="82" column="50" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="91" column="16" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/IProductService.java" timestamp="1495030511010" />
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/service/impl/ProductService.java" timestamp="1495044738019">
@@ -95,11 +85,6 @@
         <mark key="." line="442" column="36" />
         <mark key="^" line="442" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494868634931">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="41" />
-        <mark key="." line="0" column="37" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/parser/ParserImpl.java" timestamp="1494611775620">
         <mark key="'" line="197" column="32" />
         <mark key="[" line="202" column="14" />
@@ -121,11 +106,6 @@
         <mark key="]" line="46" column="26" />
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/CustomerRestRedisDAOImpl.java" timestamp="1494442025336">
-        <mark key="[" line="26" column="9" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-couchbase/src/main/java/com/cgi/romes/fromeswork/couchbase/service/impl/AbstractCouchbaseService.java" timestamp="1495131055806" />
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/service/impl/OfferServiceImpl.java" timestamp="1494619042008">
@@ -251,13 +231,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCJFbmQgdHJhbnNhY3Rpb24gc2F2ZSAtICIgKyAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydFRpbWUpICsgIm1zIik7Cg==</text>
       </register>
       <register name="h" type="4">
         <text>Service</text>
       </register>
       <register name="-" type="4">
-        <text>rintStackTrace();</text>
+        <text>End u</text>
       </register>
       <register name="/" type="4">
         <text>IP</text>
@@ -266,7 +246,7 @@
         <text encoding="base64">ICAgICAgcHJvZHVjdFNlcnZpY2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCJFbmQgdHJhbnNhY3Rpb24gc2F2ZSAtICIgKyAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydFRpbWUpICsgIm1zIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -320,43 +300,43 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCJTdGFydCB0cmFuc2FjdGlvbiBzYXZlIik7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-
-    CouchbaseDocumentObject couchbaseDocumentObject = documentToCouchbaseConverter
-        .convert(documentObject);
-    CouchbaseDocumentObject savedCouchbaseDocumentObject = getCouchbaseRepository()
-        .save(couchbaseDocumentObject);
-    DocumentObject finalDocumentObject = couchbaseToDocumentConverter
-        .convert(savedCouchbaseDocumentObject);
-    return finalDocumentObject;
-  }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHN0YXJ0VGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-
-    CouchbaseDocumentObject couchbaseDocumentObject = documentToCouchbaseConverter
-        .convert(documentObject);
-    CouchbaseDocumentObject savedCouchbaseDocumentObject = getCouchbaseRepository()
-        .save(couchbaseDocumentObject);
-    DocumentObject finalDocumentObject = couchbaseToDocumentConverter
-        .convert(savedCouchbaseDocumentObject);
-    return finalDocumentObject;
-  }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCJTdGFydCB1cGRhdGluZyBhbGwgcHJvZHVjdHMiKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvbmcgc3RhcnRUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCJDT252ZXJ0IENETyB0byBETyBzYXZlICIgKyAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydFRpbWUpICsgIm1zIik7Cg==</text>
+      <register name="7" type="4">
+        <text>{
+
+    CouchbaseDocumentObject couchbaseDocumentObject = documentToCouchbaseConverter
+        .convert(documentObject);
+    CouchbaseDocumentObject savedCouchbaseDocumentObject = getCouchbaseRepository()
+        .save(couchbaseDocumentObject);
+    DocumentObject finalDocumentObject = couchbaseToDocumentConverter
+        .convert(savedCouchbaseDocumentObject);
+    return finalDocumentObject;
+  }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0VGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
+      <register name="8" type="4">
+        <text>{
+
+    CouchbaseDocumentObject couchbaseDocumentObject = documentToCouchbaseConverter
+        .convert(documentObject);
+    CouchbaseDocumentObject savedCouchbaseDocumentObject = getCouchbaseRepository()
+        .save(couchbaseDocumentObject);
+    DocumentObject finalDocumentObject = couchbaseToDocumentConverter
+        .convert(savedCouchbaseDocumentObject);
+    return finalDocumentObject;
+  }</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
