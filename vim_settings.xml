@@ -15,11 +15,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace_kotlin/Test/src/app.kt" timestamp="1495211262452">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="16" />
+      <file name="$USER_HOME$/workspace_kotlin/Test/src/app.kt" timestamp="1495217607591">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" timestamp="1494299236362">
         <mark key="'" line="49" column="16" />
@@ -88,13 +88,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBiID0gMTUK</text>
+        <text encoding="base64">ICAgIGZ1biB6KGE6IEludCk6IEludCB7IHJldHVybiBpZihhKjIgPiA1MDApIGEgZWxzZSB6KGEqMikgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IHJldHVybiBpZihhKjIgPiA1MDApIGEgZWxzZQ==</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZ1biB6KGE6IEludCk6IEludCB7IHJldHVybiBpZihhKjIgPiA1MDApIGEgZWxzZSB6KGEqMikgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHZhbCBiID0gMTUK</text>
@@ -198,6 +201,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed J</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
