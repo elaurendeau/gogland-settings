@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" timestamp="1494963602611">
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" timestamp="1495195270824">
         <mark key="'" line="160" column="11" />
-        <mark key="[" line="160" column="51" />
-        <mark key="]" line="160" column="51" />
+        <mark key="[" line="144" column="28" />
+        <mark key="]" line="144" column="72" />
         <mark key="." line="160" column="51" />
         <mark key="^" line="163" column="11" />
       </file>
@@ -31,11 +31,12 @@
         <mark key="^" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-core/pom.xml" timestamp="1494859356368" />
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test-result/caisse-test-result.component.html" timestamp="1494962289589">
-        <mark key="'" line="28" column="63" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test-result/caisse-test-result.component.html" timestamp="1495195921325">
+        <mark key="'" line="28" column="66" />
+        <mark key="[" line="28" column="67" />
+        <mark key="]" line="1" column="57" />
+        <mark key="." line="28" column="78" />
+        <mark key="^" line="1" column="57" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/offer-detail/offer-detail.component.html" timestamp="1494857315100" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_models/transaction.ts" timestamp="1494877099154">
@@ -128,11 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="397" column="10" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="399" column="11" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="400" column="10" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="401" column="12" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
-      <jump line="402" column="36" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="403" column="29" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="404" column="31" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
       <jump line="405" column="25" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" />
@@ -228,25 +224,30 @@
       <jump line="285" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
       <jump line="443" column="1" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
       <jump line="110" column="12" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/kafka/impl/TransactionListenerImpl.java" />
+      <jump line="1" column="45" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test-result/caisse-test-result.component.html" />
+      <jump line="2" column="40" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test-result/caisse-test-result.component.html" />
+      <jump line="3" column="73" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test-result/caisse-test-result.component.html" />
+      <jump line="5" column="35" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test-result/caisse-test-result.component.html" />
+      <jump line="28" column="66" filename="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test-result/caisse-test-result.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCJFbmQgdHJhbnNhY3Rpb24gc2F2ZSAtICIgKyAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydFRpbWUpICsgIm1zIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Total</text>
       </register>
       <register name="h" type="4">
         <text>Service</text>
       </register>
       <register name="-" type="4">
-        <text>End u</text>
+        <text>Total</text>
       </register>
       <register name="/" type="4">
-        <text>IP</text>
+        <text>Tota</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHJvZHVjdFNlcnZpY2UK</text>
+      <register name="0" type="4">
+        <text>{{ 'CAISSE_TEST.CUSTOMER_INFO' | translate }}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCJFbmQgdHJhbnNhY3Rpb24gc2F2ZSAtICIgKyAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydFRpbWUpICsgIm1zIik7Cg==</text>
+        <text encoding="base64">ICAgIDxkaXY+e3sgJ0NBSVNTRV9URVNULkNVU1RPTUVSX0lORk8nIHwgdHJhbnNsYXRlIH19OiA8c3Bhbj57e3RyYW5zYWN0aW9uLmNvZGV9fTwvc3Bhbj48L2Rpdj4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -300,31 +301,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCJTdGFydCB0cmFuc2FjdGlvbiBzYXZlIik7Cg==</text>
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCJFbmQgdHJhbnNhY3Rpb24gc2F2ZSAtICIgKyAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydFRpbWUpICsgIm1zIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0VGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCJTdGFydCB0cmFuc2FjdGlvbiBzYXZlIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCJTdGFydCB1cGRhdGluZyBhbGwgcHJvZHVjdHMiKTsK</text>
+        <text encoding="base64">ICAgIHN0YXJ0VGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCJTdGFydCB1cGRhdGluZyBhbGwgcHJvZHVjdHMiKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-
-    CouchbaseDocumentObject couchbaseDocumentObject = documentToCouchbaseConverter
-        .convert(documentObject);
-    CouchbaseDocumentObject savedCouchbaseDocumentObject = getCouchbaseRepository()
-        .save(couchbaseDocumentObject);
-    DocumentObject finalDocumentObject = couchbaseToDocumentConverter
-        .convert(savedCouchbaseDocumentObject);
-    return finalDocumentObject;
-  }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
         <text>{
@@ -338,17 +330,26 @@
     return finalDocumentObject;
   }</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>{
+
+    CouchbaseDocumentObject couchbaseDocumentObject = documentToCouchbaseConverter
+        .convert(documentObject);
+    CouchbaseDocumentObject savedCouchbaseDocumentObject = getCouchbaseRepository()
+        .save(couchbaseDocumentObject);
+    DocumentObject finalDocumentObject = couchbaseToDocumentConverter
+        .convert(savedCouchbaseDocumentObject);
+    return finalDocumentObject;
+  }</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>IP</last-search>
+      <last-search>Tota</last-search>
       <last-offset />
-      <last-pattern>IP</last-pattern>
+      <last-pattern>Tota</last-pattern>
       <last-replace>customer</last-replace>
       <last-substitute>site</last-substitute>
       <last-dir>1</last-dir>
@@ -356,12 +357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>car</entry>
-        <entry>bra</entry>
-        <entry>year</entry>
-        <entry>Bran</entry>
-        <entry>div</entry>
-        <entry>flex</entry>
         <entry>ui</entry>
         <entry>items</entry>
         <entry>product</entry>
@@ -376,6 +371,12 @@
         <entry>retrieve</entry>
         <entry>Product</entry>
         <entry>IP</entry>
+        <entry>cus</entry>
+        <entry>cust</entry>
+        <entry>Site</entry>
+        <entry>Cust</entry>
+        <entry>Date</entry>
+        <entry>Tota</entry>
       </history-search>
       <history-cmd>
         <entry>s/getID/getId/g</entry>
