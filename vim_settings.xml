@@ -47,6 +47,11 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" timestamp="1495205003507">
+        <mark key="[" line="154" column="37" />
+        <mark key="]" line="154" column="38" />
+        <mark key="." line="154" column="38" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="15" column="32" filename="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" />
@@ -137,7 +142,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxpbWdcPg==</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
