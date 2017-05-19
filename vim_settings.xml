@@ -4,10 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.html" timestamp="1495195270824">
-        <mark key="'" line="160" column="11" />
-        <mark key="[" line="144" column="28" />
-        <mark key="]" line="144" column="72" />
-        <mark key="." line="160" column="51" />
         <mark key="^" line="163" column="11" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/resources/application.properties" timestamp="1495027653841">
@@ -31,13 +27,6 @@
         <mark key="^" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-core/pom.xml" timestamp="1494859356368" />
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test-result/caisse-test-result.component.html" timestamp="1495195921325">
-        <mark key="'" line="28" column="66" />
-        <mark key="[" line="28" column="67" />
-        <mark key="]" line="1" column="57" />
-        <mark key="." line="28" column="78" />
-        <mark key="^" line="1" column="57" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/offer-detail/offer-detail.component.html" timestamp="1494857315100" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_models/transaction.ts" timestamp="1494877099154">
         <mark key="'" line="11" column="20" />
@@ -232,13 +221,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Total</text>
+        <text>| translate</text>
       </register>
       <register name="h" type="4">
         <text>Service</text>
       </register>
       <register name="-" type="4">
-        <text>Total</text>
+        <text>| translate</text>
       </register>
       <register name="/" type="4">
         <text>Tota</text>
@@ -484,6 +473,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
