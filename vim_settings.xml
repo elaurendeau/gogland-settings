@@ -19,6 +19,12 @@
         <mark key="." line="188" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/IProductDAO.java" timestamp="1495025513437" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SelectionCouchbaseServiceImpl.java" timestamp="1494528321485">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="1" />
+        <mark key="." line="141" column="1" />
+        <mark key="^" line="141" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/ProductRestRedisDAOImpl.java" timestamp="1495029931568">
         <mark key="'" line="67" column="67" />
         <mark key="[" line="67" column="55" />
@@ -75,6 +81,12 @@
         <mark key="." line="442" column="36" />
         <mark key="^" line="442" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/_models/selection.ts" timestamp="1493993782770">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/parser/ParserImpl.java" timestamp="1494611775620">
         <mark key="'" line="197" column="32" />
         <mark key="[" line="202" column="14" />
@@ -105,11 +117,20 @@
         <mark key="^" line="85" column="40" />
         <mark key="." line="99" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" timestamp="1494959888340">
-        <mark key="^" line="293" column="9" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" timestamp="1495204323380">
+        <mark key="[" line="295" column="5" />
+        <mark key="]" line="295" column="4" />
+        <mark key="^" line="295" column="4" />
+        <mark key="." line="295" column="4" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-redis/pom.xml" timestamp="1494859261237" />
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-customer-rest/src/main/java/com/cgi/rxp/sync/spring/config/RxpSyncRestClientApplication.java" timestamp="1494869041426" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-engine-core/src/main/java/com/cgi/rxp/dao/impl/OfferRestRedisDAOImpl.java" timestamp="1493814419772">
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="39" column="18" />
+        <mark key="." line="39" column="18" />
+        <mark key="^" line="39" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-dto/src/main/java/com/cgi/rxp/sync/dto/impl/inner/ProductAlias.java" timestamp="1495029523073" />
       <file name="/fragment.java" timestamp="1495034576696">
         <mark key="[" line="0" column="0" />
