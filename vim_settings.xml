@@ -15,12 +15,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace_kotlin/Test/src/app.kt" timestamp="1495218703357">
-        <mark key="'" line="4" column="18" />
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="39" />
-        <mark key="^" line="4" column="39" />
-        <mark key="." line="4" column="39" />
+      <file name="$USER_HOME$/workspace_kotlin/Test/src/app.kt" timestamp="1495219531733">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" timestamp="1494299236362">
         <mark key="'" line="49" column="16" />
@@ -92,20 +90,20 @@
       <jump line="4" column="18" filename="$USER_HOME$/workspace_kotlin/Test/src/app.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KQogICAgcHJpbnRsbih6KDEpKQogICAgCg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>l;llsdk;sdfkl;sdfkl;, iohjasdjioasdf</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biB6KGE6IEludCk6IEludCB7IHJldHVybiBpZihhKjIgPiA1MDApIGEgZWxzZSB6KGEqMikgfQo=</text>
+        <text encoding="base64">ICAgIHBkYXNkYXNkYXNkYXNkbDtsbHNkaztzZGZrbDtzZGZrbDssIGlvaGphc2RqaW9hc2RmCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KQogICAgcHJpbnRsbih6KDEpKQogICAgCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -125,31 +123,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgbWFpbigib2Frc29wZGthc2QiLCBhc2Rhc2QpCg==</text>
+        <text encoding="base64">ICAgbWFpbigib2Frc29wZGthc2QibDtsbHNkaztzZGZrbDtzZGZrbDssIGlvaGphc2RqaW9hc2RmKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBiID0gMTUK</text>
+      <register name="3" type="4">
+        <text encoding="base64">KQogICAgcHJpbnRsbih6KDEpKQogICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkhlbGxvLCB3b3JsZCEiKQo=</text>
+        <text encoding="base64">ICAgbWFpbigib2Frc29wZGthc2QiLCBhc2Rhc2QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYQo=</text>
+        <text encoding="base64">ICAgIHZhbCBiID0gMTUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCB0ZXN0ID0geyBhOiBJbnQgLT4gaWYoYSoyID4gMTAwKSBhIGVsc2UgYiB9Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIkhlbGxvLCB3b3JsZCEiKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBlbGxpb3QubGF1cmVuZGVhdSBvbiAyMDE3LTA1LTE5LgogKi8=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIHZhbCB0ZXN0ID0geyBhOiBJbnQgLT4gaWYoYSoyID4gMTAwKSBhIGVsc2UgYiB9Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0aGlzLnByb2Nlc3NDYXJ0KQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBlbGxpb3QubGF1cmVuZGVhdSBvbiAyMDE3LTA1LTE5LgogKi8=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -157,7 +155,7 @@
       <last-offset />
       <last-pattern>)</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -178,6 +176,7 @@
         <entry>%</entry>
         <entry>set syntax=json</entry>
         <entry>execute '%! python -m json.tool'</entry>
+        <entry>reg</entry>
         <entry>Update</entry>
       </history-cmd>
       <history-expr />
