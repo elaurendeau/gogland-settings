@@ -3,17 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/app.kt" timestamp="1495294381450">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="12" />
-        <mark key="^" line="21" column="12" />
-        <mark key="." line="21" column="12" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/IFileHandler.kt" timestamp="1495297200391">
+        <mark key="^" line="8" column="58" />
+      </file>
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/app.kt" timestamp="1495297095766">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+        <mark key="." line="12" column="9" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
       <register name=":" type="4">
         <text>nohl</text>
+      </register>
+      <register name="-" type="4">
+        <text />
       </register>
     </registers>
     <search>
@@ -44,6 +53,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>alt pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
