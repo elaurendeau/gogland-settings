@@ -34,11 +34,11 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/impl/ImageHandler.kt" timestamp="1495395099533">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="12" column="66" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/impl/ImageHandler.kt" timestamp="1495399801257">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
       </file>
       <file name="/fragment.java" timestamp="1495395378015">
         <mark key="[" line="0" column="0" />
@@ -60,8 +60,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIGdmeC5kcmF3U3RyaW5nKCJ0ZXN0IiwgODAsIDgwKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdmeC5kcmF3U3RyaW5nKCJ0ZXN0IiwgODAsIDgwKQo=</text>
+      <register name="&quot;" type="4">
+        <text>setFon</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgIHZhbCB1cmw6IFN0cmluZyA9ICJodHRwczovL2ltYWdlczIub25pb25zdGF0aWMuY29tL2NsaWNraG9sZS8zNTY0Lzcvb3JpZ2luYWwvNjAwLmpwZyI7CiAgICB2YWwgaW1nID0gSW1hZ2VJTy5yZWFkKFVSTCh1cmwpKQogICAgdmFsIGdmeCA9IGltZy5jcmVhdGVHcmFwaGljcygpCiAgICBnZnguc2V0Rm9udChGb250KCJUaW1lc1JvbWFuIiwgRm9udC5QTEFJTiwgNTApKQogICAgZ2Z4LnNldENvbG9yKENvbG9yLkJMVUUpCg==</text>
@@ -85,7 +85,7 @@
         <text>nohl</text>
       </register>
       <register name="-" type="4">
-        <text>80</text>
+        <text>setFon</text>
       </register>
       <register name="/" type="4">
         <text>tex</text>
