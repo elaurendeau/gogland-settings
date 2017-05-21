@@ -3,42 +3,67 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/domain/Position.kt" timestamp="1495298722002">
+        <mark key="'" line="2" column="32" />
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/IFileHandler.kt" timestamp="1495297905019">
         <mark key="]" line="7" column="23" />
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/app.kt" timestamp="1495297095766">
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="12" column="9" />
-        <mark key="^" line="12" column="9" />
-        <mark key="." line="12" column="9" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/app.kt" timestamp="1495298449343">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="16" column="3" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/IImageHandler.kt" timestamp="1495297943246">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/IImageHandler.kt" timestamp="1495298754019">
+        <mark key="'" line="10" column="62" />
+        <mark key="[" line="10" column="55" />
+        <mark key="]" line="10" column="62" />
+        <mark key="^" line="10" column="62" />
+        <mark key="." line="10" column="62" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="2" column="32" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/domain/Position.kt" />
+      <jump line="4" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/IImageHandler.kt" />
+      <jump line="11" column="62" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/IImageHandler.kt" />
+    </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">Y2FzZSA=</text>
+      </register>
+      <register name="/" type="4">
+        <text>pos</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search>pos</last-search>
+      <last-offset />
+      <last-pattern>pos</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>case</entry>
+        <entry>)</entry>
+        <entry>pos</entry>
+      </history-search>
       <history-cmd>
         <entry>nohl</entry>
         <entry>Update</entry>
@@ -67,6 +92,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
