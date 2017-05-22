@@ -18,11 +18,11 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" timestamp="1495475379226">
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="7" column="37" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="7" column="37" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" timestamp="1495477371515">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="4" column="26" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/app.kt" timestamp="1495395238903">
         <mark key="[" line="10" column="0" />
@@ -70,10 +70,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>myKotlin</text>
+        <text encoding="base64">PHZlcnNpb24gdG8gdXNlPg==</text>
       </register>
       <register name="-" type="4">
-        <text>myKotlin</text>
+        <text encoding="base64">PHZlcnNpb24gdG8gdXNlPg==</text>
       </register>
       <register name="/" type="4">
         <text>tex</text>
