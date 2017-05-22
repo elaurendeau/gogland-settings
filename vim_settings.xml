@@ -18,12 +18,11 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" timestamp="1495483228469">
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" timestamp="1495487577745">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-        <mark key="^" line="11" column="0" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/app.kt" timestamp="1495395238903">
         <mark key="[" line="10" column="0" />
@@ -76,10 +75,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHZlcnNpb24gdG8gdXNlPg==</text>
+        <text>compile group: 'org.springframework', name: 'spring-context', version: '4.3.8.RELEASE'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkXD4=</text>
+        <text>demo</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Ly8gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuc3ByaW5nZnJhbWV3b3JrL3NwcmluZy1jb250ZXh0CmNvbXBpbGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrJywgbmFtZTogJ3NwcmluZy1jb250ZXh0JywgdmVyc2lvbjogJzQuMy44LlJFTEVBU0UnCg==</text>
@@ -87,42 +86,38 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuc3ByaW5nZnJhbWV3b3JrL3NwcmluZy1jb250ZXh0CmNvbXBpbGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrJywgbmFtZTogJ3NwcmluZy1jb250ZXh0JywgdmVyc2lvbjogJzQuMy44LlJFTEVBU0UnCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmRlZmF1bHRUYXNrcyAncnVuJw==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly8gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuc3ByaW5nZnJhbWV3b3JrL3NwcmluZy1jb250ZXh0Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>https://mvnrepository.com/artifact/org.springframework/spring-context
-com</text>
+        <text encoding="base64">Cm1haW5DbGFzc05hbWUgPSAnYXBwJw==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ly8gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuc3ByaW5nZnJhbWV3b3JrL3NwcmluZy1jb250ZXh0Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>,
-        compile &quot;org.jetbrains.kotlin:kotlin-stdlib&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnNwcmluZ2ZyYW1ld29yay9zcHJpbmctY29udGV4dAo=</text>
       </register>
       <register name="7" type="4">
-        <text>src/domain/businessrule/
-src/interface/
-src/usecase/</text>
+        <text>demo.HelloWorld</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdmeC5kcmF3U3RyaW5nKCJ0ZXN0IiwgODAsIDgwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHZhbCB1cmw6IFN0cmluZyA9ICJodHRwczovL2ltYWdlczIub25pb25zdGF0aWMuY29tL2NsaWNraG9sZS8zNTY0Lzcvb3JpZ2luYWwvNjAwLmpwZyI7CiAgICB2YWwgaW1nID0gSW1hZ2VJTy5yZWFkKFVSTCh1cmwpKQogICAgdmFsIGdmeCA9IGltZy5jcmVhdGVHcmFwaGljcygpCiAgICBnZnguc2V0Rm9udChGb250KCJUaW1lc1JvbWFuIiwgRm9udC5QTEFJTiwgNTApKQogICAgZ2Z4LnNldENvbG9yKENvbG9yLkJMVUUpCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuc3ByaW5nZnJhbWV3b3JrL3NwcmluZy1jb250ZXh0CmNvbXBpbGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrJywgbmFtZTogJ3NwcmluZy1jb250ZXh0JywgdmVyc2lvbjogJzQuMy44LlJFTEVBU0UnCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkXD4=</last-search>
+      <last-search>demo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkXD4=</last-pattern>
+      <last-pattern>demo</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -134,6 +129,8 @@ src/usecase/</text>
         <entry>tex</entry>
         <entry encoding="base64">XDxodHRwc1w+</entry>
         <entry encoding="base64">XDxkXD4=</entry>
+        <entry>demoo</entry>
+        <entry>demo</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
