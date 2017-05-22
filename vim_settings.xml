@@ -43,10 +43,12 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.gitignore" timestamp="1495468310359">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.gitignore" timestamp="1495490630171">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+        <mark key="^" line="6" column="5" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/impl/ImageHandler.kt" timestamp="1495461506752">
         <mark key="[" line="16" column="1" />
@@ -69,6 +71,7 @@
       <jump line="21" column="13" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/IImageHandler.kt" />
       <jump line="19" column="3" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" />
       <jump line="14" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" />
+      <jump line="7" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
