@@ -10,7 +10,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495461803879">
+      <file name="/Dummy.txt" timestamp="1495468489593">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/IFileHandler.kt" timestamp="1495297905019">
@@ -37,12 +37,18 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
       </file>
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.gitignore" timestamp="1495468310359">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/impl/ImageHandler.kt" timestamp="1495461506752">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="16" column="1" />
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
       </file>
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.git/info/exclude" timestamp="1495468505043" />
       <file name="/fragment.java" timestamp="1495395378015">
         <mark key="[" line="0" column="0" />
       </file>
@@ -57,35 +63,10 @@
       <jump line="21" column="13" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/IImageHandler.kt" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">IHZhbCB1cmw6IFN0cmluZyA9ICJodHRwczovL2ltYWdlczIub25pb25zdGF0aWMuY29tL2NsaWNraG9sZS8zNTY0Lzcvb3JpZ2luYWwvNjAwLmpwZyI7CiAgICB2YWwgaW1nID0gSW1hZ2VJTy5yZWFkKFVSTCh1cmwpKQogICAgdmFsIGdmeCA9IGltZy5jcmVhdGVHcmFwaGljcygpCiAgICBnZnguc2V0Rm9udChGb250KCJUaW1lc1JvbWFuIiwgRm9udC5QTEFJTiwgNTApKQogICAgZ2Z4LnNldENvbG9yKENvbG9yLkJMVUUpCiAgICBnZnguZHJhd1N0cmluZygidGVzdCIsIDgwLCA4MCkKCiAgICB2YWwgYnl0ZUFycmF5T3V0cHV0U3RyZWFtID0gQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCk7CiAgICBJbWFnZUlPLndyaXRlKGltZywgInBuZyIsIGJ5dGVBcnJheU91dHB1dFN0cmVhbSk7CiAgIA==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGdmeC5kcmF3U3RyaW5nKCJ0ZXN0IiwgODAsIDgwKQo=</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>setFon</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIHZhbCB1cmw6IFN0cmluZyA9ICJodHRwczovL2ltYWdlczIub25pb25zdGF0aWMuY29tL2NsaWNraG9sZS8zNTY0Lzcvb3JpZ2luYWwvNjAwLmpwZyI7CiAgICB2YWwgaW1nID0gSW1hZ2VJTy5yZWFkKFVSTCh1cmwpKQogICAgdmFsIGdmeCA9IGltZy5jcmVhdGVHcmFwaGljcygpCiAgICBnZnguc2V0Rm9udChGb250KCJUaW1lc1JvbWFuIiwgRm9udC5QTEFJTiwgNTApKQogICAgZ2Z4LnNldENvbG9yKENvbG9yLkJMVUUpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgdmFsIGJ5dGVBcnJheU91dHB1dFN0cmVhbSA9IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpOwogICAgICAgIEltYWdlSU8ud3JpdGUoaW1hZ2UsICJwbmciLCBieXRlQXJyYXlPdXRwdXRTdHJlYW0pOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaW1nID0gSW1hZ2VJTy5yZWFkKFVSTCh1cmwpKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXJsOiBTdHJpbmcgPSAiaHR0cHM6Ly9pbWFnZXMyLm9uaW9uc3RhdGljLmNvbS9jbGlja2hvbGUvMzU2NC83L29yaWdpbmFsLzYwMC5qcGciOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>nohl</text>
+        <text>src/domain/businessrule/
+src/interface/
+src/usecase/</text>
       </register>
       <register name="-" type="4">
         <text>setFon</text>
@@ -93,13 +74,45 @@
       <register name="/" type="4">
         <text>tex</text>
       </register>
+      <register name="0" type="4">
+        <text encoding="base64">IHZhbCB1cmw6IFN0cmluZyA9ICJodHRwczovL2ltYWdlczIub25pb25zdGF0aWMuY29tL2NsaWNraG9sZS8zNTY0Lzcvb3JpZ2luYWwvNjAwLmpwZyI7CiAgICB2YWwgaW1nID0gSW1hZ2VJTy5yZWFkKFVSTCh1cmwpKQogICAgdmFsIGdmeCA9IGltZy5jcmVhdGVHcmFwaGljcygpCiAgICBnZnguc2V0Rm9udChGb250KCJUaW1lc1JvbWFuIiwgRm9udC5QTEFJTiwgNTApKQogICAgZ2Z4LnNldENvbG9yKENvbG9yLkJMVUUpCiAgICBnZnguZHJhd1N0cmluZygidGVzdCIsIDgwLCA4MCkKCiAgICB2YWwgYnl0ZUFycmF5T3V0cHV0U3RyZWFtID0gQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCk7CiAgICBJbWFnZUlPLndyaXRlKGltZywgInBuZyIsIGJ5dGVBcnJheU91dHB1dFN0cmVhbSk7CiAgIA==</text>
+      </register>
+      <register name="1" type="4">
+        <text>src/domain/businessrule/
+src/interface/
+src/usecase/</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGdmeC5kcmF3U3RyaW5nKCJ0ZXN0IiwgODAsIDgwKQo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHZhbCB1cmw6IFN0cmluZyA9ICJodHRwczovL2ltYWdlczIub25pb25zdGF0aWMuY29tL2NsaWNraG9sZS8zNTY0Lzcvb3JpZ2luYWwvNjAwLmpwZyI7CiAgICB2YWwgaW1nID0gSW1hZ2VJTy5yZWFkKFVSTCh1cmwpKQogICAgdmFsIGdmeCA9IGltZy5jcmVhdGVHcmFwaGljcygpCiAgICBnZnguc2V0Rm9udChGb250KCJUaW1lc1JvbWFuIiwgRm9udC5QTEFJTiwgNTApKQogICAgZ2Z4LnNldENvbG9yKENvbG9yLkJMVUUpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAgICAgdmFsIGJ5dGVBcnJheU91dHB1dFN0cmVhbSA9IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpOwogICAgICAgIEltYWdlSU8ud3JpdGUoaW1hZ2UsICJwbmciLCBieXRlQXJyYXlPdXRwdXRTdHJlYW0pOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgaW1nID0gSW1hZ2VJTy5yZWFkKFVSTCh1cmwpKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgdXJsOiBTdHJpbmcgPSAiaHR0cHM6Ly9pbWFnZXMyLm9uaW9uc3RhdGljLmNvbS9jbGlja2hvbGUvMzU2NC83L29yaWdpbmFsLzYwMC5qcGciOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>nohl</text>
+      </register>
     </registers>
     <search>
       <last-search>tex</last-search>
       <last-offset />
       <last-pattern>tex</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
