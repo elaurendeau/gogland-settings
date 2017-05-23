@@ -10,14 +10,6 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495468489593">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/IFileHandler.kt" timestamp="1495297905019">
-        <mark key="]" line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-      </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" timestamp="1495475379226">
         <mark key="[" line="7" column="37" />
         <mark key="]" line="7" column="37" />
@@ -30,22 +22,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace_kotlin/Test/src/app.kt" timestamp="1495219531733">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/Application.go" timestamp="1494299236362">
         <mark key="'" line="49" column="16" />
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="^" line="49" column="71" />
         <mark key="." line="89" column="0" />
-      </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.gitignore" timestamp="1495468310359">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="D:/workspace_go/src/github.com/elaurendeau/TensorflowTrainingImageGenerator/ui/main.html" timestamp="1494299246628">
         <mark key="'" line="13" column="0" />
@@ -56,6 +38,40 @@
       </file>
       <file name="/Kotlin Console" timestamp="1495055644429">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/ProductConstants.java" timestamp="1495560784921">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="42" />
+        <mark key="^" line="13" column="63" />
+        <mark key="." line="13" column="42" />
+      </file>
+      <file name="D:/workspace_ML/MLTest/pom.xml" timestamp="1493685016936">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="24" column="39" />
+        <mark key="^" line="24" column="39" />
+        <mark key="." line="24" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductServiceImpl.java" timestamp="1495559069385">
+        <mark key="^" line="57" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1495468489593">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/IFileHandler.kt" timestamp="1495297905019">
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace_kotlin/Test/src/app.kt" timestamp="1495219531733">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.gitignore" timestamp="1495468310359">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="D:/workspace_kotlin/TEST/src/test.kt" timestamp="1495148993175">
         <mark key="[" line="0" column="29" />
@@ -101,26 +117,14 @@
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="D:/workspace_ML/MLTest/pom.xml" timestamp="1493685016936">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="24" column="39" />
-        <mark key="^" line="24" column="39" />
-        <mark key="." line="24" column="39" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-core/src/main/java/com/cgi/rxp/service/impl/AbstractSyncService.java" timestamp="1495553354873">
         <mark key="[" line="47" column="27" />
         <mark key="]" line="47" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductServiceImpl.java" timestamp="1495559069385">
-        <mark key="^" line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1495559250602">
-        <mark key="[" line="271" column="0" />
-        <mark key="]" line="271" column="0" />
-        <mark key="." line="271" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1495559188218">
+      <file name="/fragment.java" timestamp="1495561058668">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -133,22 +137,29 @@
       <jump line="21" column="13" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/IImageHandler.kt" />
       <jump line="65" column="2" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/service/impl/ProductService.java" />
       <jump line="67" column="84" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/service/impl/ProductService.java" />
+      <jump line="272" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
+      <jump line="293" column="23" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
+      <jump line="288" column="19" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
+      <jump line="292" column="25" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
+      <jump line="12" column="27" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/ProductConstants.java" />
+      <jump line="13" column="2" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/ProductConstants.java" />
+      <jump line="295" column="45" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkb2N1bWVudE9iamVjdC5nZXRDb250ZW50KCkK</text>
+        <text encoding="base64">ICAgIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7CiAgICBBcnJheU5vZGUgaW5jbHVkZWRJbk5vZGUgPSBvYmplY3RNYXBwZXIuY3JlYXRlQXJyYXlOb2RlKCk7CgogICAgT2JqZWN0Tm9kZSBhbGxQcm9kdWN0U2VsZWN0aW9uTm9kZSA9IG9iamVjdE1hcHBlci5jcmVhdGVPYmplY3ROb2RlKCk7CiAgICBhbGxQcm9kdWN0U2VsZWN0aW9uTm9kZS5wdXQoImNvZGUiLCBQcm9kdWN0Q29uc3RhbnRzLlNFTEVDVElPTl9DT0RFX1NFTEVDVElPTl9BTExfUFJPRFVDVFMpOwogICAgYWxsUHJvZHVjdFNlbGVjdGlvbk5vZGUucHV0KCJpZCIsIFByb2R1Y3RDb25zdGFudHMuU0VMRUNUSU9OX0lEX1NFTEVDVElPTl9BTExfUFJPRFVDVFMpOwoKICAgIGluY2x1ZGVkSW5Ob2RlLmFkZChhbGxQcm9kdWN0U2VsZWN0aW9uTm9kZSk7CiAgICBkb2N1bWVudE9iamVjdC5nZXRDb250ZW50KCkucHV0KCJpbmNsdWRlZEluIiwgaW5jbHVkZWRJbk5vZGUpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>co</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IHRocm93cyBEQk9Jbml0aWFsaXphdGlvbkV4Y2VwdGlvbiA=</text>
+        <text encoding="base64">IE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7CiAgICBBcnJheU5vZGUgaW5jbHVkZWRJbk5vZGUgPSBvYmplY3RNYXBwZXIuY3JlYXRlQXJyYXlOb2RlKCk7CgogICAgT2JqZWN0Tm9kZSBhbGxQcm9kdWN0U2VsZWN0aW9uTm9kZSA9IG9iamVjdE1hcHBlci5jcmVhdGVPYmplY3ROb2RlKCk7CiAgICBhbGxQcm9kdWN0U2VsZWN0aW9uTm9kZS5wdXQoImNvZGUiLCBQcm9kdWN0Q29uc3RhbnRzLlNFTEVDVElPTl9DT0RFX1NFTEVDVElPTl9BTExfUFJPRFVDVFMpOwogICAgYWxsUHJvZHVjdFNlbGVjdGlvbk5vZGUucHV0KCJpZCIsIFByb2R1Y3RDb25zdGFudHMuU0VMRUNUSU9OX0lEX1NFTEVDVElPTl9BTExfUFJPRFVDVFMpOwoKICAgIGluY2x1ZGVkSW5Ob2RlLmFkZChhbGxQcm9kdWN0U2VsZWN0aW9uTm9kZSk7CiAgICBkb2N1bWVudE9iamVjdC5nZXRDb250ZW50KCkucHV0KCJpbmNsdWRlZEluIiwgaW5jbHVkZWRJbk5vZGUpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkb2N1bWVudE9iamVjdC5nZXRDb250ZW50KCkK</text>
+        <text encoding="base64">ICAgIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7CiAgICBBcnJheU5vZGUgaW5jbHVkZWRJbk5vZGUgPSBvYmplY3RNYXBwZXIuY3JlYXRlQXJyYXlOb2RlKCk7CgogICAgT2JqZWN0Tm9kZSBhbGxQcm9kdWN0U2VsZWN0aW9uTm9kZSA9IG9iamVjdE1hcHBlci5jcmVhdGVPYmplY3ROb2RlKCk7CiAgICBhbGxQcm9kdWN0U2VsZWN0aW9uTm9kZS5wdXQoImNvZGUiLCBQcm9kdWN0Q29uc3RhbnRzLlNFTEVDVElPTl9DT0RFX1NFTEVDVElPTl9BTExfUFJPRFVDVFMpOwogICAgYWxsUHJvZHVjdFNlbGVjdGlvbk5vZGUucHV0KCJpZCIsIFByb2R1Y3RDb25zdGFudHMuU0VMRUNUSU9OX0lEX1NFTEVDVElPTl9BTExfUFJPRFVDVFMpOwoKICAgIGluY2x1ZGVkSW5Ob2RlLmFkZChhbGxQcm9kdWN0U2VsZWN0aW9uTm9kZSk7CiAgICBkb2N1bWVudE9iamVjdC5nZXRDb250ZW50KCkucHV0KCJpbmNsdWRlZEluIiwgaW5jbHVkZWRJbk5vZGUpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -167,40 +178,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAKICBAT3ZlcnJpZGUKICBwdWJsaWMg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEFycmF5Tm9kZSBzZWxlY3Rpb25MaXN0ID0gKEFycmF5Tm9kZSkgZG9jdW1lbnRPYmplY3QuZ2V0Q29udGVudCgpLnBhdGgoImluY2x1ZGVkSW4iKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHNlbGVjdGlvbkxpc3QuZm9yRWFjaChlbGVtZW50IC0+IFN5c3RlbS5vdXQucHJpbnRsbihlbGVtZW50LnRleHRWYWx1ZSgpKSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>src/domain/businessrule/
-src/interface/
-src/usecase/</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEFycmF5Tm9kZSBzZWxlY3Rpb25MaXN0ID0gKEFycmF5Tm9kZSkgZG9jdW1lbnRPYmplY3QuZ2V0Q29udGVudCgpLnBhdGgoImluY2x1ZGVkSW4iKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdmeC5kcmF3U3RyaW5nKCJ0ZXN0IiwgODAsIDgwKQo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBTRUxFQ1RJT05fSURfUFNFTEVDVElPTl9BTExfUFJPRFVDVFMgPSAic3lzdGVtOjpzZWxlY3Rpb25fcHJvZHVjdCI7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIHZhbCB1cmw6IFN0cmluZyA9ICJodHRwczovL2ltYWdlczIub25pb25zdGF0aWMuY29tL2NsaWNraG9sZS8zNTY0Lzcvb3JpZ2luYWwvNjAwLmpwZyI7CiAgICB2YWwgaW1nID0gSW1hZ2VJTy5yZWFkKFVSTCh1cmwpKQogICAgdmFsIGdmeCA9IGltZy5jcmVhdGVHcmFwaGljcygpCiAgICBnZnguc2V0Rm9udChGb250KCJUaW1lc1JvbWFuIiwgRm9udC5QTEFJTiwgNTApKQogICAgZ2Z4LnNldENvbG9yKENvbG9yLkJMVUUpCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudE9iamVjdC5nZXRDb250ZW50KCkucGF0aCgiaW5jbHVkZWRJbiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgdmFsIGJ5dGVBcnJheU91dHB1dFN0cmVhbSA9IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpOwogICAgICAgIEltYWdlSU8ud3JpdGUoaW1hZ2UsICJwbmciLCBieXRlQXJyYXlPdXRwdXRTdHJlYW0pOwo=</text>
+        <text encoding="base64">ICBkb2N1bWVudE9iamVjdC5nZXRDb250ZW50KCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaW1nID0gSW1hZ2VJTy5yZWFkKFVSTCh1cmwpKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAKICBAT3ZlcnJpZGUKICBwdWJsaWMg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXJsOiBTdHJpbmcgPSAiaHR0cHM6Ly9pbWFnZXMyLm9uaW9uc3RhdGljLmNvbS9jbGlja2hvbGUvMzU2NC83L29yaWdpbmFsLzYwMC5qcGciOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>co</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>co</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -217,6 +226,10 @@ src/usecase/</text>
         <entry>this</entry>
         <entry>)</entry>
         <entry>save</entry>
+        <entry>update</entry>
+        <entry>oldDoc</entry>
+        <entry>code</entry>
+        <entry>co</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
