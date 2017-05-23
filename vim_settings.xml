@@ -68,10 +68,11 @@
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/service/impl/ProductService.java" timestamp="1495552490189">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/service/impl/ProductService.java" timestamp="1495553393068">
+        <mark key="[" line="67" column="84" />
+        <mark key="]" line="67" column="84" />
+        <mark key="." line="67" column="84" />
+        <mark key="^" line="67" column="49" />
       </file>
       <file name="D:/workspace_ML/MLTest/src/main/java/Application.java" timestamp="1493693858723">
         <mark key="'" line="34" column="29" />
@@ -105,6 +106,10 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="24" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-core/src/main/java/com/cgi/rxp/service/impl/AbstractSyncService.java" timestamp="1495553354873">
+        <mark key="[" line="47" column="27" />
+        <mark key="]" line="47" column="61" />
+      </file>
       <file name="/fragment.java" timestamp="1495395378015">
         <mark key="[" line="0" column="0" />
       </file>
@@ -120,17 +125,17 @@
       <jump line="65" column="2" filename="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/service/impl/ProductService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>myKotlin</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>tex</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IHZhbCB1cmw6IFN0cmluZyA9ICJodHRwczovL2ltYWdlczIub25pb25zdGF0aWMuY29tL2NsaWNraG9sZS8zNTY0Lzcvb3JpZ2luYWwvNjAwLmpwZyI7CiAgICB2YWwgaW1nID0gSW1hZ2VJTy5yZWFkKFVSTCh1cmwpKQogICAgdmFsIGdmeCA9IGltZy5jcmVhdGVHcmFwaGljcygpCiAgICBnZnguc2V0Rm9udChGb250KCJUaW1lc1JvbWFuIiwgRm9udC5QTEFJTiwgNTApKQogICAgZ2Z4LnNldENvbG9yKENvbG9yLkJMVUUpCiAgICBnZnguZHJhd1N0cmluZygidGVzdCIsIDgwLCA4MCkKCiAgICB2YWwgYnl0ZUFycmF5T3V0cHV0U3RyZWFtID0gQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCk7CiAgICBJbWFnZUlPLndyaXRlKGltZywgInBuZyIsIGJ5dGVBcnJheU91dHB1dFN0cmVhbSk7CiAgIA==</text>
+        <text encoding="base64">IHRocm93cyBEQk9Jbml0aWFsaXphdGlvbkV4Y2VwdGlvbiA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
