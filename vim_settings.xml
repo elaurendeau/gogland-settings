@@ -18,6 +18,9 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/ImageHandler.kt" timestamp="1495506693754">
+        <mark key="[" line="7" column="0" />
+      </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" timestamp="1495500310027">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="28" column="90" />
@@ -29,6 +32,19 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.gitignore" timestamp="1495492220529">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+      </file>
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/app.kt" timestamp="1495506183644">
+        <mark key="[" line="21" column="93" />
+        <mark key="]" line="21" column="92" />
+        <mark key="^" line="21" column="92" />
+        <mark key="." line="21" column="92" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/IImageHandler.kt" timestamp="1495394780376">
         <mark key="'" line="21" column="13" />
@@ -43,18 +59,11 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.gitignore" timestamp="1495492220529">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-      </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/interface/controller/ImageController.kt" timestamp="1495500592500">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/interface/controller/ImageController.kt" timestamp="1495506612926">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/impl/ImageHandler.kt" timestamp="1495461506752">
         <mark key="[" line="16" column="1" />
@@ -81,16 +90,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>demo</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Ly8gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuc3ByaW5nZnJhbWV3b3JrL3NwcmluZy1jb250ZXh0CmNvbXBpbGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrJywgbmFtZTogJ3NwcmluZy1jb250ZXh0JywgdmVyc2lvbjogJzQuMy44LlJFTEVBU0UnCg==</text>
+        <text>&quot;https://images2.onionstatic.com/clickhole/3564/7/original/600.jpg&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZAo=</text>
