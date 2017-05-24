@@ -45,12 +45,8 @@
       <file name="/Kotlin Console" timestamp="1495055644429">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/ProductConstants.java" timestamp="1495562757804">
-        <mark key="'" line="13" column="2" />
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="13" column="40" />
-        <mark key="^" line="13" column="40" />
-        <mark key="." line="13" column="40" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/ProductConstants.java" timestamp="1495639414979">
+        <mark key="[" line="12" column="70" />
       </file>
       <file name="D:/workspace_ML/MLTest/pom.xml" timestamp="1493685016936">
         <mark key="[" line="9" column="0" />
@@ -61,7 +57,7 @@
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductServiceImpl.java" timestamp="1495559069385">
         <mark key="^" line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1495636779453">
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1495638821116">
         <mark key="'" line="473" column="2" />
         <mark key="[" line="473" column="3" />
         <mark key="]" line="473" column="1" />
@@ -135,7 +131,7 @@
         <mark key="[" line="47" column="27" />
         <mark key="]" line="47" column="61" />
       </file>
-      <file name="/fragment.java" timestamp="1495635477542">
+      <file name="/fragment.java" timestamp="1495638821914">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -184,10 +180,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Exception</text>
+        <text>SELECTION_CODE_SELECTION_ALL_PRODUCTS</text>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>SELECTION_CODE_SELECTION_ALL_PRODUCTS</text>
       </register>
       <register name="/" type="4">
         <text>selection</text>
@@ -196,7 +192,7 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBTRUxFQ1RJT05fQ09ERV9TRUxFQ1RJT05fQUxMX1BST0RVQ1RTID0gIlNFTEVDVElPTl9DT0RFX1NFTEVDVElPTl9BTExfUFJPRFVDVFMiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBTRUxFQ1RJT05fSURfU0VMRUNUSU9OX0FMTF9QUk9EVUNUUyA9ICJTRUxFQ1RJT05fQ09ERV9TRUxFQ1RJT05fQUxMX1BST0RVQ1RTIjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -216,28 +212,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFycmF5Tm9kZSBpbmNsdWRlZEluTm9kZSA9IG9iamVjdE1hcHBlci5jcmVhdGVBcnJheU5vZGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIEFycmF5Tm9kZSBpbmNsdWRlZEluTm9kZSA9IG9iamVjdE1hcHBlci5jcmVhdGVBcnJheU5vZGUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgIEFycmF5Tm9kZSBpbmNsdWRlZEluTm9kZSA9IG9iamVjdE1hcHBlci5jcmVhdGVBcnJheU5vZGUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlTdHJpbmcgb2xkU3RhdHVzQ29kZSA9IG9sZERvYy5nZXRDb250ZW50KCkuZ2V0KCJzdGF0dXMiKS5nZXQoInN5c3RlbVN0YXR1cyIpLnRleHRWYWx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlEb2N1bWVudE9iamVjdCBvbGREb2MgPSB0aGlzLmZpbmRPbmUoZG9jdW1lbnRPYmplY3QuZ2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">CQlTdHJpbmcgb2xkU3RhdHVzQ29kZSA9IG9sZERvYy5nZXRDb250ZW50KCkuZ2V0KCJzdGF0dXMiKS5nZXQoInN5c3RlbVN0YXR1cyIpLnRleHRWYWx1ZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlEb2N1bWVudE9iamVjdCBvbGREb2MgPSB0aGlzLmZpbmRPbmUoZG9jdW1lbnRPYmplY3QuZWdldElkKCkpOwo=</text>
+        <text encoding="base64">CQlEb2N1bWVudE9iamVjdCBvbGREb2MgPSB0aGlzLmZpbmRPbmUoZG9jdW1lbnRPYmplY3QuZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlEb2N1bWVudE9iamVjdCBvbGREb2MgPSB0aGlzLmZpbmRPbmUoZG9jdW1lbnRPYmplY3QuZWdldElkKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9kZHNkYXNkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
