@@ -18,8 +18,11 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/ImageHandler.kt" timestamp="1495506693754">
-        <mark key="[" line="7" column="0" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/ImageHandler.kt" timestamp="1495593675606">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+        <mark key="^" line="10" column="11" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" timestamp="1495583333983">
         <mark key="'" line="11" column="0" />
@@ -60,11 +63,10 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/interface/controller/ImageController.kt" timestamp="1495591445065">
-        <mark key="[" line="8" column="68" />
-        <mark key="]" line="8" column="68" />
-        <mark key="." line="8" column="68" />
-        <mark key="^" line="8" column="68" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/interface/controller/ImageController.kt" timestamp="1495593732257">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="7" column="1" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/impl/ImageHandler.kt" timestamp="1495461506752">
         <mark key="[" line="16" column="1" />
@@ -72,10 +74,10 @@
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/AppConfig.kt" timestamp="1495590423488">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/AppConfig.kt" timestamp="1495593287433">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="30" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.git/info/exclude" timestamp="1495468505043" />
       <file name="/fragment.java" timestamp="1495395378015">
@@ -95,11 +97,11 @@
       <jump line="7" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uQ29udGV4dC5yZWdpc3RlcihBcHBDb25maWcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Controller</text>
       </register>
       <register name="-" type="4">
-        <text>cla</text>
+        <text>Controller</text>
       </register>
       <register name="/" type="4">
         <text>demo</text>
@@ -108,31 +110,31 @@
         <text>&quot;https://images2.onionstatic.com/clickhole/3564/7/original/600.jpg&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uQ29udGV4dC5yZWdpc3RlcihBcHBDb25maWcpCg==</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdkZG9yay5zdGVyZW90eXBlLkNvbnRyb2xsZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGluZnJhc3RydWN0dXJlLmltcGwuSW1hZ2VIYW5kbGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uQ29udGV4dC5yZWdpc3RlcihBcHBDb25maWcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBpbWFnZUhhbmRsZXI6IElJbWFnZUhhbmRsZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBpbWFnZUhhbmRsZXI6IElJbWFnZUhhbmRsZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
