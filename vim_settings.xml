@@ -41,8 +41,11 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/app.kt" timestamp="1495587808676">
-        <mark key="^" line="28" column="92" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/app.kt" timestamp="1495590382349">
+        <mark key="[" line="23" column="63" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="63" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/IImageHandler.kt" timestamp="1495394780376">
         <mark key="'" line="21" column="13" />
@@ -68,6 +71,11 @@
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
       </file>
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/AppConfig.kt" timestamp="1495590423488">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.git/info/exclude" timestamp="1495468505043" />
       <file name="/fragment.java" timestamp="1495395378015">
         <mark key="[" line="0" column="0" />
@@ -86,11 +94,11 @@
       <jump line="7" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uQ29udGV4dC5yZWdpc3Rlcigp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uQ29udGV4dC5yZWdpc3RlcihBcHBDb25maWcpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uQ29udGV4dC5yZWdpc3Rlcigp</text>
+        <text>cla</text>
       </register>
       <register name="/" type="4">
         <text>demo</text>
@@ -99,31 +107,31 @@
         <text>&quot;https://images2.onionstatic.com/clickhole/3564/7/original/600.jpg&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uQ29udGV4dC5yZWdpc3RlcihBcHBDb25maWcpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBpbWFnZUhhbmRsZXI6IElJbWFnZUhhbmRsZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBpbWFnZUhhbmRsZXI6IElJbWFnZUhhbmRsZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
