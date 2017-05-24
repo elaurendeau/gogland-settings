@@ -18,11 +18,10 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/ImageHandler.kt" timestamp="1495593675606">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="10" column="1" />
-        <mark key="^" line="10" column="11" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/ImageHandler.kt" timestamp="1495596066057">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" timestamp="1495583333983">
         <mark key="'" line="11" column="0" />
@@ -37,18 +36,23 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.gitignore" timestamp="1495492220529">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="7" column="7" />
-        <mark key="." line="7" column="7" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.gitignore" timestamp="1495595929840">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="1" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/app.kt" timestamp="1495590382349">
-        <mark key="[" line="23" column="63" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="23" column="63" />
-        <mark key="." line="24" column="0" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/app.kt" timestamp="1495595759466">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="30" />
+        <mark key="^" line="25" column="71" />
+        <mark key="." line="25" column="71" />
+      </file>
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/Application.kt" timestamp="1495596054223">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/IImageHandler.kt" timestamp="1495394780376">
         <mark key="'" line="21" column="13" />
@@ -63,10 +67,11 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/interface/controller/ImageController.kt" timestamp="1495593732257">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="7" column="1" />
-        <mark key="." line="7" column="1" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/interface/controller/ImageController.kt" timestamp="1495595880741">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="23" column="34" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/impl/ImageHandler.kt" timestamp="1495461506752">
         <mark key="[" line="16" column="1" />
@@ -74,10 +79,11 @@
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/AppConfig.kt" timestamp="1495593287433">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="30" />
-        <mark key="." line="5" column="30" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/AppConfig.kt" timestamp="1495595265295">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="4" column="33" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.git/info/exclude" timestamp="1495468505043" />
       <file name="/fragment.java" timestamp="1495395378015">
@@ -95,56 +101,66 @@
       <jump line="19" column="3" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" />
       <jump line="14" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" />
       <jump line="7" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.gitignore" />
+      <jump line="20" column="7" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/interface/controller/ImageController.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Controller</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy4uc3RlcmVvdHlwZS5TZXJ2aWNlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Controller</text>
+        <text>springframework</text>
       </register>
       <register name="/" type="4">
-        <text>demo</text>
+        <text>arrayTo</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;https://images2.onionstatic.com/clickhole/3564/7/original/600.jpg&quot;</text>
+        <text>Font(&quot;TimesRoman&quot;, Font.PLAIN, 50)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy4uc3RlcmVvdHlwZS5TZXJ2aWNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdkZG9yay5zdGVyZW90eXBlLkNvbnRyb2xsZXIK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpZG5nZnJhbWV3b3JrLnN0ZXJlb3R5cGUuQ29tcG9uZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGluZnJhc3RydWN0dXJlLmltcGwuSW1hZ2VIYW5kbGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uQ29udGV4dC5yZWdpc3RlcihBcHBDb25maWcpCg==</text>
+        <text encoding="base64">Ly8gICAgdmFsZU91dHB1dFN0cmVhbSgidGVzdC5wbmciKS53cml0ZShieXRlQXJyYXlPdXRwdXRTdHJlYW0udG9CeXRlQXJyYXkoKSk7bwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>l url: String = &quot;https://images2.onionstatic.com/clickhole/3564/7/original/600.jpg&quot;;
+//    val img = ImageIO.read(URL(url))
+//    val gfx = img.createGraphics()
+//    gfx.setFont(Font(&quot;TimesRoman&quot;, Font.PLAIN, 50))
+//    gfx.setColor(Color.BLUE)
+//    gfx.drawString(&quot;test&quot;, 80, 80)
+//
+//    val byteArrayOutputStream = ByteArrayOutputStream();
+//    ImageIO.write(img, &quot;png&quot;, byteArrayOutputStream);
+//    Fi</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgZ2Z4LnNldENvbG9yKENvbG9yLkJMVUUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBpbWFnZUhhbmRsZXI6IElJbWFnZUhhbmRsZXIK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICBnZnguc2V0Rm9udChGb250KCJUaW1lc1JvbWFuIiwgRm9udC5QTEFJTiwgNTApKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZ2Z4ID0gaW1nLmNyZWF0ZUdyYXBoaWNzKCkK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>demo</last-search>
+      <last-search>arrayTo</last-search>
       <last-offset />
-      <last-pattern>demo</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>arrayTo</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -157,6 +173,7 @@
         <entry encoding="base64">XDxkXD4=</entry>
         <entry>demoo</entry>
         <entry>demo</entry>
+        <entry>arrayTo</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
