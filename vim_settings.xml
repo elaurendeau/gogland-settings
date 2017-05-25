@@ -50,7 +50,7 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1495722156079">
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1495723912964">
         <mark key="[" line="358" column="0" />
         <mark key="]" line="358" column="0" />
         <mark key="." line="358" column="0" />
@@ -58,11 +58,11 @@
       <file name="/Dummy.txt" timestamp="1495652547575">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/OfferController.java" timestamp="1495722210368">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/OfferController.java" timestamp="1495723929990">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
         <mark key="^" line="19" column="33" />
-        <mark key="." line="106" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/Test/src/app.kt" timestamp="1495219531733">
         <mark key="[" line="2" column="0" />
@@ -153,7 +153,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1495649140209">
+      <file name="/fragment.java" timestamp="1495723915869">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -238,28 +238,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBPYmplY3RNYXBwZXIgb20gPSBuZXcgT2JqZWN0TWFwcGVyKCk7CgogICAgb20udmFsdWVUb1RyZWUoYWN0aW9uQXR0cmlidXRlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGdlbmVyYXRlSW5jbHVkZWRJbkZpZWxkKGRvY3VtZW50T2JqZWN0KTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIE9iamVjdE1hcHBlciBvbSA9IG5ldyBPYmplY3RNYXBwZXIoKTsKCiAgICBvbS52YWx1ZVRvVHJlZShhY3Rpb25BdHRyaWJ1dGUp</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBPYmplY3RNYXBwZXIgb20gPSBuZXcgT2JqZWN0TWFwcGVyKCk7CgogICAgb20udmFsdWVUb1RyZWUoYWN0aW9uQXR0cmlidXRlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgQWJzdHJhY3REb2N1bWVudCBjb25zdHJ1Y3QoRG9jdW1lbnRPYmplY3QgZG9jdW1lbnRPYmplY3QsIE1ldGFtb2RlbCBtZXRhbW9kZWwpIHsKICAgIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7CiAgICBvYmplY3RNYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKHN0YXR1cykKICB9Cg==</text>
+        <text encoding="base64">ICAgIGdlbmVyYXRlSW5jbHVkZWRJbkZpZWxkKGRvY3VtZW50T2JqZWN0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhYnN0cmFjdERvY3VtZW50TWFuYWdlci5hYnN0cmFjdERvY3VtZW50RnJvbURvY3VtZW50T2JqZWN0KGRvY3VtZW50T2JqZWN0LCBtZXRhTW9kZWwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJvbWVzTm9kZSBtZXRhTW9kZWwgPSBlbnRpdHlTZXJ2aWNlLmZpbmRFbnRpdHlCeU5hbWUoZG9jdW1lbnRPYmplY3QuZ2V0VHlwZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwdWJsaWMgQWJzdHJhY3REb2N1bWVudCBjb25zdHJ1Y3QoRG9jdW1lbnRPYmplY3QgZG9jdW1lbnRPYmplY3QsIE1ldGFtb2RlbCBtZXRhbW9kZWwpIHsKICAgIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7CiAgICBvYmplY3RNYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKHN0YXR1cykKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
