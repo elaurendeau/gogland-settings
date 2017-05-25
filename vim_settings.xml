@@ -15,18 +15,48 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" timestamp="1495738054008">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="236" column="43" />
+        <mark key="]" line="236" column="80" />
+        <mark key="^" line="236" column="80" />
+        <mark key="." line="236" column="80" />
+      </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/IImageUC.kt" timestamp="1495642558218">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="3" column="77" />
         <mark key="^" line="3" column="77" />
         <mark key="." line="3" column="77" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/SelectionConstants.java" timestamp="1495736930612">
+        <mark key="[" line="26" column="59" />
+      </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/AppConfig.kt" timestamp="1495645321006">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="4" column="83" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/ProductConstants.java" timestamp="1495720935283">
-        <mark key="[" line="10" column="59" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/CustomerConstants.java" timestamp="1495737879049">
+        <mark key="'" line="3" column="66" />
+        <mark key="[" line="3" column="93" />
+        <mark key="]" line="3" column="101" />
+        <mark key="." line="3" column="101" />
+        <mark key="^" line="3" column="101" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/dto/Code.java" timestamp="1495737482084">
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/PeriodConstants.java" timestamp="1495737924949">
+        <mark key="'" line="3" column="64" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="97" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/ProductConstants.java" timestamp="1495737599820">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="102" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/impl/LabelGeneratorUC.kt" timestamp="1495643138214">
         <mark key="[" line="6" column="0" />
@@ -50,12 +80,25 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1495733824042">
-        <mark key="'" line="377" column="24" />
-        <mark key="[" line="428" column="26" />
-        <mark key="]" line="428" column="47" />
-        <mark key="." line="428" column="47" />
-        <mark key="^" line="428" column="47" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1495737493326">
+        <mark key="'" line="379" column="24" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/SiteConstants.java" timestamp="1495737824390">
+        <mark key="'" line="3" column="62" />
+        <mark key="[" line="3" column="89" />
+        <mark key="]" line="3" column="89" />
+        <mark key="." line="3" column="89" />
+        <mark key="^" line="3" column="62" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" timestamp="1495737968240">
+        <mark key="'" line="295" column="71" />
+        <mark key="[" line="287" column="0" />
+        <mark key="]" line="298" column="2" />
+        <mark key="^" line="286" column="1" />
+        <mark key="." line="286" column="1" />
       </file>
       <file name="/Dummy.txt" timestamp="1495652547575">
         <mark key="[" line="0" column="0" />
@@ -114,13 +157,6 @@
         <mark key="[" line="150" column="17" />
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" timestamp="1495644467809">
-        <mark key="a" line="35" column="40" />
-        <mark key="[" line="35" column="39" />
-        <mark key="]" line="35" column="39" />
-        <mark key="^" line="35" column="30" />
-        <mark key="." line="35" column="39" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/RegexGeneratorHandler.kt" timestamp="1495645078341">
         <mark key="[" line="5" column="0" />
@@ -219,22 +255,36 @@
       <jump line="470" column="5" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5-sources.jar!/com/fasterxml/jackson/databind/node/ObjectNode.java" />
       <jump line="527" column="5" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5-sources.jar!/com/fasterxml/jackson/databind/node/ObjectNode.java" />
       <jump line="377" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
+      <jump line="77" column="4" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
+      <jump line="292" column="3" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
+      <jump line="80" column="4" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
+      <jump line="79" column="1" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
+      <jump line="3" column="62" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/SiteConstants.java" />
+      <jump line="3" column="66" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/CustomerConstants.java" />
+      <jump line="4" column="64" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/PeriodConstants.java" />
+      <jump line="298" column="41" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
+      <jump line="12" column="31" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
+      <jump line="293" column="71" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="220" column="2" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>enerateIncludedInField</text>
+        <text>cwciwELECTION_CODE_SELECTION_ALL_SITES</text>
       </register>
       <register name="-" type="4">
-        <text>enerateIncludedInField</text>
+        <text>cwciwELECTION_CODE_SELECTION_ALL_SITES</text>
       </register>
       <register name="/" type="4">
-        <text>Deprecated</text>
+        <text>pro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdlbmVyYXRlSW5jbHVkZWRJbkZpZWxkKGRvY3VtZW50T2JqZWN0KTsK</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJpdmF0ZSBPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdlbmVyYXRlSW5jbHVkZWRJbkZpZWxkKGRvY3VtZW50T2JqZWN0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -254,43 +304,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50T2JqZWN0LmdldENvbnRlbnQoKS5zZXQoImluY2x1ZGVkSW4iLCBpbmNsdWRlZEluQXJyYXkpOwo=</text>
+        <text encoding="base64">ICAiMHAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyovCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEFycmF5Tm9kZSBpbmNsdWRlZEluTm9kZTsK</text>
+      <register name="4" type="4">
+        <text>*
+ * Created by elliot.laurendeau on 2017-05-25.
+ *</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Lwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlZEluTm9kZSA9IChBcnJheU5vZGUpIGN1cnJlbnRJbmNsdWRlZEluTm9kZTsK</text>
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGVsbGlvdC5sYXVyZW5kZWF1IG9uIDIwMTctMDUtMjUuCiAqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgV3JvbmdUeXBlRXhjZXB0aW9uKCJKc29uTm9kZSIsICJBcnJheU5vZGUiKTsK</text>
+        <text encoding="base64">LyovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>Deprecated</last-search>
+      <last-search>pro</last-search>
       <last-offset />
-      <last-pattern>Deprecated</last-pattern>
+      <last-pattern>pro</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>value</entry>
         <entry>$s</entry>
         <entry>args</entry>
         <entry>failed</entry>
@@ -310,6 +361,7 @@
         <entry>included</entry>
         <entry>selection</entry>
         <entry>Deprecated</entry>
+        <entry>pro</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
@@ -383,6 +435,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
