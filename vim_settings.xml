@@ -3,18 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/interface/controller/ImageController.kt" timestamp="1495644878663">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/ImageHandler.kt" timestamp="1495682670879">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="8" column="7" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" timestamp="1495669423863">
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" timestamp="1495475379226">
         <mark key="[" line="7" column="37" />
         <mark key="]" line="7" column="37" />
         <mark key="^" line="8" column="0" />
@@ -26,45 +15,29 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace_kotlin/Test/src/app.kt" timestamp="1495219531733">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/IImageUC.kt" timestamp="1495642558218">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="3" column="77" />
         <mark key="^" line="3" column="77" />
         <mark key="." line="3" column="77" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/ApplicationConfiguration.kt" timestamp="1495669523189">
-        <mark key="[" line="4" column="110" />
-        <mark key="]" line="4" column="125" />
-        <mark key="." line="4" column="125" />
-        <mark key="^" line="4" column="125" />
+      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/AppConfig.kt" timestamp="1495645321006">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="4" column="83" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrules/impl/TextBR.kt" timestamp="1495681068257">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="10" column="1" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/ProductConstants.java" timestamp="1495720935283">
+        <mark key="[" line="10" column="59" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/Application.kt" timestamp="1495670417871">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/impl/LabelGeneratorUC.kt" timestamp="1495643138214">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/RegexGeneratorHandler.kt" timestamp="1495711738094">
-        <mark key="'" line="2" column="1" />
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="6" column="1" />
-        <mark key="." line="6" column="1" />
-        <mark key="^" line="6" column="9" />
-      </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/ILabelGeneratorUC.kt" timestamp="1495711545038">
-        <mark key="[" line="6" column="31" />
-        <mark key="]" line="6" column="72" />
-        <mark key="." line="6" column="72" />
-        <mark key="^" line="6" column="72" />
+      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrule/ITextBR.kt" timestamp="1495643320971">
+        <mark key="[" line="7" column="70" />
+        <mark key="]" line="7" column="68" />
+        <mark key="." line="7" column="68" />
+        <mark key="^" line="7" column="68" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usercase/IImageUsecase.kt" timestamp="1495642347620">
         <mark key="[" line="2" column="25" />
@@ -77,10 +50,44 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/impl/LabelGeneratorUC.kt" timestamp="1495643138214">
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1495725730204">
+        <mark key="[" line="358" column="0" />
+        <mark key="]" line="358" column="0" />
+        <mark key="." line="358" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1495652547575">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/OfferController.java" timestamp="1495723929990">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="19" column="33" />
+        <mark key="." line="107" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_kotlin/Test/src/app.kt" timestamp="1495219531733">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/metamodel/SchemaDescriptionTest.java" timestamp="1495635566512">
+        <mark key="'" line="338" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/AbstractDocumentServiceImpl.java" timestamp="1495714100217">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.gitignore" timestamp="1495468310359">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/ILabelGeneratorUC.kt" timestamp="1495643103084">
+        <mark key="'" line="6" column="73" />
+        <mark key="[" line="6" column="85" />
+        <mark key="]" line="6" column="85" />
+        <mark key="." line="6" column="85" />
+        <mark key="^" line="6" column="82" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/IRegexGeneratorHandler.kt" timestamp="1495644987662">
         <mark key="[" line="3" column="46" />
@@ -88,16 +95,16 @@
         <mark key="." line="3" column="44" />
         <mark key="^" line="3" column="44" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrule/impl/TextBR.kt" timestamp="1495671897574">
-        <mark key="[" line="13" column="82" />
-        <mark key="]" line="13" column="24" />
-        <mark key="^" line="13" column="24" />
-        <mark key="." line="13" column="24" />
+      <file name="D:/workspace_kotlin/TEST/src/test.kt" timestamp="1495148993175">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.gitignore" timestamp="1495468310359">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" timestamp="1495207238084">
+        <mark key="[" line="150" column="17" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" timestamp="1495644467809">
         <mark key="a" line="35" column="40" />
@@ -112,53 +119,11 @@
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="14" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/impl/LabelGeneratorUC.kt" timestamp="1495711514422">
-        <mark key="'" line="15" column="29" />
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
-        <mark key="^" line="14" column="16" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ActionServiceImpl.java" timestamp="1495635500101">
+        <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/workspace_kotlin/TEST/src/test.kt" timestamp="1495148993175">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central-ihm/src/app/caisse-test/caisse-test.component.ts" timestamp="1495207238084">
-        <mark key="[" line="150" column="17" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-      </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrule/impl/ActionService.java" timestamp="1495670289185">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="46" column="4" />
-        <mark key="]" line="46" column="4" />
-        <mark key="^" line="37" column="23" />
-        <mark key="." line="46" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/IImageUsecase.kt" timestamp="1495642452572">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrule/impl/TextBR.kt" timestamp="1495645273020">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="9" />
-        <mark key="^" line="10" column="9" />
-      </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrules/ITextBR.kt" timestamp="1495681950406">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="19" />
-        <mark key="^" line="7" column="19" />
-        <mark key="." line="7" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrule/ITextBR.kt" timestamp="1495643320971">
-        <mark key="[" line="7" column="70" />
-        <mark key="]" line="7" column="68" />
-        <mark key="." line="7" column="68" />
-        <mark key="^" line="7" column="68" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/TaxCouchbaseServiceImpl.java" timestamp="1495652502361">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/domain/Text.kt" timestamp="1495395031811">
         <mark key="[" line="5" column="46" />
@@ -166,32 +131,32 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/interface/controller/ImageController.kt" timestamp="1495711789685">
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="14" column="100" />
-        <mark key="." line="14" column="100" />
-        <mark key="^" line="16" column="20" />
-      </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/IRegexGeneratorHandler.kt" timestamp="1495681173281">
-        <mark key="[" line="3" column="46" />
-        <mark key="]" line="3" column="59" />
-        <mark key="^" line="3" column="59" />
-        <mark key="." line="3" column="59" />
-      </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/infrastructure/impl/ImageHandler.kt" timestamp="1495461506752">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="16" column="1" />
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="/fragment.java" timestamp="1495638821914">
+      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrule/impl/TextBR.kt" timestamp="1495645273020">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/interface/controller/ImageController.kt" timestamp="1495644878663">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/IImageUsecase.kt" timestamp="1495642452572">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1495725743468">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/AppConfig.kt" timestamp="1495645321006">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="4" column="83" />
       </file>
     </filemarks>
     <jumps>
@@ -237,27 +202,23 @@
       <jump line="6" column="73" filename="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/ILabelGeneratorUC.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/AppConfig.kt" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/AppConfig.kt" />
-      <jump line="4" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrule/impl/ActionService.java" />
-      <jump line="19" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrule/impl/ActionService.java" />
-      <jump line="8" column="55" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/RegexGeneratorHandler.kt" />
-      <jump line="6" column="1" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/RegexGeneratorHandler.kt" />
-      <jump line="15" column="29" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/impl/LabelGeneratorUC.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/TaxCouchbaseServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>it.first</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>it.first</text>
+        <text>master-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text>BR</text>
+        <text>selection</text>
       </register>
-      <register name="0" type="4">
-        <text>textBR.generateTextFromRegex(regex, Font(&quot;TimesRoman&quot;, Font.PLAIN, 50)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGdlbmVyYXRlSW5jbHVkZWRJbkZpZWxkKGRvY3VtZW50T2JqZWN0KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>Consumer {  }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -276,43 +237,45 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHByaW50bG4oInRlc3QiKQogICAgICAgIH0p</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIE9iamVjdE1hcHBlciBvbSA9IG5ldyBPYmplY3RNYXBwZXIoKTsKCiAgICBvbS52YWx1ZVRvVHJlZShhY3Rpb25BdHRyaWJ1dGUp</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">dW4gdGVzdCgodGV4dCwgcG9zaXRpb24pOiBQYWlyPFRleHQsIFBvc2l0aW9uPikgPSB7CiAgICAgICAgICAgIHByaW50bG4oInRlc3QiKQogICAgICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbih0ZXh0LikK</text>
+        <text encoding="base64">CiAgICBPYmplY3RNYXBwZXIgb20gPSBuZXcgT2JqZWN0TWFwcGVyKCk7CgogICAgb20udmFsdWVUb1RyZWUoYWN0aW9uQXR0cmlidXRlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5SZXBvc2l0b3J5Cg==</text>
+        <text encoding="base64">ICAgIGdlbmVyYXRlSW5jbHVkZWRJbkZpZWxkKGRvY3VtZW50T2JqZWN0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBMaXN0KCh0ZXh0QlIuZ2VuZXJhdGVUZXh0RnJvbVJlZ2V4KHJlZ2V4LCBGb250KCJUaW1lc1JvbWFuIiwgRm9udC5QTEFJTiwgNTApLCBDb2xvci5ibHVlKSwgUG9zaXRpb24oc2l6ZVgsIHNpemVZKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGb250LmdldERlICAK</text>
+        <text encoding="base64">ICBwdWJsaWMgQWJzdHJhY3REb2N1bWVudCBjb25zdHJ1Y3QoRG9jdW1lbnRPYmplY3QgZG9jdW1lbnRPYmplY3QsIE1ldGFtb2RlbCBtZXRhbW9kZWwpIHsKICAgIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7CiAgICBvYmplY3RNYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKHN0YXR1cykKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>BR</last-search>
+      <last-search>selection</last-search>
       <last-offset />
-      <last-pattern>BR</last-pattern>
-      <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <last-pattern>selection</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
+        <entry>value</entry>
+        <entry>$s</entry>
         <entry>args</entry>
         <entry>failed</entry>
         <entry>Failed</entry>
@@ -330,9 +293,6 @@
         <entry>gen</entry>
         <entry>included</entry>
         <entry>selection</entry>
-        <entry>IR</entry>
-        <entry encoding="base64">XDxDb21wb25lbnRcPg==</entry>
-        <entry>BR</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
