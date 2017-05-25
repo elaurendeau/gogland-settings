@@ -50,13 +50,21 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1495725730204">
-        <mark key="[" line="358" column="0" />
-        <mark key="]" line="358" column="0" />
-        <mark key="." line="358" column="0" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1495733824042">
+        <mark key="'" line="377" column="24" />
+        <mark key="[" line="428" column="26" />
+        <mark key="]" line="428" column="47" />
+        <mark key="." line="428" column="47" />
+        <mark key="^" line="428" column="47" />
       </file>
       <file name="/Dummy.txt" timestamp="1495652547575">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/parser/ParserImpl.java" timestamp="1495732415250">
+        <mark key="[" line="375" column="23" />
+        <mark key="]" line="375" column="11" />
+        <mark key="." line="375" column="11" />
+        <mark key="^" line="375" column="11" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/OfferController.java" timestamp="1495723929990">
         <mark key="[" line="107" column="0" />
@@ -95,6 +103,7 @@
         <mark key="." line="3" column="44" />
         <mark key="^" line="3" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/constants/SelectionConstants.java" timestamp="1495734009302" />
       <file name="D:/workspace_kotlin/TEST/src/test.kt" timestamp="1495148993175">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="26" />
@@ -125,6 +134,9 @@
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/TaxCouchbaseServiceImpl.java" timestamp="1495652502361">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5-sources.jar!/com/fasterxml/jackson/databind/node/ObjectNode.java" timestamp="1495733223162">
+        <mark key="'" line="527" column="5" />
+      </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/domain/Text.kt" timestamp="1495395031811">
         <mark key="[" line="5" column="46" />
         <mark key="]" line="5" column="57" />
@@ -153,7 +165,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1495725743468">
+      <file name="/fragment.java" timestamp="1495733462260">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -203,22 +215,26 @@
       <jump line="4" column="0" filename="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/AppConfig.kt" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/AppConfig.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/TaxCouchbaseServiceImpl.java" />
+      <jump line="155" column="8" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5-sources.jar!/com/fasterxml/jackson/databind/node/ObjectNode.java" />
+      <jump line="470" column="5" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5-sources.jar!/com/fasterxml/jackson/databind/node/ObjectNode.java" />
+      <jump line="527" column="5" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5-sources.jar!/com/fasterxml/jackson/databind/node/ObjectNode.java" />
+      <jump line="377" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>enerateIncludedInField</text>
       </register>
       <register name="-" type="4">
-        <text>master-SNAPSHOT</text>
+        <text>enerateIncludedInField</text>
       </register>
       <register name="/" type="4">
-        <text>selection</text>
+        <text>Deprecated</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdlbmVyYXRlSW5jbHVkZWRJbkZpZWxkKGRvY3VtZW50T2JqZWN0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdlbmVyYXRlSW5jbHVkZWRJbkZpZWxkKGRvY3VtZW50T2JqZWN0KTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -238,39 +254,39 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50T2JqZWN0LmdldENvbnRlbnQoKS5zZXQoImluY2x1ZGVkSW4iLCBpbmNsdWRlZEluQXJyYXkpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIE9iamVjdE1hcHBlciBvbSA9IG5ldyBPYmplY3RNYXBwZXIoKTsKCiAgICBvbS52YWx1ZVRvVHJlZShhY3Rpb25BdHRyaWJ1dGUp</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFycmF5Tm9kZSBpbmNsdWRlZEluTm9kZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBPYmplY3RNYXBwZXIgb20gPSBuZXcgT2JqZWN0TWFwcGVyKCk7CgogICAgb20udmFsdWVUb1RyZWUoYWN0aW9uQXR0cmlidXRlKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdlbmVyYXRlSW5jbHVkZWRJbkZpZWxkKGRvY3VtZW50T2JqZWN0KTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlZEluTm9kZSA9IChBcnJheU5vZGUpIGN1cnJlbnRJbmNsdWRlZEluTm9kZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgQWJzdHJhY3REb2N1bWVudCBjb25zdHJ1Y3QoRG9jdW1lbnRPYmplY3QgZG9jdW1lbnRPYmplY3QsIE1ldGFtb2RlbCBtZXRhbW9kZWwpIHsKICAgIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7CiAgICBvYmplY3RNYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKHN0YXR1cykKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgV3JvbmdUeXBlRXhjZXB0aW9uKCJKc29uTm9kZSIsICJBcnJheU5vZGUiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>selection</last-search>
+      <last-search>Deprecated</last-search>
       <last-offset />
-      <last-pattern>selection</last-pattern>
+      <last-pattern>Deprecated</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -293,6 +309,7 @@
         <entry>gen</entry>
         <entry>included</entry>
         <entry>selection</entry>
+        <entry>Deprecated</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
@@ -363,6 +380,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
