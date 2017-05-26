@@ -47,6 +47,7 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/1.1.0.RELEASE/spring-kafka-1.1.0.RELEASE.jar!/org/springframework/kafka/core/KafkaTemplate.class" timestamp="1495803069119" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/PeriodConstants.java" timestamp="1495737924949">
         <mark key="'" line="3" column="64" />
         <mark key="[" line="3" column="0" />
@@ -80,7 +81,7 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1495737493326">
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1495802796209">
         <mark key="'" line="379" column="24" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -140,13 +141,13 @@
         <mark key="." line="6" column="85" />
         <mark key="^" line="6" column="82" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-couchbase/src/main/java/com/cgi/romes/fromeswork/couchbase/service/impl/AbstractCouchbaseService.java" timestamp="1495803031880" />
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/IRegexGeneratorHandler.kt" timestamp="1495644987662">
         <mark key="[" line="3" column="46" />
         <mark key="]" line="3" column="44" />
         <mark key="." line="3" column="44" />
         <mark key="^" line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/constants/SelectionConstants.java" timestamp="1495734009302" />
       <file name="D:/workspace_kotlin/TEST/src/test.kt" timestamp="1495148993175">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="26" />
@@ -201,7 +202,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1495733462260">
+      <file name="/fragment.java" timestamp="1495803065786">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -338,7 +339,7 @@
       <last-offset />
       <last-pattern>pro</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
