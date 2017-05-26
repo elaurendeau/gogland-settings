@@ -9,7 +9,7 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/AggregateManagerImpl.java" timestamp="1495808984905">
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/AggregateManagerImpl.java" timestamp="1495812198321">
         <mark key="'" line="46" column="27" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/app.kt" timestamp="1495395238903">
@@ -81,7 +81,6 @@
         <mark key="." line="24" column="39" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1495802796209">
-        <mark key="'" line="379" column="24" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -100,7 +99,8 @@
         <mark key="^" line="286" column="1" />
         <mark key="." line="286" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495652547575">
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/AggregateManagerImplTest.java" timestamp="1495811821190" />
+      <file name="/Dummy.txt" timestamp="1495812208592">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/parser/ParserImpl.java" timestamp="1495732415250">
