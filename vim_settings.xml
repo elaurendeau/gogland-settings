@@ -101,11 +101,11 @@
         <mark key="]" line="358" column="0" />
         <mark key="." line="358" column="0" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/impl/ImageAppenderUC.kt" timestamp="1495895322056">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="4" column="7" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/impl/ImageAppenderUC.kt" timestamp="1495911891116">
+        <mark key="[" line="10" column="77" />
+        <mark key="]" line="10" column="64" />
+        <mark key="^" line="10" column="64" />
+        <mark key="." line="10" column="64" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/RegexGeneratorHandler.kt" timestamp="1495645078341">
         <mark key="[" line="5" column="0" />
@@ -217,11 +217,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/TaxCouchbaseServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>master-SNAPSHOT</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>selection</text>
