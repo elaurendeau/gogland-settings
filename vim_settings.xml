@@ -39,11 +39,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/MetricManager.java" timestamp="1496065880644">
-        <mark key="[" line="14" column="53" />
-        <mark key="]" line="14" column="52" />
-        <mark key="." line="14" column="52" />
-        <mark key="^" line="14" column="52" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/MetricManager.java" timestamp="1496068424499">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="15" column="52" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/AggregateManagerImplTest.java" timestamp="1496064234656">
         <mark key="[" line="8" column="0" />
@@ -71,6 +71,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/dto/RxpTransactionOnLine.java" timestamp="1496069064064" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/GranularityManagerTest.java" timestamp="1496064413396">
         <mark key="'" line="72" column="8" />
         <mark key="[" line="12" column="0" />
@@ -96,6 +97,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/dto/RxpTransactionIHM.java" timestamp="1496068875354" />
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usercase/IImageUsecase.kt" timestamp="1495642347620">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="0" />
@@ -228,11 +230,11 @@
       <jump line="13" column="17" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/IMetricManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucm9tZXMuZW5naW5lLmR0by5Qcm9kdWN0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>getPrice</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>getPrice</text>
       </register>
       <register name="/" type="4">
         <text>tran</text>
