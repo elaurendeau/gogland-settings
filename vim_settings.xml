@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/AggregateManagerImpl.java" timestamp="1496062600943">
-        <mark key="'" line="46" column="27" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" timestamp="1495738054008">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="236" column="43" />
@@ -21,25 +15,14 @@
         <mark key="]" line="177" column="30" />
         <mark key="." line="177" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/AggregateTriggerService.java" timestamp="1496062981127">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/AggregateTriggerService.java" timestamp="1496063974972">
+        <mark key="'" line="76" column="2" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/SelectionConstants.java" timestamp="1495736930612">
         <mark key="[" line="26" column="59" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/CustomerConstants.java" timestamp="1495737879049">
-        <mark key="'" line="3" column="66" />
-        <mark key="[" line="3" column="93" />
-        <mark key="]" line="3" column="101" />
-        <mark key="." line="3" column="101" />
-        <mark key="^" line="3" column="101" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/dto/Code.java" timestamp="1495737482084">
-        <mark key="]" line="2" column="27" />
-        <mark key="." line="2" column="27" />
-        <mark key="^" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/AlertCouchbaseServiceImpl.java" timestamp="1495826190434">
         <mark key="[" line="18" column="0" />
@@ -52,6 +35,82 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/1.1.0.RELEASE/spring-kafka-1.1.0.RELEASE.jar!/org/springframework/kafka/core/KafkaTemplate.class" timestamp="1495803069119" />
+      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/impl/LabelGeneratorUC.kt" timestamp="1495643138214">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/SiteConstants.java" timestamp="1495737824390">
+        <mark key="'" line="3" column="62" />
+        <mark key="[" line="3" column="89" />
+        <mark key="]" line="3" column="89" />
+        <mark key="." line="3" column="89" />
+        <mark key="^" line="3" column="62" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/GranularityManager.java" timestamp="1496064198639">
+        <mark key="'" line="137" column="31" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" timestamp="1495737968240">
+        <mark key="'" line="295" column="71" />
+        <mark key="[" line="287" column="0" />
+        <mark key="]" line="298" column="2" />
+        <mark key="^" line="286" column="1" />
+        <mark key="." line="286" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/AggregateManagerImplTest.java" timestamp="1496064234656">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_kotlin/Test/src/app.kt" timestamp="1495219531733">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" timestamp="1496064562466">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/AbstractDocumentServiceImpl.java" timestamp="1495714100217">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/IAggregateManager.java" timestamp="1496062617426">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/GranularityManagerTest.java" timestamp="1496064413396">
+        <mark key="'" line="72" column="8" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/AggregateManagerImpl.java" timestamp="1496062600943">
+        <mark key="'" line="46" column="27" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/IGranularityManager.java" timestamp="1496064128865">
+        <mark key="'" line="19" column="59" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/CustomerConstants.java" timestamp="1495737879049">
+        <mark key="'" line="3" column="66" />
+        <mark key="[" line="3" column="93" />
+        <mark key="]" line="3" column="101" />
+        <mark key="." line="3" column="101" />
+        <mark key="^" line="3" column="101" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/PeriodConstants.java" timestamp="1495737924949">
         <mark key="'" line="3" column="64" />
         <mark key="[" line="3" column="0" />
@@ -59,14 +118,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="97" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/ProductConstants.java" timestamp="1495737599820">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="102" />
-      </file>
-      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/impl/LabelGeneratorUC.kt" timestamp="1495643138214">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/AggregateTriggerServiceTest.java" timestamp="1496064436133">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usercase/IImageUsecase.kt" timestamp="1495642347620">
         <mark key="[" line="2" column="25" />
@@ -78,37 +134,8 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/SiteConstants.java" timestamp="1495737824390">
-        <mark key="'" line="3" column="62" />
-        <mark key="[" line="3" column="89" />
-        <mark key="]" line="3" column="89" />
-        <mark key="." line="3" column="89" />
-        <mark key="^" line="3" column="62" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" timestamp="1495737968240">
-        <mark key="'" line="295" column="71" />
-        <mark key="[" line="287" column="0" />
-        <mark key="]" line="298" column="2" />
-        <mark key="^" line="286" column="1" />
-        <mark key="." line="286" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/AggregateManagerImplTest.java" timestamp="1496062727267">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1495826481241">
+      <file name="/Dummy.txt" timestamp="1496064264675">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace_kotlin/Test/src/app.kt" timestamp="1495219531733">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/AbstractDocumentServiceImpl.java" timestamp="1495714100217">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.gitignore" timestamp="1495468310359">
         <mark key="[" line="6" column="0" />
@@ -128,7 +155,8 @@
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/IAggregateManager.java" timestamp="1496062617426">
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/IAggregateTriggerService.java" timestamp="1496064038011">
+        <mark key="'" line="24" column="4" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -213,22 +241,35 @@
       <jump line="66" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
       <jump line="46" column="27" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/AggregateManagerImpl.java" />
       <jump line="24" column="51" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/AggregateManagerImpl.java" />
+      <jump line="76" column="2" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/AggregateTriggerService.java" />
+      <jump line="24" column="4" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/IAggregateTriggerService.java" />
+      <jump line="30" column="29" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/IGranularityManager.java" />
+      <jump line="25" column="19" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/IGranularityManager.java" />
+      <jump line="24" column="12" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/IGranularityManager.java" />
+      <jump line="19" column="59" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/IGranularityManager.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/GranularityManager.java" />
+      <jump line="137" column="31" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/GranularityManager.java" />
+      <jump line="72" column="8" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/GranularityManagerTest.java" />
+      <jump line="137" column="71" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/AggregateTriggerServiceTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/AggregateTriggerServiceTest.java" />
+      <jump line="147" column="82" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucm9tZXMuY29uc3RhbnRzLkFic3RyYWN0RG9jdW1lbnRDb25zdGFudHM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucm9tZXMuZW5naW5lLmR0by5UcmFuc2FjdGlvbjsK</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>pro</text>
+        <text>tran</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJpdmF0ZSBPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucm9tZXMuY29uc3RhbnRzLkFic3RyYWN0RG9jdW1lbnRDb25zdGFudHM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucm9tZXMuZW5naW5lLmR0by5UcmFuc2FjdGlvbjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -254,37 +295,36 @@
         <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucm9tZXMuZW5naW5lLmR0by5UcmFuc2FjdGlvbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucm9tZXMuZW5naW5lLi5UcmFuc2FjdGlvbjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucm9tZXMuZW5naW5lLmR0by5UcmFuc2FjdGlvbjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QERlcHJlY2F0ZWQK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucm9tZXMuZW5naW5lLmR0by5UcmFuc2FjdGlvbjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5ieXRlYnVkZHkuZGVzY3JpcHRpb24udHlwZS5UeXBlRGVmaW5pdGlvbi5TdXBlckNsYXNzSXRlcmF0b3I7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucm9tZXMuZW5naW5lLmR0by5UcmFuc2FjdGlvbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucm9tZXMuc2VydmljZS5JUHJvZHVjdENvdWNoYmFzZVNlcnZpY2U7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucm9tZXMuZW5naW5lLmR0by5UcmFuc2FjdGlvbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucm9tZXMuY29uc3RhbnRzLkFic3RyYWN0RG9jdW1lbnRDb25zdGFudHM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiMHAiCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucm9tZXMuZW5naW5lLmR0by5UcmFuc2FjdGlvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>pro</last-search>
+      <last-search>tran</last-search>
       <last-offset />
-      <last-pattern>pro</last-pattern>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-pattern>tran</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>$s</entry>
         <entry>args</entry>
         <entry>failed</entry>
         <entry>Failed</entry>
@@ -304,6 +344,7 @@
         <entry>selection</entry>
         <entry>Deprecated</entry>
         <entry>pro</entry>
+        <entry>tran</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
@@ -386,6 +427,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
