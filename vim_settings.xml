@@ -40,11 +40,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/LabelGeneratorService.kt" timestamp="1496164652061">
-        <mark key="[" line="33" column="54" />
-        <mark key="]" line="33" column="53" />
-        <mark key="." line="33" column="53" />
-        <mark key="^" line="33" column="53" />
+      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/LabelGeneratorService.kt" timestamp="1496166285393">
+        <mark key="'" line="25" column="47" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="30" column="82" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/IImageUC.kt" timestamp="1495642558218">
         <mark key="[" line="2" column="20" />
@@ -326,7 +327,6 @@
       <file name="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-couchbase/pom.xml" timestamp="1496151061837" />
     </filemarks>
     <jumps>
-      <jump line="334" column="66" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
       <jump line="335" column="15" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
       <jump line="13" column="2" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/ProductConstants.java" />
       <jump line="371" column="4" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
@@ -426,22 +426,23 @@
       <jump line="159" column="84" filename="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/impl/TextManager.kt" />
       <jump line="164" column="0" filename="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/impl/TextManager.kt" />
       <jump line="17" column="93" filename="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/controller/ImageController.kt" />
+      <jump line="23" column="47" filename="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/LabelGeneratorService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ount()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBmb3IgKGkgaW4gMS4ub2NjdXJyZW5jZSkgewovLyAgICAgICAgICAgICAgICB2YWwgdGV4dCA9IHRleHRNYW5hZ2VyLmdlbmVyYXRlVGV4dEZyb21SZWdleChyZWdleCkKLy8gICAgICAgICAgICAgICAgc2VuZChQYWlyKHRleHQsIHBvc2l0aW9uKSkKLy8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ount()</text>
+        <text>positi</text>
       </register>
       <register name="/" type="4">
-        <text>img</text>
+        <text>pro</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgaW1hZ2VMaXN0ID0gaW1hZ2VBcHBlbmRlci5hcHBlbmRMYWJlbHNUb0ltYWdlKGltZywgbGlzdExhYmVsQW5kUG9zaXRpb24pCiAgICAgICAgcmVzdWx0U2VydmljZS5nZW5lcmF0ZVJlc3VsdChGaWxlUmVxdWVzdChzYXZlUGF0aCksIGltYWdlTGlzdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0LnRha2UoMTAwKS50b0xpc3QoKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBmb3IgKGkgaW4gMS4ub2NjdXJyZW5jZSkgewovLyAgICAgICAgICAgICAgICB2YWwgdGV4dCA9IHRleHRNYW5hZ2VyLmdlbmVyYXRlVGV4dEZyb21SZWdleChyZWdleCkKLy8gICAgICAgICAgICAgICAgc2VuZChQYWlyKHRleHQsIHBvc2l0aW9uKSkKLy8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -461,37 +462,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRTZXJ2aWNlLmdlbmVyYXRlUmVzdWx0KEZpbGVSZXF1ZXN0KHNhdmVQYXRoKSwgaW1hZ2VMaXN0KQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgcG9zaXRpb24gPSBQb3NpdGlvbihzaXplWCwgc2l6ZVkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaW1hZ2VMaXN0ID0gaW1hZ2VBcHBlbmRlci5hcHBlbmRMYWJlbHNUb0ltYWdlKGltZywgbGlzdExhYmVsQW5kUG9zaXRpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQudGFrZSgxKQo=</text>
+        <text encoding="base64">aW1wb3J0IGRvbWFpbi5GaWxlUmVxdWVzdAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LnRha2VXaGlsZSh7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0LmNvdW50KCkgPiAwCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIHsgcmVzdWx0LnRha2UoMSkgfQogICAgICAgICAgICAgICAg</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNoYW5uZWwuZ28K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgcnVuQmxvY2tpbmcgeyAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNoYW5uZWwuZ28K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBrb3RsaW4ucnVuIHsKCiAgICAgICAgfVYyawo=</text>
+        <text encoding="base64">ICAgICAgICBnbyB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
+        <text encoding="base64">aW1wb3J0IGNoYW5uZWwuZ28K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb21waWxlICdvcmcuamV0YnJhaW5zLmtvdGxpbng6a290bGlueC1jb3JvdXRpbmVzLWNvcmU6MC4xNScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2FpdEdyb3VwKDEwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>img</last-search>
+      <last-search>pro</last-search>
       <last-offset />
-      <last-pattern>img</last-pattern>
+      <last-pattern>pro</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -505,7 +506,6 @@
         <entry>included</entry>
         <entry>selection</entry>
         <entry>Deprecated</entry>
-        <entry>pro</entry>
         <entry>tran</entry>
         <entry>sync</entry>
         <entry>Product</entry>
@@ -517,6 +517,7 @@
         <entry>convert</entry>
         <entry>tmp</entry>
         <entry>img</entry>
+        <entry>pro</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
