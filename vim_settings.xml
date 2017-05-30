@@ -40,12 +40,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/LabelGeneratorService.kt" timestamp="1496166285393">
+      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/LabelGeneratorService.kt" timestamp="1496167393593">
         <mark key="'" line="25" column="47" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="30" column="82" />
+        <mark key="[" line="38" column="106" />
+        <mark key="]" line="38" column="87" />
+        <mark key="." line="38" column="87" />
+        <mark key="^" line="38" column="87" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/IImageUC.kt" timestamp="1495642558218">
         <mark key="[" line="2" column="20" />
@@ -429,11 +429,11 @@
       <jump line="23" column="47" filename="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/LabelGeneratorService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBmb3IgKGkgaW4gMS4ub2NjdXJyZW5jZSkgewovLyAgICAgICAgICAgICAgICB2YWwgdGV4dCA9IHRleHRNYW5hZ2VyLmdlbmVyYXRlVGV4dEZyb21SZWdleChyZWdleCkKLy8gICAgICAgICAgICAgICAgc2VuZChQYWlyKHRleHQsIHBvc2l0aW9uKSkKLy8gICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.toList()</text>
       </register>
       <register name="-" type="4">
-        <text>positi</text>
+        <text>.toList()</text>
       </register>
       <register name="/" type="4">
         <text>pro</text>
@@ -442,7 +442,7 @@
         <text encoding="base64">ICAgICAgICB2YWwgaW1hZ2VMaXN0ID0gaW1hZ2VBcHBlbmRlci5hcHBlbmRMYWJlbHNUb0ltYWdlKGltZywgbGlzdExhYmVsQW5kUG9zaXRpb24pCiAgICAgICAgcmVzdWx0U2VydmljZS5nZW5lcmF0ZVJlc3VsdChGaWxlUmVxdWVzdChzYXZlUGF0aCksIGltYWdlTGlzdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBmb3IgKGkgaW4gMS4ub2NjdXJyZW5jZSkgewovLyAgICAgICAgICAgICAgICB2YWwgdGV4dCA9IHRleHRNYW5hZ2VyLmdlbmVyYXRlVGV4dEZyb21SZWdleChyZWdleCkKLy8gICAgICAgICAgICAgICAgc2VuZChQYWlyKHRleHQsIHBvc2l0aW9uKSkKLy8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbihyZXN1bHQudGFrZSgxKS50YWtlKDEpLmNvdW50KCkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -462,28 +462,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgcG9zaXRpb24gPSBQb3NpdGlvbihzaXplWCwgc2l6ZVkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBmb3IgKGkgaW4gMS4ub2NjdXJyZW5jZSkgewovLyAgICAgICAgICAgICAgICB2YWwgdGV4dCA9IHRleHRNYW5hZ2VyLmdlbmVyYXRlVGV4dEZyb21SZWdleChyZWdleCkKLy8gICAgICAgICAgICAgICAgc2VuZChQYWlyKHRleHQsIHBvc2l0aW9uKSkKLy8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGRvbWFpbi5GaWxlUmVxdWVzdAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgcG9zaXRpb24gPSBQb3NpdGlvbihzaXplWCwgc2l6ZVkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNoYW5uZWwuZ28K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNoYW5uZWwuZ28K</text>
+        <text encoding="base64">aW1wb3J0IGRvbWFpbi5GaWxlUmVxdWVzdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnbyB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNoYW5uZWwuZ28K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNoYW5uZWwuZ28K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2FpdEdyb3VwKDEwKQo=</text>
+        <text encoding="base64">ICAgICAgICBnbyB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
