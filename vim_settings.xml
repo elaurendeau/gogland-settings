@@ -72,6 +72,12 @@
         <mark key="]" line="358" column="0" />
         <mark key="." line="358" column="0" />
       </file>
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/IFontHandler.kt" timestamp="1496110009892">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/RegexGeneratorHandler.kt" timestamp="1495645078341">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="10" column="14" />
@@ -108,11 +114,10 @@
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/LabelGeneratorService.kt" timestamp="1496108149115">
-        <mark key="[" line="19" column="56" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/LabelGeneratorService.kt" timestamp="1496109465222">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/app.kt" timestamp="1495395238903">
         <mark key="[" line="10" column="0" />
@@ -145,6 +150,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/FontHandler.kt" timestamp="1496110198344">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="11" column="72" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1495652547575">
         <mark key="[" line="0" column="0" />
       </file>
@@ -171,11 +182,11 @@
         <mark key="^" line="19" column="33" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/impl/ImageManager.kt" timestamp="1496108326792">
-        <mark key="[" line="21" column="48" />
-        <mark key="]" line="25" column="20" />
-        <mark key="^" line="25" column="20" />
-        <mark key="." line="25" column="20" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/impl/ImageManager.kt" timestamp="1496110514917">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="D:/workspace_kotlin/TEST/src/test.kt" timestamp="1495148993175">
         <mark key="[" line="0" column="29" />
@@ -213,11 +224,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/impl/TextManager.kt" timestamp="1496106821111">
-        <mark key="[" line="17" column="128" />
-        <mark key="]" line="17" column="129" />
-        <mark key="." line="17" column="129" />
-        <mark key="^" line="17" column="80" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/impl/TextManager.kt" timestamp="1496110594446">
+        <mark key="[" line="34" column="45" />
+        <mark key="]" line="34" column="43" />
+        <mark key="." line="34" column="43" />
+        <mark key="^" line="34" column="43" />
       </file>
       <file name="/fragment.java" timestamp="1496097249768">
         <mark key="[" line="0" column="0" />
@@ -278,24 +289,23 @@
       <jump line="2" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/interface/controller/poco/Request.kt" />
       <jump line="3" column="33" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/IRegexGeneratorHandler.kt" />
       <jump line="16" column="77" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/LabelGeneratorService.kt" />
+      <jump line="22" column="33" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/impl/ImageManager.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbGxGb250c1w+</text>
+        <text encoding="base64">XDwyNVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdlbmVyYXRlSW5jbHVkZWRJbkZpZWxkKGRvY3VtZW50T2JqZWN0KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>companion object {
-        val ALL_FONT_LIST = GraphicsEnvironment.getLocalGraphicsEnvironment().allFonts
-        val ALL_FONT_COUNT = GraphicsEnvironment</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -315,43 +325,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGb250Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBHcmFwaGljc0Vudmlyb25tZW50LmdldExvY2FsR3JhcGhpY3NFbnZpcm9ubWVudCgpLmFsbEZvbnRzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWRMb2NhbFJhbmRvbS5jdXJyZW50KCkubmV4dEludChjb2xvci5zaXplKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGdlbmVyYXRlRm9udHMoKTogTGlzdDxGb250PiB7CiAgICAgICAgcmV0dXJuIGZvbnRIYW5kbGVyLmdldEZvbnROYW1lcygpLm1hcCB7CiAgICAgICAgICAgIEZvbnQoaXQsIEZPTlRfREVDT1JBVElPTltUaHJlYWRMb2NhbFJhbmRvbS5jdXJyZW50KCkubmV4dEludChGT05UX0RFQ09SQVRJT04uc2l6ZSldLCBUaHJlYWRMb2NhbFJhbmRvbS5jdXJyZW50KCkubmV4dEludChGT05UX1NJWkVfTUlOLCBGT05UX1NJWkVfTUFYKSkKICAgICAgICB9IAogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVGV4dChnZW5lcmF0ZWRTdHJpbmcsIGZvbnQsIGNvbG9yKQo=</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHZhbCBGT05UX0RFQ09SQVRJT04gPSBsaXN0T2YoRm9udC5CT0xELCBGb250LlBMQUlOLCBGb250LklUQUxJQykKICAgICAgICB2YWwgRk9OVF9TSVpFX01JTiA9IDI1CiAgICAgICAgdmFsIEZPTlRfU0laRV9NQVggPSA3NQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRleHQoaXQsICApCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgRk9OVF9ERUNPUkFUSU9OX0NPVU5UID0gRk9OVF9ERUNPUkFUSU9OLnNpemUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWRMb2NhbFJhbmRvbS5jdXJyZW50KCkubmV4dEludChmb250LnNpemUpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgQUxMX0ZPTlRfTElTVF9DT1VOVCA9IEFMTF9GT05UX0xJU1Quc2l6ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgQUxMX0ZPTlRfTElTVCA9IEdyYXBoaWNzRW52aXJvbm1lbnQuZ2V0TG9jYWxHcmFwaGljc0Vudmlyb25tZW50KCkuYWxsRm9udHMK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbGxGb250c1w+</last-search>
+      <last-search encoding="base64">XDwyNVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbGxGb250c1w+</last-pattern>
+      <last-pattern encoding="base64">XDwyNVw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Failed</entry>
         <entry>Papa</entry>
         <entry>test</entry>
         <entry encoding="base64">XDxpbWdcPg==</entry>
@@ -371,6 +380,7 @@
         <entry encoding="base64">XDxjbGFzUlw+</entry>
         <entry encoding="base64">XDxyZWdleFw+</entry>
         <entry encoding="base64">XDxhbGxGb250c1w+</entry>
+        <entry encoding="base64">XDwyNVw+</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
