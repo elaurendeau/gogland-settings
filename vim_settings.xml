@@ -154,6 +154,7 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-couchbase-rest/pom.xml" timestamp="1496151001760" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/OfferManagerImpl.java" timestamp="1496072243649">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -276,6 +277,7 @@
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-couchbase/pom.xml" timestamp="1496151061837" />
     </filemarks>
     <jumps>
       <jump line="125" column="45" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
