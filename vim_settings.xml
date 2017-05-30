@@ -201,12 +201,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/impl/TextManager.kt" timestamp="1496105627902">
-        <mark key="[" line="13" column="82" />
-        <mark key="]" line="13" column="95" />
-        <mark key="." line="13" column="95" />
-        <mark key="^" line="13" column="95" />
-      </file>
       <file name="/fragment.java" timestamp="1496097249768">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
@@ -267,11 +261,11 @@
       <jump line="3" column="33" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/IRegexGeneratorHandler.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>generateStringFromRegex(regex)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBUaHJlYWRMb2NhbFJhbmRvbS5jdXJyZW50KCkubmV4dEludChmb250LnNpemUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>generateStringFromRegex(regex)</text>
+        <text>generatedString</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWdleFw+</text>
@@ -280,7 +274,7 @@
         <text encoding="base64">ICAgIGdlbmVyYXRlSW5jbHVkZWRJbkZpZWxkKGRvY3VtZW50T2JqZWN0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gR2VuZXJleChyZWdleCkuZ2V0TWF0Y2hlZFN0cmluZ3Mob2NjdXJyZW5jZSkK</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWRMb2NhbFJhbmRvbS5jdXJyZW50KCkubmV4dEludChmb250LnNpemUpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -300,25 +294,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZihnZW5lcmV4LikK</text>
+        <text encoding="base64">ICAgICAgICBnZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gZ2VuZXJhdGVTdHJpbmdGcm9tUmVnZXgocmVnZXg6IFN0cmluZyk6IFN0cmluZyB7CiAgICAgICAgdmFsIGdlbmVyZXggPSBHZW5lcmV4KHJlZ2V4KS5zZXRTZWVkKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKQogICAgICAgIAogICAgICAgIHJldHVybiBHZW5lcmV4KHJlZ2V4KS5yYW5kb20oKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gR2VuZXJleChyZWdleCkuZ2V0TWF0Y2hlZFN0cmluZ3Mob2NjdXJyZW5jZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZW5lcmF0ZVN0cmluZ0Zyb21SZWdleChyZWdleDogU3RyaW5nKTogU3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICBpZihnZW5lcmV4LikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TGFiZWxHZW5lcmF0b3JVQwo=</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gZ2VuZXJhdGVTdHJpbmdGcm9tUmVnZXgocmVnZXg6IFN0cmluZyk6IFN0cmluZyB7CiAgICAgICAgdmFsIGdlbmVyZXggPSBHZW5lcmV4KHJlZ2V4KS5zZXRTZWVkKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKQogICAgICAgIAogICAgICAgIHJldHVybiBHZW5lcmV4KHJlZ2V4KS5yYW5kb20oKQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgIGZ1biBnZW5lcmF0ZVN0cmluZ0Zyb21SZWdleChyZWdleDogU3RyaW5nKTogU3RyaW5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">TGFiZWxHZW5lcmF0b3JVQwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>val type: RequestType, val url: String</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">fQo=</text>
