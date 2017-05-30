@@ -78,13 +78,6 @@
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/repository/IImageRepository.kt" timestamp="1496111668057">
         <mark key="[" line="6" column="32" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/impl/ImageAppenderUC.kt" timestamp="1495916820478">
-        <mark key="'" line="17" column="7" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/IFontHandler.kt" timestamp="1496110009892">
         <mark key="[" line="3" column="35" />
         <mark key="]" line="3" column="34" />
@@ -179,7 +172,12 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/ResultService.kt" timestamp="1496141685377" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/ResultService.kt" timestamp="1496142470716">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/impl/LabelGeneratorUC.kt" timestamp="1495643138214">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -259,12 +257,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/impl/TextManager.kt" timestamp="1496112572913">
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/impl/TextManager.kt" timestamp="1496142726766">
         <mark key="'" line="164" column="83" />
-        <mark key="[" line="175" column="18" />
-        <mark key="]" line="175" column="18" />
-        <mark key="." line="175" column="18" />
-        <mark key="^" line="175" column="17" />
       </file>
       <file name="/fragment.java" timestamp="1496097249768">
         <mark key="[" line="0" column="0" />
@@ -328,22 +322,25 @@
       <jump line="22" column="33" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/impl/ImageManager.kt" />
       <jump line="161" column="39" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/impl/TextManager.kt" />
       <jump line="164" column="83" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/impl/TextManager.kt" />
+      <jump line="13" column="30" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/ResultService.kt" />
+      <jump line="9" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/ResultService.kt" />
+      <jump line="1" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/ResultService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>10</text>
+        <text>occurrence</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>occurrence</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2xvckxpc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdlbmVyYXRlSW5jbHVkZWRJbkZpZWxkKGRvY3VtZW50T2JqZWN0KTsK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZ2VuZXJhdGVkU3RyaW5nTGlzdCA9IHJlZ2V4R2VuZXJhdG9ySGFuZGxlci5nZW5lcmF0ZU5TdHJpbmdGcm9tUmVnZXgocmVnZXgsIG9jY3VycmVuY2UpCiAgICAgICAgdmFsIGZvbnRMaXN0ID0gZ2VuZXJhdGVGb250cygpCiAgICAgICAgdmFsIGNvbG9yTGlzdCA9IGdlbmVyYXRlQ29sb3JzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGRvbWFpbi5SZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VSZXBvc2l0b3J5LnBlcnNpc3QocmVxdWVzdCwgaXQuZmlyc3QsIGl0LnNlY29uZCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -363,7 +360,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRvbWFpbi5SZXF1ZXN0Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -372,19 +369,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBwZXJzaXN0KHJlcXVlc3Q6IFJlcXVlc3QsIGltYWdlOiBCdWZmZXJlZEltYWdlKSB7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBwZXJzaXN0KHJlcXVlc3Q6IFJlcXVlc3QsIGltYWdlOiBCdWZmZXJlZEltYWdlKSB7CiAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHJlcXVlc3QpIHsKICAgICAgICAgICAgaXMgRmlsZVJlcXVlc3QgLT4gewogICAgICAgICAgICAgICAgdmFsIGJ5dGVBcnJheU91dHB1dFN0cmVhbSA9IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpOwogICAgICAgICAgICAgICAgSW1hZ2VJTy53cml0ZShpbWFnZSwgInBuZyIsIGJ5dGVBcnJheU91dHB1dFN0cmVhbSk7CiAgICAgICAgICAgICAgICBGaWxlT3V0cHV0U3RyZWFtKHNhdmVQYXRoICsgIlxcIiArIGl0LnNlY29uZC5sYWJlbCArICIucG5nIikud3JpdGUoYnl0ZUFycmF5T3V0cHV0U3RyZWFtLnRvQnl0ZUFycmF5KCkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UgLT4gdGhyb3cgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKEVYQ0VQVElPTl9NRVNTQUdFX0lOVkFMSURfUkVRVUVTVF9UWVBFLmZvcm1hdChyZXF1ZXN0LmphdmFDbGFzcy5rb3RsaW4udG9TdHJpbmcoKSkpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHJlcXVlc3QpIHsKICAgICAgICAgICAgaXMgRmlsZVJlcXVlc3QgLT4gewogICAgICAgICAgICAgICAgdmFsIGJ5dGVBcnJheU91dHB1dFN0cmVhbSA9IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpOwogICAgICAgICAgICAgICAgSW1hZ2VJTy53cml0ZShpbWFnZSwgInBuZyIsIGJ5dGVBcnJheU91dHB1dFN0cmVhbSk7CiAgICAgICAgICAgICAgICBGaWxlT3V0cHV0U3RyZWFtKHNhdmVQYXRoICsgIlxcIiArIGl0LnNlY29uZC5sYWJlbCArICIucG5nIikud3JpdGUoYnl0ZUFycmF5T3V0cHV0U3RyZWFtLnRvQnl0ZUFycmF5KCkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UgLT4gdGhyb3cgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKEVYQ0VQVElPTl9NRVNTQUdFX0lOVkFMSURfUkVRVUVTVF9UWVBFLmZvcm1hdChyZXF1ZXN0LmphdmFDbGFzcy5rb3RsaW4udG9TdHJpbmcoKSkpCiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
