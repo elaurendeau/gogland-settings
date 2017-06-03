@@ -90,6 +90,12 @@
         <mark key="^" line="23" column="40" />
         <mark key="." line="23" column="40" />
       </file>
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/dto/ImageTestResultRequest.kt" timestamp="1496453378148">
+        <mark key="[" line="2" column="104" />
+        <mark key="]" line="2" column="106" />
+        <mark key="^" line="2" column="106" />
+        <mark key="." line="2" column="106" />
+      </file>
       <file name="D:/workspace_ML/MLTest/pom.xml" timestamp="1493685016936">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="24" column="39" />
@@ -119,11 +125,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/controller/TrainingRequestController.kt" timestamp="1496451660164">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="98" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="7" column="32" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/controller/TrainingRequestController.kt" timestamp="1496453454215">
+        <mark key="[" line="7" column="105" />
+        <mark key="]" line="7" column="80" />
+        <mark key="^" line="7" column="80" />
+        <mark key="." line="7" column="80" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/RegexGeneratorHandler.kt" timestamp="1496160746560">
         <mark key="'" line="9" column="8" />
@@ -295,6 +301,12 @@
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/FontHandler.kt" timestamp="1496191459540" />
       <file name="/Dummy.txt" timestamp="1496152420794">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/ApplicationRest.kt" timestamp="1496453925306">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="7" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/IRegexGeneratorHandler.kt" timestamp="1496160712183">
         <mark key="[" line="5" column="46" />
@@ -518,11 +530,11 @@
       <jump line="40" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">QEF1dG93aXJlZCBjb25zdHJ1Y3Rvcih2YWwgbGFiZWxHZW5lcmF0b3I6IExhYmVsR2VuZXJhdG9yU2VydmljZSkg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKLy8gICAgICAgIFNwcmluZ0FwcGxpY2F0aW9uLgogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>{ }</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZFw+</text>
@@ -531,7 +543,7 @@
         <text encoding="base64">QEF1dG93aXJlZCBjb25zdHJ1Y3Rvcih2YWwgbGFiZWxHZW5lcmF0b3I6IExhYmVsR2VuZXJhdG9yU2VydmljZSkg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKLy8gICAgICAgIFNwcmluZ0FwcGxpY2F0aW9uLgogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -550,29 +562,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Qvc3ByaW5nLWJvb3Qtc3RhcnRlci13ZWIK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewovLyAgICAgICAgU3ByaW5nQXBwbGljYXRpb24uCiAgICA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLXdlYiIpZ2cK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CmNsYXNzIEltYWdlVGVzdFJlc3VsdFJlcXVlc3Qgew==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHRleHQubGFiZWwgKyAiICIgKyB0ZXh0LmZvbnQuZm9udE5hbWUpCg==</text>
+        <text encoding="base64">Ly8gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Qvc3ByaW5nLWJvb3Qtc3RhcnRlci13ZWIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiPiB0ZXh0OiIgKyB0ZXh0U2l6ZVggKyAiIGNhbnZhczogIiArIHNpemVYKQo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLXdlYiIpZ2cK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHRleHQubGFiZWwgKyAiICIgKyB0ZXh0LmZvbnQuZm9udE5hbWUpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB0ZXh0ID0gdGV4dE1hbmFnZXIuZ2VuZXJhdGVUZXh0RnJvbVJlZ2V4KHJlZ2V4KQogICAgICAgICAgICAgICAgdmFsIHBvc2l0aW9uID0gcG9zaXRpb25NYW5hZ2VyLmdlbmVyYXRlUmFuZG9tUG9zaXRpb24odGV4dCwgc2l6ZVgsIHNpemVZKQogICAgICAgICAgICAgICAgICAgICAgICBjaGFubmVsLnNlbmQoUGFpcih0ZXh0LCBwb3NpdGlvbikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiPiB0ZXh0OiIgKyB0ZXh0U2l6ZVggKyAiIGNhbnZhczogIiArIHNpemVYKQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
