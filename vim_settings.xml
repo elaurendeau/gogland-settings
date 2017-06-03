@@ -125,11 +125,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/controller/TrainingRequestController.kt" timestamp="1496453454215">
-        <mark key="[" line="7" column="105" />
-        <mark key="]" line="7" column="80" />
-        <mark key="^" line="7" column="80" />
-        <mark key="." line="7" column="80" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/controller/TrainingRequestController.kt" timestamp="1496460302558">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="14" column="30" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/RegexGeneratorHandler.kt" timestamp="1496160746560">
         <mark key="'" line="9" column="8" />
@@ -530,11 +530,11 @@
       <jump line="40" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKLy8gICAgICAgIFNwcmluZ0FwcGxpY2F0aW9uLgogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>Unit</text>
       </register>
       <register name="-" type="4">
-        <text>{ }</text>
+        <text>Unit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZFw+</text>
