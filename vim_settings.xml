@@ -90,8 +90,8 @@
         <mark key="^" line="23" column="40" />
         <mark key="." line="23" column="40" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/dto/ImageTestResultRequest.kt" timestamp="1496453378148">
-        <mark key="[" line="2" column="104" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/dto/ImageTestResultRequest.kt" timestamp="1496464151786">
+        <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="106" />
         <mark key="^" line="2" column="106" />
         <mark key="." line="2" column="106" />
@@ -125,11 +125,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/controller/TrainingRequestController.kt" timestamp="1496460302558">
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="14" column="30" />
-        <mark key="^" line="14" column="30" />
-        <mark key="." line="14" column="30" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/controller/TrainingRequestController.kt" timestamp="1496464371022">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="14" column="35" />
+        <mark key="^" line="14" column="35" />
+        <mark key="." line="14" column="35" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/RegexGeneratorHandler.kt" timestamp="1496160746560">
         <mark key="'" line="9" column="8" />
@@ -531,10 +531,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Unit</text>
+        <text>train</text>
       </register>
       <register name="-" type="4">
-        <text>Unit</text>
+        <text>train</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZFw+</text>
