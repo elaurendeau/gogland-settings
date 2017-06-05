@@ -29,12 +29,12 @@
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/IProductCouchbaseService.java" timestamp="1496676176568">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" timestamp="1496687690857">
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" timestamp="1496688446489">
         <mark key="'" line="108" column="50" />
-        <mark key="[" line="254" column="41" />
-        <mark key="]" line="254" column="41" />
-        <mark key="." line="254" column="41" />
-        <mark key="^" line="254" column="41" />
+        <mark key="[" line="255" column="23" />
+        <mark key="]" line="255" column="29" />
+        <mark key="." line="255" column="29" />
+        <mark key="^" line="255" column="29" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/SelectionManagerImpl.java" timestamp="1496060894260">
         <mark key="[" line="177" column="29" />
@@ -226,7 +226,6 @@
         <mark key="^" line="26" column="35" />
         <mark key="." line="21" column="134" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-liquibase-maven-plugin/pom.xml" timestamp="1496685628759" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/InsertionCustomerServiceTest.java" timestamp="1496075331719">
         <mark key="[" line="48" column="5" />
         <mark key="]" line="48" column="5" />
@@ -342,6 +341,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" timestamp="1496688627404">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="364" column="0" />
+        <mark key="]" line="364" column="0" />
+        <mark key="." line="364" column="0" />
+      </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/.gitignore" timestamp="1495468310359">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -433,7 +438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="31" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
       <jump line="293" column="71" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
       <jump line="220" column="2" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
@@ -533,22 +537,23 @@
       <jump line="114" column="3" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
       <jump line="250" column="15" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
       <jump line="108" column="50" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIENvZGUgY29kZSA9IG5ldyBDb2RlKEN1c3RvbWVyQ29uc3RhbnRzLlNFTEVDVElPTl9DT0RFX1NFTEVDVElPTl9BTExfQ1VTVE9NRVJTKTsK</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIHNlbGVjdGlvbkF0dHJpYnV0ZU5hbWUsIFN0cmluZyBlbnRpdHlBdHRyaWJ1dGVOYW1lSW5TZWxlY3Rpb24pCg==</text>
       </register>
       <register name="-" type="4">
         <text>addIncludedInDefaultSelection</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>addO</text>
       </register>
       <register name="0" type="4">
         <text>addIncludedInDefaultSelection</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENvZGUgY29kZSA9IG5ldyBDb2RlKEN1c3RvbWVyQ29uc3RhbnRzLlNFTEVDVElPTl9DT0RFX1NFTEVDVElPTl9BTExfQ1VTVE9NRVJTKTsK</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIHNlbGVjdGlvbkF0dHJpYnV0ZU5hbWUsIFN0cmluZyBlbnRpdHlBdHRyaWJ1dGVOYW1lSW5TZWxlY3Rpb24pCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -567,44 +572,43 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBpZihTdGF0dXMuQUNUSVZFLmdldFZhbHVlKCkuZXF1YWxzKG5ld1N0YXR1c0NvZGUpKSB7CiAgICBhZGRJbmNsdWRlZEluRGVmYXVsdFNlbGVjdGlvbihkb2N1bWVudE9iamVjdCk7CiAgfSBlbHNlIHsKICAgIAo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgYWRkT2ZmZXJUb0VudGl0aWVzKE9mZmVyRG9jdW1lbnQgb2ZmZXJEb2N1bWVudCwgQ291Y2hiYXNlU2VydmljZSBzZXJ2aWNlLAo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">KFN0YXR1cy5BQ1RJVkUuZ2V0VmFsdWUoKS5lcXVhbHMobmV3U3RhdHVzQ29kZSkpIHsKICAgIGFkZEluY2x1ZGVkSW5EZWZhdWx0U2VsZWN0aW9uKGRvY3VtZW50T2JqZWN0KTsKICB9IA==</text>
+        <text encoding="base64">ICovCiAg</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBhZGRJbmNsdWRlZEluRGVmYXVsdFNlbGVjdGlvbihkb2N1bWVudE9iamVjdCk7CiAgfSBlbHNlIHsKCiAgCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">LwogIHByaXZhdGUgdm9pZCA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFkZEluY2x1ZGVkSW5EZWZhdWx0U2VsZWN0aW9uKGRvY3VtZW50T2JqZWN0KTsKICB9IGVsc2UgewogICAgCiAgCg==</text>
+        <text encoding="base64">ICAgIENvZGUgY29kZSA9IG5ldyBDb2RlKEN1c3RvbWVyQ29uc3RhbnRzLlNFTEVDVElPTl9DT0RFX1NFTEVDVElPTl9BTExfQ1VTVE9NRVJTKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBpZihTdGF0dXMuQUNUSVZFLmdldFZhbHVlKCkuZXF1YWxzKG5ld1N0YXR1c0NvZGUpKSB7CiAgICBhZGRJbmNsdWRlZEluRGVmYXVsdFNlbGVjdGlvbihkb2N1bWVudE9iamVjdCk7CiAgfSBlbHNlIHsKICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CVN0YXR1cy5BQ1RJVkUK</text>
+      <register name="7" type="4">
+        <text encoding="base64">KFN0YXR1cy5BQ1RJVkUuZ2V0VmFsdWUoKS5lcXVhbHMobmV3U3RhdHVzQ29kZSkpIHsKICAgIGFkZEluY2x1ZGVkSW5EZWZhdWx0U2VsZWN0aW9uKGRvY3VtZW50T2JqZWN0KTsKICB9IA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">ICBhZGRJbmNsdWRlZEluRGVmYXVsdFNlbGVjdGlvbihkb2N1bWVudE9iamVjdCk7CiAgfSBlbHNlIHsKCiAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucm9tZXMuaW50ZWdyYXRpb24uYmVhbnMuUHJvZHVjdEJ5QWxpYXNGb3JJbnRlZ3JhdGlvbjsK</text>
+        <text encoding="base64">ICAgIGFkZEluY2x1ZGVkSW5EZWZhdWx0U2VsZWN0aW9uKGRvY3VtZW50T2JqZWN0KTsKICB9IGVsc2UgewogICAgCiAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>addO</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>addO</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tran</entry>
         <entry>sync</entry>
         <entry>Product</entry>
         <entry>removeOfferFromArray</entry>
@@ -624,6 +628,7 @@
         <entry>save</entry>
         <entry>customerCouchbaseServiceImpl</entry>
         <entry>update</entry>
+        <entry>addO</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
