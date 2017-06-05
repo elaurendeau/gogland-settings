@@ -9,6 +9,11 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-orm/src/test/java/com/cgi/rxp/config/SpringConfiguration.java" timestamp="1496670891932">
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+      </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" timestamp="1496468073433">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="39" column="104" />
@@ -77,6 +82,12 @@
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-orm/src/test/java/com/cgi/romes/test/ServiceTest.java" timestamp="1496670866489">
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="30" column="4" />
+        <mark key="^" line="30" column="4" />
+        <mark key="." line="30" column="4" />
+      </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/dto/ImageTestResultRequest.kt" timestamp="1496611096268">
         <mark key="[" line="4" column="97" />
         <mark key="]" line="4" column="116" />
@@ -129,7 +140,12 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-couchbase/src/main/java/com/cgi/romes/fromeswork/couchbase/config/CouchbaseConfiguration.java" timestamp="1496665555840" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-couchbase/src/main/java/com/cgi/romes/fromeswork/couchbase/config/CouchbaseConfiguration.java" timestamp="1496671336172">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="33" column="44" />
+        <mark key="]" line="33" column="44" />
+        <mark key="." line="33" column="44" />
+      </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/controller/TrainingRequestController.kt" timestamp="1496620009057">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -400,7 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ActionServiceImpl.java" />
       <jump line="428" column="42" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
@@ -500,13 +515,14 @@
       <jump line="40" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" />
       <jump line="23" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/controller/TrainingRequestController.kt" />
       <jump line="4" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/README.md" />
+      <jump line="79" column="0" filename="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-couchbase/src/main/java/com/cgi/romes/fromeswork/couchbase/config/CouchbaseConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>re</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFeGFtcGxlXD4=</text>
