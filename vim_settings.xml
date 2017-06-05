@@ -26,6 +26,9 @@
         <mark key="]" line="177" column="30" />
         <mark key="." line="177" column="30" />
       </file>
+      <file name="/a.dummy" timestamp="1496666308067">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/dto/RomesOfferDto.java" timestamp="1496074332244">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -292,6 +295,9 @@
         <mark key="]" line="7" column="126" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1496666541896">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/OfferController.java" timestamp="1495723929990">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
@@ -387,7 +393,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1496069522511">
+      <file name="/fragment.java" timestamp="1496666545994">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
