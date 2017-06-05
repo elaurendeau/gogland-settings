@@ -318,11 +318,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/utils/JsonNodeUtil.java" timestamp="1496690815554">
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="30" column="30" />
-        <mark key="." line="30" column="30" />
-        <mark key="^" line="30" column="30" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/utils/JsonNodeUtil.java" timestamp="1496690943231">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="39" column="5" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/parser/ParserImpl.java" timestamp="1495732415250">
         <mark key="[" line="375" column="23" />
@@ -566,8 +566,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -579,7 +579,7 @@
         <text>addIncludedInDefaultSelection</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdoZW4oanNvbk5vZGVVdGlsLmlzTm9kZU51bGwodmFsaWREb2N1bWVudC5nZXRDb250ZW50KCkuZ2V0KE1ldGVyQ29uc3RhbnRzLlNZTUJPTCkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -599,28 +599,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBATQo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">b2NrCiAgcHJpdmF0ZSBJSnNvbk5vZGVVdGlsIGpzb25Ob2RlVXRpbDsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuanNvbk5vZGVVdGlsID0ganNvbk5vZGVVdGlsOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSB0cnVlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYoZnVuY3Rpb24oanNvbk5vZGUpKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIElKc29uTm9kZVV0aWwganNvbk5vZGVVdGlsOwo=</text>
+        <text encoding="base64">ICAgIGFycmF5Tm9kZS5mb3JFYWNoKGpzb25Ob2RlIC0+IHsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHVibGljIE1ldGVyTWFuYWdlckltcGwoSUpzb25Ob2RlVXRpbCBqc29uTm9kZVV0aWwpIHsKICAgIHRoaXMuSnNvbk5vZGVVdGlsID0ganNvbk5vZGVVdGlsOwogIH0KCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIGZvcihpbnQgaSA9IDA7IGkgPCBhcnJheU5vZGUuc2l6ZSgpOyBpKyspIHsKICAgICBhcnJheU5vZGUuaXRlIAogICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text />
+        <text encoding="base64">ICAgIHdoZW4oanNvbk5vZGVVdGlsLmlzTm9kZU51bGwodmFsaWREb2N1bWVudC5nZXRDb250ZW50KCkuZ2V0KE1ldGVyQ29uc3RhbnRzLlNZTUJPTCkpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFqc29uTm9kZVV0aWwuaXNOb2RlTnVsbChlYXJuUGVyaW9kRHVyYXRpb24pKSB7Cg==</text>
+        <text encoding="base64">ICBATQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
