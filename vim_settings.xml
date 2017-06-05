@@ -29,12 +29,12 @@
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/IProductCouchbaseService.java" timestamp="1496676176568">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" timestamp="1496688446489">
-        <mark key="'" line="108" column="50" />
-        <mark key="[" line="255" column="23" />
-        <mark key="]" line="255" column="29" />
-        <mark key="." line="255" column="29" />
-        <mark key="^" line="255" column="29" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" timestamp="1496693517724">
+        <mark key="'" line="110" column="50" />
+        <mark key="[" line="267" column="22" />
+        <mark key="]" line="267" column="22" />
+        <mark key="^" line="252" column="20" />
+        <mark key="." line="267" column="22" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/SelectionManagerImpl.java" timestamp="1496060894260">
         <mark key="[" line="177" column="29" />
@@ -318,11 +318,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/utils/JsonNodeUtil.java" timestamp="1496690943231">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="39" column="5" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/utils/JsonNodeUtil.java" timestamp="1496693213820">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/parser/ParserImpl.java" timestamp="1495732415250">
         <mark key="[" line="375" column="23" />
@@ -566,17 +565,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>add</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>add</text>
       </register>
       <register name="/" type="4">
         <text>addO</text>
       </register>
-      <register name="0" type="4">
-        <text>addIncludedInDefaultSelection</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAvKioKICAgKiBBZGQgdGhlIGluY2x1ZGVkIGFycmF5IGZpZWxkIHRvIHRoZSBhIHtAbGluayBEb2N1bWVudE9iamVjdH0KICAgKiBAcGFyYW0gZG9jdW1lbnRPYmplY3Qge0BsaW5rIERvY3VtZW50T2JqZWN0fQogICAqIEB0aHJvd3MgV3JvbmdUeXBlRXhjZXB0aW9uCiAgICovCiAgcHJpdmF0ZSB2b2lkIGFkZEluY2x1ZGVkSW5EZWZhdWx0U2VsZWN0aW9uKERvY3VtZW50T2JqZWN0IGRvY3VtZW50T2JqZWN0KSB0aHJvd3MgV3JvbmdUeXBlRXhjZXB0aW9uIHsKICAgIEFycmF5Tm9kZSBpbmNsdWRlZEluQXJyYXkgPSBkb2N1bWVudE9iamVjdC5nZXRDb250ZW50KCkud2l0aEFycmF5KFNlbGVjdGlvbkNvbnN0YW50cy5KU09OX0ZJRUxEX0lOQ0xVREVEX0lOKTsKCiAgICBDb2RlIGNvZGUgPSBuZXcgQ29kZShDdXN0b21lckNvbnN0YW50cy5TRUxFQ1RJT05fQ09ERV9TRUxFQ1RJT05fQUxMX0NVU1RPTUVSUyk7CiAgICBpZighSnNvbk5vZGVVdGlsLmhhc0VsZW1lbnQoaW5jbHVkZWRJbkFycmF5LCBuZXcgRnVuY3Rpb248SnNvbk5vZGUsIEJvb2xlYW4+KCkgewogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIEJvb2xlYW4gYXBwbHkoSnNvbk5vZGUganNvbk5vZGUpIHsKICAgICAgICBTdHJpbmcgZWxlbWVudENvZGUgPSBqc29uTm9kZS5wYXRoKCJjb2RlIikuYXNUZXh0KCk7CiAgICAgICAgaWYoZWxlbWVudENvZGUuZXF1YWxzKGNvZGUuZ2V0Q29kZSgpKSkgewogICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgIH0KICAgIH0pKSB7CiAgICAgIGluY2x1ZGVkSW5BcnJheS5hZGQob2JqZWN0TWFwcGVyLnZhbHVlVG9UcmVlKGNvZGUpKTsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -599,31 +598,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVkSW5BcnJheS5hZGQob2JqZWN0TWFwcGVyLnZhbHVlVG9UcmVlKGNvZGUpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYoZnVuY3Rpb24oanNvbk5vZGUpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgaW5jbHVkZWRJbkFycmF5LmZvckVhY2goKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFycmF5Tm9kZS5mb3JFYWNoKGpzb25Ob2RlIC0+IHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGZvcihpbnQgaSA9IDA7IGkgPCBhcnJheU5vZGUuc2l6ZSgpOyBpKyspIHsKICAgICBhcnJheU5vZGUuaXRlIAogICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdoZW4oanNvbk5vZGVVdGlsLmlzTm9kZU51bGwodmFsaWREb2N1bWVudC5nZXRDb250ZW50KCkuZ2V0KE1ldGVyQ29uc3RhbnRzLlNZTUJPTCkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBATQo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -662,8 +661,8 @@
         <entry>%</entry>
         <entry>set syntax=json</entry>
         <entry>execute '%! python -m json.tool'</entry>
-        <entry>reg</entry>
         <entry>nohl</entry>
+        <entry>reg</entry>
         <entry>Update</entry>
       </history-cmd>
       <history-expr />
