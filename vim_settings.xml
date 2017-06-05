@@ -151,6 +151,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/pom.xml" timestamp="1496673920399">
+        <mark key="[" line="42" column="31" />
+        <mark key="]" line="42" column="32" />
+        <mark key="." line="42" column="31" />
+      </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/RestRequestHandler.kt" timestamp="1496619785833">
         <mark key="[" line="17" column="27" />
         <mark key="]" line="19" column="0" />
@@ -525,7 +530,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFeGFtcGxlXD4=</text>
+        <text>surefire</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGF0YSBjbGFzcyBGaWxlUmVxdWVzdCh2YWwgcGF0aDogU3RyaW5nKSA6IFJlcXVlc3QoKQo=</text>
@@ -579,15 +584,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFeGFtcGxlXD4=</last-search>
+      <last-search>surefire</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFeGFtcGxlXD4=</last-pattern>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-pattern>surefire</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gen</entry>
         <entry>included</entry>
         <entry>selection</entry>
         <entry>Deprecated</entry>
@@ -607,6 +611,7 @@
         <entry>it</entry>
         <entry encoding="base64">XDxkZFw+</entry>
         <entry encoding="base64">XDxFeGFtcGxlXD4=</entry>
+        <entry>surefire</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
