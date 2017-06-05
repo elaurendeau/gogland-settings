@@ -316,8 +316,10 @@
         <mark key="]" line="7" column="126" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496666541896">
+      <file name="/Dummy.txt" timestamp="1496682265781">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/OfferController.java" timestamp="1495723929990">
         <mark key="[" line="107" column="0" />
@@ -523,11 +525,11 @@
       <jump line="306" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucm9tZXMuaW50ZWdyYXRpb24uYmVhbnMuUHJvZHVjdEJ5QWxpYXNGb3JJbnRlZ3JhdGlvbjsK</text>
+      <register name="&quot;" type="4">
+        <text>clean</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>clean</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
