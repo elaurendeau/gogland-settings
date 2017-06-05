@@ -29,6 +29,13 @@
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/IProductCouchbaseService.java" timestamp="1496676176568">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" timestamp="1496687690857">
+        <mark key="'" line="108" column="50" />
+        <mark key="[" line="254" column="41" />
+        <mark key="]" line="254" column="41" />
+        <mark key="." line="254" column="41" />
+        <mark key="^" line="254" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/SelectionManagerImpl.java" timestamp="1496060894260">
         <mark key="[" line="177" column="29" />
         <mark key="]" line="177" column="30" />
@@ -47,6 +54,12 @@
         <mark key="]" line="3" column="77" />
         <mark key="^" line="3" column="77" />
         <mark key="." line="3" column="77" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/SelectionConstants.java" timestamp="1496686545478">
+        <mark key="[" line="28" column="60" />
+        <mark key="]" line="30" column="66" />
+        <mark key="^" line="30" column="66" />
+        <mark key="." line="30" column="66" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/Application.kt" timestamp="1496468519798">
         <mark key="[" line="9" column="0" />
@@ -213,7 +226,7 @@
         <mark key="^" line="26" column="35" />
         <mark key="." line="21" column="134" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-liquibase-maven-plugin/pom.xml" timestamp="1496684066950" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-framework/rxp-framework-liquibase-maven-plugin/pom.xml" timestamp="1496685628759" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/InsertionCustomerServiceTest.java" timestamp="1496075331719">
         <mark key="[" line="48" column="5" />
         <mark key="]" line="48" column="5" />
@@ -267,6 +280,9 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/dao/impl/ProductCouchbaseDAOImpl.java" timestamp="1496686438287">
+        <mark key="[" line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrule/ITextBR.kt" timestamp="1495643320971">
         <mark key="[" line="7" column="70" />
         <mark key="]" line="7" column="68" />
@@ -277,13 +293,6 @@
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1496677114511">
-        <mark key="'" line="306" column="24" />
-        <mark key="[" line="206" column="79" />
-        <mark key="]" line="206" column="80" />
-        <mark key="^" line="206" column="80" />
-        <mark key="." line="206" column="80" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/IMandateTrackingManager.java" timestamp="1496074401521">
         <mark key="[" line="16" column="39" />
@@ -417,29 +426,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1496666545994">
+      <file name="/fragment.java" timestamp="1496686107942">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/AppConfig.kt" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/AppConfig.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/TaxCouchbaseServiceImpl.java" />
-      <jump line="155" column="8" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5-sources.jar!/com/fasterxml/jackson/databind/node/ObjectNode.java" />
-      <jump line="470" column="5" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5-sources.jar!/com/fasterxml/jackson/databind/node/ObjectNode.java" />
-      <jump line="527" column="5" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5-sources.jar!/com/fasterxml/jackson/databind/node/ObjectNode.java" />
-      <jump line="377" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
-      <jump line="77" column="4" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
-      <jump line="292" column="3" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
-      <jump line="80" column="4" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
-      <jump line="79" column="1" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
-      <jump line="3" column="62" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/SiteConstants.java" />
-      <jump line="3" column="66" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/CustomerConstants.java" />
-      <jump line="4" column="64" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/PeriodConstants.java" />
-      <jump line="298" column="41" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
       <jump line="12" column="31" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
       <jump line="293" column="71" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
@@ -524,22 +517,38 @@
       <jump line="199" column="55" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
       <jump line="296" column="18" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
       <jump line="306" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
+      <jump line="239" column="4" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="68" column="35" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="43" column="13" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="223" column="25" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="67" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="240" column="55" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="137" column="70" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="135" column="27" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="130" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="127" column="16" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="112" column="66" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="104" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="93" column="70" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="114" column="3" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="250" column="15" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="108" column="50" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>clean</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIENvZGUgY29kZSA9IG5ldyBDb2RlKEN1c3RvbWVyQ29uc3RhbnRzLlNFTEVDVElPTl9DT0RFX1NFTEVDVElPTl9BTExfQ1VTVE9NRVJTKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>clean</text>
+        <text>addIncludedInDefaultSelection</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>update</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGF0YSBjbGFzcyBGaWxlUmVxdWVzdCh2YWwgcGF0aDogU3RyaW5nKSA6IFJlcXVlc3QoKQo=</text>
+      <register name="0" type="4">
+        <text>addIncludedInDefaultSelection</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucm9tZXMuaW50ZWdyYXRpb24uYmVhbnMuUHJvZHVjdEJ5QWxpYXNGb3JJbnRlZ3JhdGlvbjsK</text>
+        <text encoding="base64">ICAgIENvZGUgY29kZSA9IG5ldyBDb2RlKEN1c3RvbWVyQ29uc3RhbnRzLlNFTEVDVElPTl9DT0RFX1NFTEVDVElPTl9BTExfQ1VTVE9NRVJTKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -558,45 +567,43 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBpZihTdGF0dXMuQUNUSVZFLmdldFZhbHVlKCkuZXF1YWxzKG5ld1N0YXR1c0NvZGUpKSB7CiAgICBhZGRJbmNsdWRlZEluRGVmYXVsdFNlbGVjdGlvbihkb2N1bWVudE9iamVjdCk7CiAgfSBlbHNlIHsKICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbEdlbmVyYXRvci5nZW5lcmF0ZUxhYmVsQnlSZWdleEFuZENhbnZhc0RpbWVuc2lvbihpbWFnZSwgaW1hZ2VUZXN0UmVzdWx0UmVxdWVzdC5yZWdleCwgaW1hZ2Uud2lkdGgsIGltYWdlLmhlaWdodCwgaW1hZ2VUZXN0UmVzdWx0UmVxdWVzdC5vY2N1cnJlbmNlLCBpbWFnZVRlc3RSZXN1bHRSZXF1ZXN0LnJlcXVlc3QpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">KFN0YXR1cy5BQ1RJVkUuZ2V0VmFsdWUoKS5lcXVhbHMobmV3U3RhdHVzQ29kZSkpIHsKICAgIGFkZEluY2x1ZGVkSW5EZWZhdWx0U2VsZWN0aW9uKGRvY3VtZW50T2JqZWN0KTsKICB9IA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhZGRJbmNsdWRlZEluRGVmYXVsdFNlbGVjdGlvbihkb2N1bWVudE9iamVjdCk7CiAgfSBlbHNlIHsKCiAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJNb2NrZWQgcmVzdCBzZW5kaW5nIHRvIGEgcmVzdCBzZXJ2aWNlIikK</text>
+        <text encoding="base64">ICAgIGFkZEluY2x1ZGVkSW5EZWZhdWx0U2VsZWN0aW9uKGRvY3VtZW50T2JqZWN0KTsKICB9IGVsc2UgewogICAgCiAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICB2YWwgYnl0ZUFycmF5T3V0cHV0U3RyZWFtID0gQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCk7CiAgICAgICAgSW1hZ2VJTy53cml0ZShpbWFnZSwgInBuZyIsIGJ5dGVBcnJheU91dHB1dFN0cmVhbSk7CiAgICAgICAgRmlsZU91dHB1dFN0cmVhbShyZXF1ZXN0LnBhdGggKyAiXFwiICsgbGFiZWwgKyAiLnBuZyIpLndyaXRlKGJ5dGVBcnJheU91dHB1dFN0cmVhbS50b0J5dGVBcnJheSgpKTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CVN0YXR1cy5BQ1RJVkUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBwZXJzaXN0KHJlcXVlc3Q6IEZpbGVSZXF1ZXN0LCBpbWFnZTogQnVmZmVyZWRJbWFnZSwgbGFiZWw6IFN0cmluZykgewogICAgfQo=</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucm9tZXMuaW50ZWdyYXRpb24uYmVhbnMuUHJvZHVjdEJ5QWxpYXNGb3JJbnRlZ3JhdGlvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>update</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>selection</entry>
-        <entry>Deprecated</entry>
         <entry>tran</entry>
         <entry>sync</entry>
         <entry>Product</entry>
@@ -615,6 +622,8 @@
         <entry encoding="base64">XDxFeGFtcGxlXD4=</entry>
         <entry>surefire</entry>
         <entry>save</entry>
+        <entry>customerCouchbaseServiceImpl</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
