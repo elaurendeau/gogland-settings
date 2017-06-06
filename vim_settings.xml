@@ -126,12 +126,6 @@
         <mark key="]" line="5" column="43" />
         <mark key="." line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/CustomerConstants.java" timestamp="1496754864870">
-        <mark key="[" line="3" column="65" />
-        <mark key="]" line="3" column="65" />
-        <mark key="." line="3" column="65" />
-        <mark key="^" line="3" column="104" />
-      </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/ILabelGeneratorService.kt" timestamp="1496163116083">
         <mark key="[" line="15" column="123" />
         <mark key="]" line="15" column="129" />
@@ -383,7 +377,7 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/test/java/com/cgi/rxp/controller/AutocompleteTest.java" timestamp="1496758309880" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/test/java/com/cgi/rxp/controller/AutocompleteTest.java" timestamp="1496759310091" />
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrule/ITextBR.kt" timestamp="1495643320971">
         <mark key="[" line="7" column="70" />
         <mark key="]" line="7" column="68" />
@@ -410,7 +404,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496682265781">
+      <file name="/Dummy.txt" timestamp="1496759599555">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -496,7 +490,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1496754100585">
+      <file name="/fragment.java" timestamp="1496759599569">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
