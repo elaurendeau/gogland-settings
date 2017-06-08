@@ -76,6 +76,11 @@
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/resources/application.properties" timestamp="1496951324981">
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="16" column="41" />
+        <mark key="." line="16" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/dto/aggregate/ProductDeal.java" timestamp="1496069494516">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -267,7 +272,7 @@
         <mark key="]" line="7" column="126" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496761587446">
+      <file name="/Dummy.txt" timestamp="1496951337624">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -331,7 +336,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1496759599569">
+      <file name="/fragment.java" timestamp="1496951337666">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -441,10 +446,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>10.80.145.173</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>10.80.145.173</text>
       </register>
       <register name="/" type="4">
         <text>includedIn</text>
