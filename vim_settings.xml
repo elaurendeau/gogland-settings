@@ -458,7 +458,7 @@
         <text>10.80.145.173</text>
       </register>
       <register name="/" type="4">
-        <text>includedIn</text>
+        <text>Address</text>
       </register>
       <register name="0" type="4">
         <text>SELECTION_CODE_SELECTION_ALL_CUSTOMERS</text>
@@ -531,16 +531,14 @@
       </register>
     </registers>
     <search>
-      <last-search>includedIn</last-search>
+      <last-search>Address</last-search>
       <last-offset />
-      <last-pattern>includedIn</last-pattern>
+      <last-pattern>Address</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>addOff</entry>
-        <entry>addOfferToProduct</entry>
         <entry>addOrRemoveOfferFromRelatedEntities</entry>
         <entry>date</entry>
         <entry>convert</entry>
@@ -559,6 +557,8 @@
         <entry>\\\</entry>
         <entry>jsonNodeUtil</entry>
         <entry>includedIn</entry>
+        <entry>RXP_ADDRESS_CITY</entry>
+        <entry>Address</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
