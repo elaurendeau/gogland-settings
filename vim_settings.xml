@@ -278,10 +278,11 @@
         <mark key="]" line="7" column="126" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496951337624">
+      <file name="/Dummy.txt" timestamp="1497024564499">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="9" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/dto/RomesSite.java" timestamp="1496072715790">
         <mark key="[" line="5" column="0" />
