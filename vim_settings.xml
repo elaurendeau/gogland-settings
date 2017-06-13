@@ -8,6 +8,16 @@
         <mark key="]" line="18" column="44" />
         <mark key="." line="18" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" timestamp="1497377761556">
+        <mark key="'" line="296" column="30" />
+        <mark key="[" line="332" column="19" />
+        <mark key="]" line="332" column="19" />
+        <mark key="." line="332" column="19" />
+        <mark key="^" line="296" column="30" />
+      </file>
+      <file name="/a.dummy" timestamp="1496754109870">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/SelectionManagerImpl.java" timestamp="1496060894260">
         <mark key="[" line="177" column="29" />
         <mark key="]" line="177" column="30" />
@@ -28,7 +38,7 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/SelectionConstants.java" timestamp="1497013048622">
+      <file name="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/SelectionConstants.java" timestamp="1497377742438">
         <mark key="[" line="28" column="73" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="4" column="1" />
@@ -266,6 +276,9 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/AbstractDocumentManagerImpl.java" timestamp="1497375629357" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/dao/impl/ProductCouchbaseDAOImpl.java" timestamp="1496686438287">
+        <mark key="[" line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/MeterConstants.java" timestamp="1496755614368">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -295,6 +308,9 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1497377951840">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/ApplicationRest.kt" timestamp="1496468135138">
         <mark key="[" line="8" column="28" />
@@ -393,7 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="6" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/resources/liquibase/1.0.0/changeset/002-data.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/resources/liquibase/1.0.0/changeset/002-data.xml" />
       <jump line="394" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/resources/liquibase/1.0.0/changeset/002-data.xml" />
       <jump line="216" column="12" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/resources/liquibase/1.0.0/changeset/002-data.xml" />
@@ -493,13 +508,14 @@
       <jump line="7" column="43" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/LoyaltyManagerImpl.java" />
       <jump line="33" column="18" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/LoyaltyManagerImpl.java" />
       <jump line="34" column="6" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/LoyaltyManagerImpl.java" />
+      <jump line="296" column="30" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jsonNodeUtil</text>
+        <text>SelectionConstants.JSON_FIELD_INCLUDED_IN</text>
       </register>
       <register name="-" type="4">
-        <text>jsonNodeUtil</text>
+        <text>SelectionConstants.JSON_FIELD_INCLUDED_IN</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -519,7 +535,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>jsonNode</text>
+        <text>INCLUDED</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">e3JvbGU6ICdBZG1pbicsIGNvbmY6IHRoaXMuZGFzaGNvbmYubWFwKHggPT4gT2JqZWN0LmFzc2lnbih7fSwgeCkpfSw=</text>
@@ -589,15 +605,14 @@
       </register>
     </registers>
     <search>
-      <last-search>jsonNode</last-search>
+      <last-search>INCLUDED</last-search>
       <last-offset />
-      <last-pattern>jsonNode</last-pattern>
+      <last-pattern>INCLUDED</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>RXP_ADDRESS_CITY</entry>
         <entry>Address</entry>
         <entry>Newbie</entry>
         <entry>1</entry>
@@ -617,6 +632,7 @@
         <entry>status</entry>
         <entry>Service</entry>
         <entry>jsonNode</entry>
+        <entry>INCLUDED</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
