@@ -154,6 +154,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/hibernate/entities/DBRxpAddressRoad.java" timestamp="1497357247729">
+        <mark key="[" line="120" column="51" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/test/java/com/cgi/rxp/deprecated/PriceListServiceTest.java" timestamp="1496075550231">
         <mark key="[" line="158" column="0" />
         <mark key="]" line="158" column="0" />
@@ -559,7 +562,7 @@
       <last-offset />
       <last-pattern>status</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
