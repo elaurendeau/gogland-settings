@@ -132,12 +132,12 @@
         <mark key="." line="23" column="50" />
         <mark key="^" line="23" column="53" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/RestRequestHandler.kt" timestamp="1497190534192">
-        <mark key="'" line="18" column="89" />
-        <mark key="[" line="18" column="105" />
-        <mark key="]" line="16" column="54" />
-        <mark key="^" line="16" column="54" />
-        <mark key="." line="16" column="54" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/RestRequestHandler.kt" timestamp="1497483418149">
+        <mark key="'" line="19" column="89" />
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="17" column="56" />
+        <mark key="." line="17" column="56" />
+        <mark key="^" line="16" column="7" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/dto/aggregate/ProductDeal.java" timestamp="1496069494516">
         <mark key="[" line="2" column="0" />
@@ -380,12 +380,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/dto/RestResponse.kt" timestamp="1497077292505">
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/dto/RestResponse.kt" timestamp="1497483305160">
         <mark key="'" line="2" column="24" />
         <mark key="[" line="2" column="40" />
-        <mark key="]" line="2" column="40" />
-        <mark key="^" line="2" column="69" />
-        <mark key="." line="2" column="40" />
+        <mark key="]" line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+        <mark key="." line="2" column="45" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/IImageUsecase.kt" timestamp="1495642452572">
         <mark key="[" line="3" column="0" />
@@ -547,19 +547,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>running</text>
+        <text>encode</text>
       </register>
       <register name="-" type="4">
-        <text>running</text>
+        <text>encode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJTkZPXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJhc2VOYW1lID0gJ3RlbnNvcmZsb3ctdHJhaW5pbmctaW1hZ2UtZ2VuZXJhdG9yJwo=</text>
+      <register name="0" type="4">
+        <text>data.data</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCYXNlNjQuZ2V0RW5jb2RlcigpLmVuY29kZShkYXRhLmRhdGEpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -579,31 +579,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCYXNlNjQuZ2V0RW5jb2RlcigpLmVuY29kZShkYXRhLmRhdGEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5sb2dnaW5nLmxvZzRqL2xvZzRqLWNvcmUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly9qYXIgewovLyAgICBiYXNlTmFtZSA9ICd0ZW5zb3JmbG93LXRyYWluaW5nLWltYWdlLWdlbmVyYXRvcicKLy8gICAgdmVyc2lvbiA9ICAnMS4wLjAnCi8vICAgIG1haW5DbGFzc05hbWUgPSAnYXBwbGljYXRpb24uQXBwbGljYXRpb25SZXN0JwovLyAgICBtYW5pZmVzdCB7Ci8vICAgICAgICBhdHRyaWJ1dGVzKCAnTWFpbi1DbGFzcyc6ICdhcHBsaWNhdGlvbi5BcHBsaWNhdGlvblJlc3QnICkKLy8gICAgfQovL30KCgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSAtPiB0aHJvdyBJbnZhbAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXZlbC4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIG9iamVjdCB7CgogICAgfQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5sb2dnaW5nLmxvZzRqL2xvZzRqLWNvcmUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly9qYXIgewovLyAgICBiYXNlTmFtZSA9ICd0ZW5zb3JmbG93LXRyYWluaW5nLWltYWdlLWdlbmVyYXRvcicKLy8gICAgdmVyc2lvbiA9ICAnMS4wLjAnCi8vICAgIG1haW5DbGFzc05hbWUgPSAnYXBwbGljYXRpb24uQXBwbGljYXRpb25SZXN0JwovLyAgICBtYW5pZmVzdCB7Ci8vICAgICAgICBhdHRyaWJ1dGVzKCAnTWFpbi1DbGFzcyc6ICdhcHBsaWNhdGlvbi5BcHBsaWNhdGlvblJlc3QnICkKLy8gICAgfQovL30KCgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSAtPiB0aHJvdyBJbnZhbAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsZXZlbC4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+      </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -611,7 +611,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxJTkZPXD4=</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -642,9 +642,9 @@
         <entry>%</entry>
         <entry>set syntax=json</entry>
         <entry>execute '%! python -m json.tool'</entry>
-        <entry>reg</entry>
         <entry>nohl</entry>
         <entry>Update</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
