@@ -19,12 +19,11 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" timestamp="1497401237381">
-        <mark key="'" line="58" column="9" />
-        <mark key="[" line="63" column="18" />
-        <mark key="]" line="63" column="18" />
-        <mark key="n" line="47" column="23" />
-        <mark key="." line="63" column="18" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" timestamp="1497403487505">
+        <mark key="'" line="47" column="9" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/Test/src/app.kt" timestamp="1495219531733">
         <mark key="[" line="2" column="0" />
@@ -286,8 +285,8 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497400753844">
-        <mark key="[" line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1497401711718">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="11" />
@@ -524,11 +523,11 @@
       <jump line="66" column="9" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdpdGggamFyCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hello.helloWorld'</text>
       </register>
       <register name="/" type="4">
         <text>TensorflowTrai</text>
@@ -537,7 +536,7 @@
         <text encoding="base64">ZGF0YSBjbGFzcyBGaWxlUmVxdWVzdCh2YWwgcGF0aDogU3RyaW5nKSA6IFJlcXVlc3QoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhc2VOYW1lID0gcHJvamVjdC5uYW1lICsgJy1hbGwnCg==</text>
+        <text encoding="base64">ICAgIHdpdGggamFyCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -557,28 +556,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyb20geyBjb25maWd1cmF0aW9ucy5jb21waWxlLmNvbGxlY3QgeyBpdC5pc0RpcmVjdG9yeSgpID8gaXQgOiB6aXBUcmVlKGl0KSB9IH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1haW5DbGFzc05hbWUgPSAnYXBwbGljYXRpb24uQXBwbGljYXRpb25SZXN0Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdDbGFzcy1QYXRoJzogY29uZmlndXJhdGlvbnMuY29tcGlsZS5jb2xsZWN0IHsgaXQuZ2V0TmFtZSgpIH0uam9pbignICcpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdJbXBsZW1lbnRhdGlvbi1WZXJzaW9uJzogJzEuMCcsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bWFpbkNsYXNzTmFtZSA9ICdhcHBsaWNhdGlvbi5BcHBsaWNhdGlvblJlc3QnCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dmVyc2lvbiA9ICcxLjAnCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CnRhc2sgZmF0SmFyKHR5cGU6IEphcikgewogICAgbWFuaWZlc3QgewogICAgICAgIGF0dHJpYnV0ZXMgJ0ltcGxlbWVudGF0aW9uLVRpdGxlJzogJ1RlbnNvcmZsb3cgdHJhaW5pbmcgaW1hZ2UgZ2VuZXJhdG9yJywKICAgICAgICAgICAgICAgICdJbXBsZW1lbnRhdGlvbi1WZXJzaW9uJzogJzEuMCcsCiAgICAgICAgICAgICAgICAnTWFpbi1DbGFzcyc6ICdhcHBsaWNhdGlvbi5BcHBsaWNhdGlvblJlc3QnCiAgICB9Cn0=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9jcmVhdGUgYSBzaW5nbGUgSmFyIHdpdGggYWxsIGRlcGVuZGVuY2llcwo=</text>
+        <text encoding="base64">ICAgIGZyb20geyBjb25maWd1cmF0aW9ucy5jb21waWxlLmNvbGxlY3QgeyBpdC5pc0RpcmVjdG9yeSgpID8gaXQgOiB6aXBUcmVlKGl0KSB9IH0KICAgIHdpdGggamFyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L3NlLnRyYW5zbW9kZS5ncmFkbGUvZ3JhZGxlLWRvY2tlcgo=</text>
+        <text encoding="base64">ICAgbmFtZSArICctYWxsJwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
@@ -589,7 +589,7 @@
       <last-offset />
       <last-pattern>TensorflowTrai</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
