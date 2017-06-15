@@ -9,12 +9,8 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" timestamp="1497382577026">
-        <mark key="'" line="333" column="43" />
-        <mark key="[" line="367" column="52" />
-        <mark key="]" line="367" column="50" />
-        <mark key="." line="367" column="50" />
-        <mark key="^" line="367" column="50" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" timestamp="1497527356379">
+        <mark key="'" line="337" column="49" />
       </file>
       <file name="/a.dummy" timestamp="1496754109870">
         <mark key="[" line="0" column="0" />
@@ -582,7 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="73" filename="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/ILabelGeneratorUC.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/AppConfig.kt" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/AppConfig.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/TaxCouchbaseServiceImpl.java" />
@@ -682,10 +677,11 @@
       <jump line="57" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" />
       <jump line="4" column="0" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" />
       <jump line="329" column="43" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="337" column="49" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ArrayNode</text>
+        <text encoding="base64">bmV3IEZ1bmN0aW9uPEpzb25Ob2RlLCBCb29sZWFuPigpIHsKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBCb29sZWFuIGFwcGx5KEpzb25Ob2RlIGpzb25Ob2RlKSB7CiAgICAgICAgU3RyaW5nIGVsZW1lbnRDb2RlID0ganNvbk5vZGUucGF0aCgiY29kZSIpLmFzVGV4dCgpOwogICAgICAgIGlmIChlbGVtZW50Q29kZS5lcXVhbHMoY29kZS5nZXRDb2RlKCkpKSB7CiAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KICAgICAgfQogICAgfSk=</text>
       </register>
       <register name="-" type="4">
         <text>ArrayNode</text>
@@ -713,8 +709,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmICghSnNvbk5vZGVVdGlsLmhhc0VsZW1lbnQoaW5jbHVkZWRJbkFycmF5LCBuZXcgRnVuY3Rpb248SnNvbk5vZGUsIEJvb2xlYW4+KCkgewogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIEJvb2xlYW4gYXBwbHkoSnNvbk5vZGUganNvbk5vZGUpIHsKICAgICAgICBTdHJpbmcgZWxlbWVudENvZGUgPSBqc29uTm9kZS5wYXRoKCJjb2RlIikuYXNUZXh0KCk7CiAgICAgICAgaWYgKGVsZW1lbnRDb2RlLmVxdWFscyhjb2RlLmdldENvZGUoKSkpIHsKICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICB9CiAgICB9KSkgewogICAgICBpbmNsdWRlZEluQXJyYXkuYWRkKG9iamVjdE1hcHBlci52YWx1ZVRvVHJlZShjb2RlKSk7CiAgICAgIAogICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">bmV3IEZ1bmN0aW9uPEpzb25Ob2RlLCBCb29sZWFuPigpIHsKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBCb29sZWFuIGFwcGx5KEpzb25Ob2RlIGpzb25Ob2RlKSB7CiAgICAgICAgU3RyaW5nIGVsZW1lbnRDb2RlID0ganNvbk5vZGUucGF0aCgiY29kZSIpLmFzVGV4dCgpOwogICAgICAgIGlmIChlbGVtZW50Q29kZS5lcXVhbHMoY29kZS5nZXRDb2RlKCkpKSB7CiAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KICAgICAgfQogICAgfSk=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -734,28 +730,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIERvY3VtZW50T2JqZWN0IHNlbGVjdGlvbkRvY3VtZW50ID0gc2VsZWN0aW9uQ291Y2hiYXNlREFPLmZpbmRPbmUoY29kZS5nZXRDb2RlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBDCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlZEluQXJyYXkuYWRkKG9iamVjdE1hcHBlci52YWx1ZVRvVHJlZShjb2RlKSk7Cg==</text>
+        <text encoding="base64">ICAgIERvY3VtZW50T2JqZWN0IHNlbGVjdGlvbkRvY3VtZW50ID0gc2VsZWN0aW9uQ291Y2hiYXNlREFPLmZpbmRPbmUoY29kZS5nZXRDb2RlKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNlbGVjdGlvbkNvdWNoYmFzZVNlcnZpY2UK</text>
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlZEluQXJyYXkuYWRkKG9iamVjdE1hcHBlci52YWx1ZVRvVHJlZShjb2RlKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1haW50YWluZXIgJ2RkSHVkc29uIE1lbmRlcyAiaHVkc29ubWVuZGVzQGdtYWlsLmNvbSInCg==</text>
+        <text encoding="base64">ICAgIFNlbGVjdGlvbkNvdWNoYmFzZVNlcnZpY2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1haW50YWluZXIgJ2RkSHVkc29uIE1lbmRlcyAiaHVkc29ubWVuZGVzQGdtYWlsLmNvbSInCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmVyc2lvbiA9ICcxLjAnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHNlcnZpY2VSZXF1ZXN0KQo=</text>
+        <text encoding="base64">dmVyc2lvbiA9ICcxLjAnCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
