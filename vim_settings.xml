@@ -9,12 +9,6 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" timestamp="1497407767543">
-        <mark key="'" line="48" column="9" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/IImageManager.kt" timestamp="1496187726427">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="19" />
@@ -31,23 +25,29 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ParameterDependenciesServiceImpl.java" timestamp="1497639354655">
+        <mark key="[" line="133" column="31" />
+        <mark key="]" line="133" column="31" />
+        <mark key="." line="133" column="42" />
+        <mark key="^" line="64" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/IImageUC.kt" timestamp="1495642558218">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="3" column="77" />
         <mark key="^" line="3" column="77" />
         <mark key="." line="3" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/SelectionConstants.java" timestamp="1497629885619">
-        <mark key="'" line="35" column="74" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/LoggerHandler.kt" timestamp="1497407971551">
         <mark key="[" line="13" column="70" />
         <mark key="]" line="13" column="68" />
         <mark key="." line="13" column="68" />
         <mark key="^" line="13" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/dto/selection/SelectionDocument.java" timestamp="1497639237343">
+        <mark key="[" line="129" column="66" />
+        <mark key="]" line="129" column="66" />
+        <mark key="." line="129" column="66" />
+        <mark key="^" line="125" column="92" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/Application.kt" timestamp="1496468519798">
         <mark key="[" line="10" column="0" />
@@ -92,6 +92,12 @@
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/MeterManagerImplTest.java" timestamp="1497639520622">
+        <mark key="[" line="118" column="9" />
+        <mark key="]" line="118" column="9" />
+        <mark key="." line="118" column="20" />
+        <mark key="^" line="44" column="20" />
+      </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/dto/ImageTestResultRequest.kt" timestamp="1496611096268">
         <mark key="[" line="4" column="97" />
         <mark key="]" line="4" column="116" />
@@ -119,6 +125,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/SelectionManagerImplTest.java" timestamp="1497639528328">
+        <mark key="[" line="155" column="47" />
+        <mark key="]" line="155" column="47" />
+        <mark key="." line="155" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-core/pom.xml" timestamp="1497639922501" />
       <file name="/fragment.kt" timestamp="1497494650245">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -144,18 +156,8 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/controller/TrainingRequestController.kt" timestamp="1497569817906">
-        <mark key="'" line="26" column="75" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/RestRequestHandler.kt" timestamp="1497496277914">
-        <mark key="'" line="26" column="89" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/spring/controllers/OfferController.java" timestamp="1497639622236" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/pom.xml" timestamp="1497639889247" />
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/ILabelGeneratorService.kt" timestamp="1496611136909">
         <mark key="[" line="16" column="125" />
         <mark key="]" line="16" column="125" />
@@ -173,12 +175,24 @@
         <mark key="]" line="20" column="13" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/LoyaltyManagerImplTest.java" timestamp="1497639545395">
+        <mark key="[" line="69" column="9" />
+        <mark key="]" line="69" column="9" />
+        <mark key="." line="69" column="20" />
+        <mark key="^" line="63" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/pom.xml" timestamp="1497639931209" />
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/repository/impl/ImageRepository.kt" timestamp="1497496326747">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="21" column="29" />
         <mark key="]" line="21" column="73" />
         <mark key="." line="21" column="73" />
         <mark key="^" line="21" column="73" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/MandateCouchbaseServiceImpl.java" timestamp="1497639302481">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/IAggregateManager.java" timestamp="1496062617426">
         <mark key="[" line="3" column="0" />
@@ -218,6 +232,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/dao/impl/ProductDAO.java" timestamp="1497638957396" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/InsertionItemServiceTest.java" timestamp="1496074806561">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -311,11 +326,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497637936030">
+      <file name="/Dummy.txt" timestamp="1497640003060">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
+        <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="11" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/OfferController.java" timestamp="1495723929990">
         <mark key="[" line="107" column="0" />
@@ -327,6 +342,18 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/MeterManagerImpl.java" timestamp="1497639191951">
+        <mark key="[" line="40" column="11" />
+        <mark key="]" line="40" column="11" />
+        <mark key="." line="40" column="22" />
+        <mark key="^" line="23" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" timestamp="1497639466639">
+        <mark key="[" line="230" column="80" />
+        <mark key="]" line="230" column="80" />
+        <mark key="." line="230" column="80" />
+        <mark key="^" line="230" column="78" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/docker/Dockerfile" timestamp="1497494240849">
         <mark key="[" line="5" column="95" />
@@ -396,6 +423,12 @@
         <mark key="[" line="250" column="0" />
         <mark key="]" line="250" column="0" />
         <mark key="." line="250" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/LoyaltyManagerImpl.java" timestamp="1497639413030">
+        <mark key="[" line="84" column="14" />
+        <mark key="]" line="84" column="14" />
+        <mark key="." line="84" column="25" />
+        <mark key="^" line="63" column="24" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/domain/Text.kt" timestamp="1495395031811">
         <mark key="[" line="5" column="46" />
@@ -553,10 +586,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLmZhY3RvcnkuYW5ub3RhdGlvbi5BdXRvd2lyZWQ7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuSHR0cFN0YXR1czsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5NZWRpYVR5cGU7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuUmVzcG9uc2VFbnRpdHk7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5iaW5kLmFubm90YXRpb24uUmVxdWVzdEJvZHk7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5iaW5kLmFubm90YXRpb24uUmVxdWVzdE1hcHBpbmc7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5iaW5kLmFubm90YXRpb24uUmVxdWVzdE1ldGhvZDsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXNwb25zZUJvZHk7</text>
+        <text>package</text>
       </register>
       <register name="-" type="4">
-        <text>SELECTION_ID_SELECTION_ALL_SITES</text>
+        <text>package</text>
       </register>
       <register name="/" type="4">
         <text>SITES</text>
@@ -564,8 +597,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIChTdGF0dXMuQUNUSVZFLmdldFZhbHVlKCkuZXF1YWxzKG5ld1N0YXR1c0NvZGUpKSB7CiAgICAgIGFkZEluY2x1ZGVkSW5EZWZhdWx0U2VsZWN0aW9uKGRvY3VtZW50T2JqZWN0KTsKICAgIH0gZWxzZSB7CiAgICAgIHJlbW92ZUluY2x1ZGVkSW5EZWZhdWx0U2VsZWN0aW9uKGRvY3VtZW50T2JqZWN0KTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLmZhY3RvcnkuYW5ub3RhdGlvbi5BdXRvd2lyZWQ7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuSHR0cFN0YXR1czsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5NZWRpYVR5cGU7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuUmVzcG9uc2VFbnRpdHk7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5iaW5kLmFubm90YXRpb24uUmVxdWVzdEJvZHk7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5iaW5kLmFubm90YXRpb24uUmVxdWVzdE1hcHBpbmc7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5iaW5kLmFubm90YXRpb24uUmVxdWVzdE1ldGhvZDsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXNwb25zZUJvZHk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -585,28 +618,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIElKc29uTm9kZVV0aWwganNvbk5vZGVVdGlsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBKU09OX0ZJRUxEX0xJU1RfT0ZfQ1VTVE9NRVJTID0gImxpc3RPZkN1c3RvbWVycyI7Cg==</text>
+        <text encoding="base64">ICBATW9jawo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBKU09OX0ZJRUxEX0xJU1RfT0ZfUFJPRFVDVFMgPSAibGlzdE9mUHJvZHVjdHMiOwo=</text>
+        <text encoding="base64">ICBATW9jawogIHByaXZhdGUgSUpzb25Ob2RlVXRpbCBqc29uTm9kZVV0aWw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWpzb25Ob2RlVXRpbC5pc05vZGVOdWxsKGZpcnN0Q3VzdG9tZXIucGF0aChMb3lhbHR5Q29uc3RhbnRzLkNVU1RPTUVSX0NPREUpKSkgewoKICAgICAgICAgIGlmIChqc29uTm9kZVV0aWwKICAgICAgICAgICAgICAuaXNOb2RlTnVsbChkb2N1bWVudC5nZXRDb250ZW50KCkucGF0aChMb3lhbHR5Q29uc3RhbnRzLkRFRkFVTFRfQUREUkVTUykpKSB7CiAgICAgICAgICAgIE9iamVjdE5vZGUgZGVmYXVsdEFkZHJlc3MgPSBmYWN0b3J5Lm9iamVjdE5vZGUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBKU09OX0ZJRUxEX0xJU1RfT0ZfU0lURVMgPSAibGlzdE9mU2l0ZXMiOwo=</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHVibGljIExveWFsdHlNYW5hZ2VySW1wbChJSnNvbk5vZGVVdGlsIGpzb25Ob2RlVXRpbCkgewogICAgdGhpcy5qc29uTm9kZVV0aWwgPSBqc29uTm9kZVV0aWw7CiAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFN0cmluZyBTRUxFQ1RJT05fQ09ERV9TRUxFQ1RJT05fQUxMX0NVU1RPTUVSUyA9ICJzeXN0ZW06OnNlbGVjdGlvbl9hbGxfY3VzdG9tZXJzIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFN0cmluZyBTRUxFQ1RJT05fQ09ERV9TRUxFQ1RJT05fQUxMX0NVU1RPTUVSUyA9ICJzeXN0ZW06OnNlbGVjdGlvbl9hbGxfY3VzdG9tZXJzIjsKICBwdWJsaWMgc3RhdGljIFN0cmluZyBTRUxFQ1RJT05fSURfU0VMRUNUSU9OX0FMTF9DVVNUT01FUlMgPSAic3lzdGVtOjpzZWxlY3Rpb25fYWxsX2N1c3RvbWVycyI7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIElKc29uTm9kZVV0aWwganNvbk5vZGVVdGlsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
