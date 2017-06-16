@@ -21,12 +21,12 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" timestamp="1497619764688">
-        <mark key="'" line="335" column="0" />
-        <mark key="[" line="353" column="48" />
-        <mark key="]" line="351" column="6" />
-        <mark key="^" line="360" column="66" />
-        <mark key="." line="347" column="0" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" timestamp="1497622535772">
+        <mark key="'" line="197" column="6" />
+        <mark key="[" line="362" column="76" />
+        <mark key="]" line="362" column="123" />
+        <mark key="^" line="323" column="116" />
+        <mark key="." line="362" column="76" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/SelectionManagerImpl.java" timestamp="1496060894260">
         <mark key="[" line="177" column="29" />
@@ -43,6 +43,13 @@
         <mark key="]" line="3" column="77" />
         <mark key="^" line="3" column="77" />
         <mark key="." line="3" column="77" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/SelectionConstants.java" timestamp="1497622373923">
+        <mark key="'" line="41" column="74" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="0" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/LoggerHandler.kt" timestamp="1497407971551">
         <mark key="[" line="13" column="70" />
@@ -61,6 +68,7 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/romes/utils/impl/JsonNodeUtilTest.java" timestamp="1497621254795" />
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/impl/PositionManager.kt" timestamp="1496194406014">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -203,9 +211,6 @@
         <mark key="^" line="26" column="35" />
         <mark key="." line="21" column="134" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/enumeration/LoggingEnumeration.kt" timestamp="1497407375816">
-        <mark key="[" line="2" column="31" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/InsertionCustomerServiceTest.java" timestamp="1496075331719">
         <mark key="[" line="48" column="5" />
         <mark key="]" line="48" column="5" />
@@ -237,12 +242,6 @@
         <mark key="]" line="5" column="43" />
         <mark key="." line="5" column="43" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/docker/Dockerfile" timestamp="1497397658266">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="0" column="111" />
-        <mark key="." line="0" column="111" />
-        <mark key="^" line="0" column="111" />
-      </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/controller/ImageController.kt" timestamp="1496611227008">
         <mark key="[" line="15" column="115" />
         <mark key="]" line="15" column="115" />
@@ -253,6 +252,11 @@
         <mark key="]" line="10" column="8" />
         <mark key="." line="10" column="8" />
         <mark key="^" line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/CustomerConstants.java" timestamp="1497621855339">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/ILabelGeneratorService.kt" timestamp="1496163116083">
         <mark key="[" line="15" column="123" />
@@ -455,38 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
-      <jump line="3" column="62" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/SiteConstants.java" />
-      <jump line="3" column="66" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/CustomerConstants.java" />
-      <jump line="4" column="64" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/constants/PeriodConstants.java" />
-      <jump line="298" column="41" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
-      <jump line="12" column="31" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
-      <jump line="293" column="71" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
-      <jump line="220" column="2" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
-      <jump line="46" column="27" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/AggregateManagerImpl.java" />
-      <jump line="24" column="51" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/AggregateManagerImpl.java" />
-      <jump line="76" column="2" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/AggregateTriggerService.java" />
-      <jump line="24" column="4" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/IAggregateTriggerService.java" />
-      <jump line="30" column="29" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/IGranularityManager.java" />
-      <jump line="25" column="19" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/IGranularityManager.java" />
-      <jump line="24" column="12" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/IGranularityManager.java" />
-      <jump line="19" column="59" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/IGranularityManager.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/GranularityManager.java" />
-      <jump line="137" column="31" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/GranularityManager.java" />
-      <jump line="72" column="8" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/GranularityManagerTest.java" />
-      <jump line="137" column="71" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/AggregateTriggerServiceTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/AggregateTriggerServiceTest.java" />
-      <jump line="147" column="82" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/AggregateController.java" />
-      <jump line="13" column="17" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/IMetricManager.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/dto/aggregate/Transaction.java" />
-      <jump line="65" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/AggregateTriggerService.java" />
-      <jump line="411" column="53" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/AggregateTriggerService.java" />
-      <jump line="20" column="17" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/IAggregateTriggerService.java" />
-      <jump line="401" column="14" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/AggregateTriggerService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductServiceImpl.java" />
-      <jump line="18" column="30" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductServiceImpl.java" />
       <jump line="19" column="38" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductServiceImpl.java" />
       <jump line="24" column="30" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductServiceImpl.java" />
       <jump line="25" column="30" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductServiceImpl.java" />
@@ -555,22 +527,54 @@
       <jump line="303" column="24" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
       <jump line="302" column="32" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
       <jump line="335" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="33" column="61" filename="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/SelectionConstants.java" />
+      <jump line="32" column="33" filename="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/SelectionConstants.java" />
+      <jump line="37" column="85" filename="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/SelectionConstants.java" />
+      <jump line="35" column="85" filename="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/SelectionConstants.java" />
+      <jump line="36" column="83" filename="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/SelectionConstants.java" />
+      <jump line="319" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="321" column="36" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="311" column="32" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="310" column="48" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="3" column="31" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="347" column="48" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="348" column="32" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="279" column="12" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="41" column="52" filename="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/SelectionConstants.java" />
+      <jump line="40" column="74" filename="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/SelectionConstants.java" />
+      <jump line="340" column="98" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="352" column="74" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="364" column="96" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="304" column="131" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="314" column="74" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="177" column="59" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="178" column="42" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="200" column="91" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="201" column="65" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="214" column="17" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="217" column="65" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="250" column="36" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="144" column="75" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="145" column="75" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="146" column="75" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="176" column="83" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
+      <jump line="197" column="6" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEZ1bmN0aW9uPEpzb25Ob2RlLCBCb29sZWFuPiB2YWxpZGF0aW9uRnVuY3Rpb24gPSAoSnNvbk5vZGUganNvbk5vZGUpIC0+IHsKCiAgICAgIFN0cmluZyBlbGVtZW50Q29kZSA9IGpzb25Ob2RlLnBhdGgoImNvZGUiKS50ZXh0VmFsdWUoKTsKICAgICAgcmV0dXJuIGVsZW1lbnRDb2RlLmVxdWFscyhjb2RlLmdldENvZGUoKSk7CiAgICB9Owo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;listOfCustomers&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>customerDocument</text>
+        <text>&quot;listOfCustomers&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>cust</text>
+        <text>&quot;code&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEJpRnVuY3Rpb248SnNvbk5vZGUsIFN0cmluZywgQm9vbGVhbj4gdmFsaWRhdGlvbkZ1bmN0aW9uID0gKEpzb25Ob2RlIGpzb25Ob2RlLCBTdHJpbmcgZXhwZWN0ZWRDb2RlKSAtPiB7CgogICAgICBTdHJpbmcgZWxlbWVudENvZGUgPSBqc29uTm9kZS5wYXRoKCJjb2RlIikudGV4dFZhbHVlKCk7CiAgICAgIHJldHVybiBlbGVtZW50Q29kZS5lcXVhbHMoZXhwZWN0ZWRDb2RlKTsKICAgIH07Cg==</text>
+      <register name="0" type="4">
+        <text>SelectionConstants.JSON_FIELD_LIST_OF_CUSTOMERS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEZ1bmN0aW9uPEpzb25Ob2RlLCBCb29sZWFuPiB2YWxpZGF0aW9uRnVuY3Rpb24gPSAoSnNvbk5vZGUganNvbk5vZGUpIC0+IHsKCiAgICAgIFN0cmluZyBlbGVtZW50Q29kZSA9IGpzb25Ob2RlLnBhdGgoImNvZGUiKS50ZXh0VmFsdWUoKTsKICAgICAgcmV0dXJuIGVsZW1lbnRDb2RlLmVxdWFscyhjb2RlLmdldENvZGUoKSk7CiAgICB9Owo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFN0cmluZyBTRUxFQ1RJT05fQ09ERV9TRUxFQ1RJT05fQUxMX0NVU1RPTUVSUyA9ICJzeXN0ZW06OnNlbGVjdGlvbl9hbGxfY3VzdG9tZXJzIjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -590,25 +594,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5GdW5jdGlvbjsK</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFN0cmluZyBTRUxFQ1RJT05fQ09ERV9TRUxFQ1RJT05fQUxMX0NVU1RPTUVSUyA9ICJzeXN0ZW06OnNlbGVjdGlvbl9hbGxfY3VzdG9tZXJzIjsKICBwdWJsaWMgc3RhdGljIFN0cmluZyBTRUxFQ1RJT05fSURfU0VMRUNUSU9OX0FMTF9DVVNUT01FUlMgPSAic3lzdGVtOjpzZWxlY3Rpb25fYWxsX2N1c3RvbWVycyI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLkZ1bmN0aW9uMzsK</text>
+        <text encoding="base64">IH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiSGkgZnJvbSByZXN0IikK</text>
+        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEpTT05fRklFTERfSU5DTFVERURfSU4gPSAiaW5jbHVkZWRJbiI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tVGVzdCBpbiBhc3luYyIpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tdGVzdCBhYm92ZSBhc3luYyIpCg==</text>
+        <text encoding="base64">ICAgIEZ1bmN0aW9uPEpzb25Ob2RlLCBCb29sZWFuPiB2YWxpZGF0aW9uRnVuY3Rpb24gPSAoSnNvbk5vZGUganNvbk5vZGUpIC0+IHsKCiAgICAgIFN0cmluZyBlbGVtZW50Q29kZSA9IGpzb25Ob2RlLnBhdGgoImNvZGUiKS50ZXh0VmFsdWUoKTsKICAgICAgcmV0dXJuIGVsZW1lbnRDb2RlLmVxdWFscyhjb2RlLmdldENvZGUoKSk7CiAgICB9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5GdW5jdGlvbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luYyhDb21tb25Qb29sKSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLkZ1bmN0aW9uMzsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiSGkgZnJvbSByZXN0IikK</text>
@@ -618,19 +622,14 @@
       </register>
     </registers>
     <search>
-      <last-search>cust</last-search>
+      <last-search>&quot;code&quot;</last-search>
       <last-offset />
-      <last-pattern>cust</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>&quot;code&quot;</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>convert</entry>
-        <entry>tmp</entry>
-        <entry>img</entry>
-        <entry>pro</entry>
-        <entry encoding="base64">XDxGaWxlUmVxdWVzdFw+</entry>
         <entry>it</entry>
         <entry encoding="base64">XDxkZFw+</entry>
         <entry encoding="base64">XDxFeGFtcGxlXD4=</entry>
@@ -645,7 +644,12 @@
         <entry encoding="base64">XDxJTkZPXD4=</entry>
         <entry>scala</entry>
         <entry>Function2</entry>
+        <entry>CUSTOMER</entry>
+        <entry>CODE</entry>
+        <entry>sites</entry>
+        <entry>CustomerConstants</entry>
         <entry>cust</entry>
+        <entry>&quot;code&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
@@ -654,8 +658,8 @@
         <entry>set syntax=json</entry>
         <entry>execute '%! python -m json.tool'</entry>
         <entry>nohl</entry>
-        <entry>Update</entry>
         <entry>reg</entry>
+        <entry>Update</entry>
       </history-cmd>
       <history-expr />
       <history-input />
