@@ -44,7 +44,7 @@
         <mark key="^" line="3" column="77" />
         <mark key="." line="3" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/SelectionConstants.java" timestamp="1497624327416">
+      <file name="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/SelectionConstants.java" timestamp="1497629885619">
         <mark key="'" line="35" column="74" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -286,13 +286,6 @@
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1497624624352">
-        <mark key="'" line="610" column="74" />
-        <mark key="[" line="355" column="101" />
-        <mark key="]" line="356" column="2" />
-        <mark key="." line="356" column="2" />
-        <mark key="^" line="356" column="2" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/IMandateTrackingManager.java" timestamp="1496074401521">
         <mark key="[" line="16" column="39" />
