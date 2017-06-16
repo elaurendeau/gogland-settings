@@ -43,7 +43,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/utils/JsonNodeUtilImpl.java" timestamp="1497634409200" />
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/LoggerHandler.kt" timestamp="1497407971551">
         <mark key="[" line="13" column="70" />
         <mark key="]" line="13" column="68" />
@@ -61,7 +60,6 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/romes/utils/impl/JsonNodeUtilTest.java" timestamp="1497621254795" />
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/impl/PositionManager.kt" timestamp="1496194406014">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -257,7 +255,6 @@
         <mark key="^" line="15" column="129" />
         <mark key="." line="15" column="129" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/pom.xml" timestamp="1497625446981" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/OfferManagerImpl.java" timestamp="1496072243649">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -314,7 +311,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497634594457">
+      <file name="/Dummy.txt" timestamp="1497637130307">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="0" />
@@ -615,7 +612,7 @@
       <last-offset />
       <last-pattern>SITES</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
