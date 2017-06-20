@@ -128,6 +128,13 @@
         <mark key="]" line="155" column="47" />
         <mark key="." line="155" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/resources/liquibase/NODES/changeset/014-data.xml" timestamp="1497976260764">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="603" column="7" />
+        <mark key="]" line="603" column="7" />
+        <mark key="." line="603" column="7" />
+        <mark key="^" line="603" column="7" />
+      </file>
       <file name="/fragment.kt" timestamp="1497494650245">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -249,6 +256,9 @@
         <mark key="^" line="15" column="129" />
         <mark key="." line="15" column="129" />
       </file>
+      <file name="/a.sql" timestamp="1497976468228">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/OfferManagerImpl.java" timestamp="1496072243649">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -287,7 +297,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1497968024488">
+      <file name="/dummy.sql" timestamp="1497976479017">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/parser/ParserImpl.java" timestamp="1495732415250">
@@ -445,7 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="32" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
       <jump line="335" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
       <jump line="33" column="61" filename="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/SelectionConstants.java" />
       <jump line="32" column="33" filename="$USER_HOME$/workspace_rxp/rxp-common-lib/src/main/java/com/cgi/rxp/constants/SelectionConstants.java" />
@@ -545,13 +554,14 @@
       <jump line="65" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
       <jump line="678" column="2" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
       <jump line="247" column="11" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/resources/liquibase/NODES/changeset/014-data.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, IHierarchyElementCouchbaseService hierarchyElementService,</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>, IHierarchyElementCouchbaseService hierarchyElementService,</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>SITES</text>
