@@ -80,13 +80,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/ILoggerHandler.kt" timestamp="1497407737206">
-        <mark key="'" line="5" column="53" />
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="58" />
-        <mark key="." line="5" column="58" />
-        <mark key="^" line="5" column="58" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/ActionDAOImplTest.java" timestamp="1496074543405">
         <mark key="[" line="197" column="0" />
         <mark key="]" line="197" column="0" />
@@ -165,13 +158,6 @@
         <mark key="]" line="16" column="125" />
         <mark key="." line="16" column="125" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/README.md" timestamp="1497495261814">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="18" />
-        <mark key="." line="13" column="18" />
-        <mark key="^" line="6" column="44" />
-      </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" timestamp="1496162304520">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="13" />
@@ -182,13 +168,6 @@
         <mark key="]" line="69" column="9" />
         <mark key="." line="69" column="20" />
         <mark key="^" line="63" column="20" />
-      </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/repository/impl/ImageRepository.kt" timestamp="1497496326747">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="73" />
-        <mark key="." line="21" column="73" />
-        <mark key="^" line="21" column="73" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/MandateCouchbaseServiceImpl.java" timestamp="1497639302481">
         <mark key="[" line="56" column="0" />
@@ -308,12 +287,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/utils/JsonNodeUtil.java" timestamp="1497634418374">
-        <mark key="'" line="52" column="49" />
-        <mark key="[" line="36" column="33" />
-        <mark key="]" line="36" column="49" />
-        <mark key="^" line="36" column="49" />
-        <mark key="." line="36" column="49" />
+      <file name="/dummy.sql" timestamp="1497968024488">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/parser/ParserImpl.java" timestamp="1495732415250">
         <mark key="[" line="375" column="23" />
@@ -367,13 +342,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/enumeration/LoggingLevelEnumeration.kt" timestamp="1497407953017">
-        <mark key="'" line="3" column="4" />
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="14" />
-        <mark key="^" line="3" column="14" />
-        <mark key="." line="3" column="14" />
-      </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/IRegexGeneratorHandler.kt" timestamp="1496160712183">
         <mark key="[" line="5" column="46" />
         <mark key="]" line="5" column="53" />
@@ -412,13 +380,6 @@
         <mark key="]" line="3" column="15" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
-      </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/dto/RestResponse.kt" timestamp="1497483305160">
-        <mark key="'" line="2" column="24" />
-        <mark key="[" line="2" column="40" />
-        <mark key="]" line="2" column="45" />
-        <mark key="^" line="2" column="45" />
-        <mark key="." line="2" column="45" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/ActionServiceImplTest.java" timestamp="1496074557920">
         <mark key="[" line="250" column="0" />
