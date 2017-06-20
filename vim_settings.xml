@@ -15,13 +15,6 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" timestamp="1497959857073">
-        <mark key="'" line="364" column="1" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="108" column="20" />
-        <mark key="^" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/SelectionManagerImpl.java" timestamp="1496060894260">
         <mark key="[" line="177" column="29" />
         <mark key="]" line="177" column="30" />
@@ -122,12 +115,10 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" timestamp="1497965161764">
-        <mark key="'" line="246" column="11" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="246" column="11" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" timestamp="1497967282305">
+        <mark key="[" line="76" column="31" />
+        <mark key="]" line="76" column="31" />
+        <mark key="." line="76" column="31" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/AggregateManagerImplTest.java" timestamp="1496064234656">
         <mark key="[" line="8" column="0" />
@@ -311,13 +302,7 @@
         <mark key="^" line="6" column="64" />
         <mark key="." line="6" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1497964647032">
-        <mark key="'" line="676" column="2" />
-        <mark key="[" line="81" column="61" />
-        <mark key="]" line="81" column="61" />
-        <mark key="^" line="86" column="58" />
-        <mark key="." line="81" column="61" />
-      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1497966929301" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/dto/aggregate/Site.java" timestamp="1496069527488">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -601,11 +586,11 @@
       <jump line="247" column="11" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, IHierarchyElementCouchbaseService hierarchyElementService,</text>
       </register>
       <register name="-" type="4">
-        <text>, IStepService stepService,</text>
+        <text>, IHierarchyElementCouchbaseService hierarchyElementService,</text>
       </register>
       <register name="/" type="4">
         <text>SITES</text>
@@ -614,7 +599,7 @@
         <text encoding="base64">ICAgIFN0cmluZyBuZXdTdGF0dXNDb2RlID0gZG9jdW1lbnRPYmplY3QuZ2V0Q29udGVudCgpLmdldCgic3RhdHVzIikuZ2V0KCJzeXN0ZW1TdGF0dXMiKQogICAgICAgIC50ZXh0VmFsdWUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgU2l0ZURBTyBzaXRlREFPLCBJT2JqZWN0TWFwcGVyU2VydmljZSBvYmplY3RNYXBwZXJTZXJ2aWNlKSB7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -634,28 +619,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaGllcmFyY2h5RWxlbWVudFNlcnZpY2UgPSBoaWVyYXJjaHlFbGVtZW50U2VydmljZTsKICAgIHRoaXMuc2l0ZURBTyA9IHNpdGVEQU87CiAgICB0aGlzLm9iamVjdE1hcHBlclNlcnZpY2UgPSBvYmplY3RNYXBwZXJTZXJ2aWNlOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMudHJhbnNpdGlvblNlcnZpY2UgPSB0cmFuc2l0aW9uU2VydmljZTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgQ291Y2hiYXNlREFPIGdldERBTygpIHsKICAgIHJldHVybiBzaXRlREFPOwogIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RlcFNlcnZpY2UgPSBzdGVwU2VydmljZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIElIaWVyYXJjaHlFbGVtZW50Q291Y2hiYXNlU2VydmljZSBoaWVyYXJjaHlFbGVtZW50U2VydmljZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMudHJhbnNpdGlvblNlcnZpY2UgPSB0cmFuc2l0aW9uU2VydmljZTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAvKioKICAgKiBEZWNsYXJhdGlvbiBvZiB0aGUgaGllcmFyY2h5IHNlcnZpY2UuCiAgICovCiAgcHJpdmF0ZSBJSGllcmFyY2h5Q291Y2hiYXNlU2VydmljZSBoaWVyYXJjaHlTZXJ2aWNlOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RlcFNlcnZpY2UgPSBzdGVwU2VydmljZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIElTdGVwU2VydmljZSBzdGVwU2VydmljZTsK</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIElUcmFuc2l0aW9uU2VydmljZSBkOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMudHJhbnNpdGlvblNlcnZpY2UgPSB0cmFuc2l0aW9uU2VydmljZTsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
