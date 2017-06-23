@@ -334,6 +334,12 @@
         <mark key="." line="40" column="22" />
         <mark key="^" line="23" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/spring/config/RxpSyncRestApplication.java" timestamp="1498225499285">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="24" />
+        <mark key="." line="38" column="24" />
+        <mark key="^" line="38" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" timestamp="1497639466639">
         <mark key="[" line="230" column="80" />
         <mark key="]" line="230" column="80" />
@@ -557,16 +563,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>run(RxpSyncRestApplication.class, args);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>run(RxpSyncRestApplication.class, args);</text>
       </register>
       <register name="/" type="4">
         <text>SITES</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBuZXdTdGF0dXNDb2RlID0gZG9jdW1lbnRPYmplY3QuZ2V0Q29udGVudCgpLmdldCgic3RhdHVzIikuZ2V0KCJzeXN0ZW1TdGF0dXMiKQogICAgICAgIC50ZXh0VmFsdWUoKTsK</text>
+      <register name="0" type="4">
+        <text>SpringApplicationBuilder application</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgU2l0ZURBTyBzaXRlREFPLCBJT2JqZWN0TWFwcGVyU2VydmljZSBvYmplY3RNYXBwZXJTZXJ2aWNlKSB7Cg==</text>
