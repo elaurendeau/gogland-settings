@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="qml" type="Go" />
-      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
