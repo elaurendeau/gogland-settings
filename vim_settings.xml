@@ -311,11 +311,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497978719977">
+      <file name="/Dummy.txt" timestamp="1498574530831">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="6" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/OfferController.java" timestamp="1495723929990">
         <mark key="[" line="107" column="0" />
@@ -562,11 +562,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/resources/liquibase/NODES/changeset/014-data.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIENvZGUgY29kZSA9IG5ldyBDb2RlKFNlbGVjdGlvbkNvbnN0YW50cy5TRUxFQ1RJT05fQ09ERV9TRUxFQ1RJT05fQUxMX0NVU1RPTUVSUyk7CiAgICBjb2RlLnNldElkKFNlbGVjdGlvbkNvbnN0YW50cy5TRUxFQ1RJT05fSURfU0VMRUNUSU9OX0FMTF9DVVNUT01FUlMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>package</text>
       </register>
       <register name="-" type="4">
-        <text>ants.SELECTION_CODE_SELECTION_ALL_CUSTOMERS);</text>
+        <text>package</text>
       </register>
       <register name="/" type="4">
         <text>SITES</text>
