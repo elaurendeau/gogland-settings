@@ -57,8 +57,8 @@
         <mark key="]" line="76" column="31" />
         <mark key="." line="76" column="31" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/cgi/rxp/framework/rxp-framework-couchbase-rest/0.0.10/rxp-framework-couchbase-rest-0.0.10.jar!/com/cgi/romes/fromeswork/couchbase/controller/AbstractCouchbaseController.class" timestamp="1498746767455">
-        <mark key="'" line="141" column="25" />
+      <file name="$MAVEN_REPOSITORY$/com/cgi/rxp/framework/rxp-framework-couchbase-rest/0.0.10/rxp-framework-couchbase-rest-0.0.10.jar!/com/cgi/romes/fromeswork/couchbase/controller/AbstractCouchbaseController.class" timestamp="1498757493388">
+        <mark key="'" line="255" column="28" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/test/java/com/cgi/rxp/deprecated/RoleControllerTest.java" timestamp="1496075522889">
         <mark key="[" line="53" column="0" />
@@ -396,7 +396,7 @@
       <file name="/dummy.sql" timestamp="1497976479017">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498744165434">
+      <file name="/Dummy.txt" timestamp="1498757720270">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -495,14 +495,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1498752931789">
+      <file name="/fragment.java" timestamp="1498757720257">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="75" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
       <jump line="146" column="75" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
       <jump line="176" column="83" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
       <jump line="197" column="6" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
@@ -602,6 +601,7 @@
       <jump line="126" column="12" filename="$MAVEN_REPOSITORY$/com/cgi/rxp/framework/rxp-framework-couchbase-rest/0.0.10/rxp-framework-couchbase-rest-0.0.10.jar!/com/cgi/romes/fromeswork/couchbase/controller/AbstractCouchbaseController.class" />
       <jump line="127" column="2" filename="$MAVEN_REPOSITORY$/com/cgi/rxp/framework/rxp-framework-couchbase-rest/0.0.10/rxp-framework-couchbase-rest-0.0.10.jar!/com/cgi/romes/fromeswork/couchbase/controller/AbstractCouchbaseController.class" />
       <jump line="141" column="25" filename="$MAVEN_REPOSITORY$/com/cgi/rxp/framework/rxp-framework-couchbase-rest/0.0.10/rxp-framework-couchbase-rest-0.0.10.jar!/com/cgi/romes/fromeswork/couchbase/controller/AbstractCouchbaseController.class" />
+      <jump line="255" column="28" filename="$MAVEN_REPOSITORY$/com/cgi/rxp/framework/rxp-framework-couchbase-rest/0.0.10/rxp-framework-couchbase-rest-0.0.10.jar!/com/cgi/romes/fromeswork/couchbase/controller/AbstractCouchbaseController.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -611,7 +611,7 @@
         <text>updateAnd</text>
       </register>
       <register name="/" type="4">
-        <text>code</text>
+        <text encoding="base64">XDxQT1NUXD4=</text>
       </register>
       <register name="0" type="4">
         <text>+ listOfValue.getCode().getCode(</text>
@@ -665,15 +665,14 @@
       </register>
     </registers>
     <search>
-      <last-search>code</last-search>
-      <last-offset>code</last-offset>
-      <last-pattern>code</last-pattern>
-      <last-dir>1</last-dir>
+      <last-search encoding="base64">XDxQT1NUXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxQT1NUXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwuXD4=</entry>
         <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxJTkZPXD4=</entry>
         <entry>scala</entry>
@@ -693,6 +692,7 @@
         <entry>save</entry>
         <entry>return</entry>
         <entry>code</entry>
+        <entry encoding="base64">XDxQT1NUXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
