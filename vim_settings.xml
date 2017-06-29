@@ -41,6 +41,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/resources/application.properties" timestamp="1498759796026">
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="53" />
+        <mark key="." line="17" column="53" />
+        <mark key="^" line="17" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/dto/aggregate/ProductDeal.java" timestamp="1496069494516">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -69,13 +75,6 @@
         <mark key="[" line="155" column="47" />
         <mark key="]" line="155" column="47" />
         <mark key="." line="155" column="47" />
-      </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/resources/liquibase/NODES/changeset/014-data.xml" timestamp="1497976260764">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="603" column="7" />
-        <mark key="]" line="603" column="7" />
-        <mark key="." line="603" column="7" />
-        <mark key="^" line="603" column="7" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/dto/aggregate/Product.java" timestamp="1496069581922">
         <mark key="[" line="19" column="33" />
@@ -228,6 +227,12 @@
         <mark key="[" line="72" column="52" />
         <mark key="]" line="72" column="52" />
         <mark key="." line="72" column="52" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/resources/application.properties" timestamp="1498759672624">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="16" column="24" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/IImageManager.kt" timestamp="1496187726427">
         <mark key="[" line="7" column="19" />
@@ -604,11 +609,11 @@
       <jump line="255" column="28" filename="$MAVEN_REPOSITORY$/com/cgi/rxp/framework/rxp-framework-couchbase-rest/0.0.10/rxp-framework-couchbase-rest-0.0.10.jar!/com/cgi/romes/fromeswork/couchbase/controller/AbstractCouchbaseController.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucnhwLmZyYW1ld29yay5yZXN0LmJlYW4uRXhpc3RSZXNwb25zZTsK</text>
+      <register name="&quot;" type="4">
+        <text>10.80.145.173</text>
       </register>
       <register name="-" type="4">
-        <text>updateAnd</text>
+        <text>10.80.145.173</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQT1NUXD4=</text>
