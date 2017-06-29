@@ -15,13 +15,6 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" timestamp="1498672961198">
-        <mark key="'" line="75" column="4" />
-        <mark key="[" line="166" column="24" />
-        <mark key="]" line="166" column="25" />
-        <mark key="." line="166" column="25" />
-        <mark key="^" line="166" column="25" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/SelectionManagerImpl.java" timestamp="1496060894260">
         <mark key="[" line="177" column="29" />
         <mark key="]" line="177" column="30" />
@@ -482,9 +475,9 @@
         <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/CustomerController.java" timestamp="1498584862996">
-        <mark key="[" line="97" column="52" />
-        <mark key="]" line="97" column="52" />
-        <mark key="." line="97" column="52" />
+        <mark key="[" line="72" column="52" />
+        <mark key="]" line="72" column="52" />
+        <mark key="." line="72" column="52" />
       </file>
     </filemarks>
     <jumps>
