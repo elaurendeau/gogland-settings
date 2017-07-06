@@ -291,7 +291,6 @@
         <mark key="^" line="6" column="64" />
         <mark key="." line="6" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" timestamp="1497966929301" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/dto/aggregate/Site.java" timestamp="1496069527488">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -312,11 +311,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497978637142">
+      <file name="/Dummy.txt" timestamp="1498574530831">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="6" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/romes/couchbase/controller/OfferController.java" timestamp="1495723929990">
         <mark key="[" line="107" column="0" />
@@ -334,6 +333,12 @@
         <mark key="]" line="40" column="11" />
         <mark key="." line="40" column="22" />
         <mark key="^" line="23" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-rest/src/main/java/com/cgi/rxp/sync/spring/config/RxpSyncRestApplication.java" timestamp="1498225499285">
+        <mark key="[" line="40" column="22" />
+        <mark key="]" line="40" column="24" />
+        <mark key="." line="40" column="24" />
+        <mark key="^" line="40" column="24" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/OfferCouchbaseService.java" timestamp="1497639466639">
         <mark key="[" line="230" column="80" />
@@ -448,7 +453,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1497978637120">
+      <file name="/fragment.java" timestamp="1497978719922">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -558,19 +563,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>package</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>package</text>
       </register>
       <register name="/" type="4">
         <text>SITES</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBuZXdTdGF0dXNDb2RlID0gZG9jdW1lbnRPYmplY3QuZ2V0Q29udGVudCgpLmdldCgic3RhdHVzIikuZ2V0KCJzeXN0ZW1TdGF0dXMiKQogICAgICAgIC50ZXh0VmFsdWUoKTsK</text>
+      <register name="0" type="4">
+        <text>SpringApplicationBuilder application</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU2l0ZURBTyBzaXRlREFPLCBJT2JqZWN0TWFwcGVyU2VydmljZSBvYmplY3RNYXBwZXJTZXJ2aWNlKSB7Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIENvZGUgY29kZSA9IG5ldyBDb2RlKFNlbGVjdGlvbkNvbnN0YW50cy5TRUxFQ1RJT05fQ09ERV9TRUxFQ1RJT05fQUxMX0NVU1RPTUVSUyk7CiAgICBjb2RlLnNldElkKFNlbGVjdGlvbkNvbnN0YW50cy5TRUxFQ1RJT05fSURfU0VMRUNUSU9OX0FMTF9DVVNUT01FUlMpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -590,28 +595,28 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgU2l0ZURBTyBzaXRlREFPLCBJT2JqZWN0TWFwcGVyU2VydmljZSBvYmplY3RNYXBwZXJTZXJ2aWNlKSB7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHRoaXMuaGllcmFyY2h5RWxlbWVudFNlcnZpY2UgPSBoaWVyYXJjaHlFbGVtZW50U2VydmljZTsKICAgIHRoaXMuc2l0ZURBTyA9IHNpdGVEQU87CiAgICB0aGlzLm9iamVjdE1hcHBlclNlcnZpY2UgPSBvYmplY3RNYXBwZXJTZXJ2aWNlOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgQ291Y2hiYXNlREFPIGdldERBTygpIHsKICAgIHJldHVybiBzaXRlREFPOwogIH0=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAvKioKICAgKiBEZWNsYXJhdGlvbiBvZiB0aGUgaGllcmFyY2h5IHNlcnZpY2UuCiAgICovCiAgcHJpdmF0ZSBJSGllcmFyY2h5Q291Y2hiYXNlU2VydmljZSBoaWVyYXJjaHlTZXJ2aWNlOw==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAvKioKICAgKiBEZWNsYXJhdGlvbiBvZiB0aGUgaGllcmFyY2h5IHNlcnZpY2UuCiAgICovCiAgcHJpdmF0ZSBJSGllcmFyY2h5Q291Y2hiYXNlU2VydmljZSBoaWVyYXJjaHlTZXJ2aWNlOw==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMudHJhbnNpdGlvblNlcnZpY2UgPSB0cmFuc2l0aW9uU2VydmljZTsK</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
