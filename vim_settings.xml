@@ -620,7 +620,7 @@
         <text encoding="base64">ICAvKioKICAgKiBEZWNsYXJhdGlvbiBvZiB0aGUgaGllcmFyY2h5IHNlcnZpY2UuCiAgICovCiAgcHJpdmF0ZSBJSGllcmFyY2h5Q291Y2hiYXNlU2VydmljZSBoaWVyYXJjaHlTZXJ2aWNlOw==</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -654,11 +654,6 @@
         <entry>posi</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoFile</entry>
-        <entry>action RenameFile</entry>
-        <entry>action RecentFiles</entry>
-        <entry>action Switcher</entry>
-        <entry>action ShowBookmarks</entry>
         <entry>action ShowFilePath</entry>
         <entry>action Images.Thumbnails.ToggleFileName</entry>
         <entry>action CopyFileName</entry>
@@ -674,6 +669,11 @@
         <entry>action AceJump</entry>
         <entry>actionList</entry>
         <entry>actionlist</entry>
+        <entry>action AceAction</entry>
+        <entry>.,.+2action AceAction</entry>
+        <entry>action AceTargetAction</entry>
+        <entry>action AceLineAction</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
