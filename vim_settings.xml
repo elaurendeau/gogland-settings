@@ -620,7 +620,7 @@
         <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Switcher</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -670,6 +670,7 @@
         <entry>action PreviousTab</entry>
         <entry>action PreviousProjectWindow</entry>
         <entry>action Switcher</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
