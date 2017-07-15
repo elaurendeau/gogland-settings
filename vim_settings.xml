@@ -620,7 +620,7 @@
         <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoNextError</text>
+        <text>action Compile</text>
       </register>
     </registers>
     <search>
@@ -628,7 +628,7 @@
       <last-offset />
       <last-pattern>posi</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -654,9 +654,6 @@
         <entry>posi</entry>
       </history-search>
       <history-cmd>
-        <entry>set rnu</entry>
-        <entry>set numeral</entry>
-        <entry>%</entry>
         <entry>set syntax=json</entry>
         <entry>execute '%! python -m json.tool'</entry>
         <entry>nohl</entry>
@@ -672,8 +669,11 @@
         <entry>action Switcher</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action GotoPreviousError</entry>
-        <entry>action GotoNextError</entry>
         <entry>action NextErrorAndDescription</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action compile</entry>
+        <entry>action Compile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
