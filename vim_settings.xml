@@ -620,7 +620,7 @@
         <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>actionlist</text>
       </register>
     </registers>
     <search>
@@ -662,6 +662,7 @@
         <entry>nohl</entry>
         <entry>reg</entry>
         <entry>Update</entry>
+        <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
       <history-input />
