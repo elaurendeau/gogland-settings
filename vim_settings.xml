@@ -669,11 +669,11 @@
         <entry>action Git.Add</entry>
         <entry>action ToggleBookmark</entry>
         <entry>action Git.FileHistory.ContextMenu</entry>
-        <entry>action Git</entry>
         <entry>action ShowSettings</entry>
         <entry>action HideActiveWindow</entry>
         <entry>action Annotate</entry>
         <entry>action Git.Branches</entry>
+        <entry>action Git</entry>
       </history-cmd>
       <history-expr />
       <history-input />
