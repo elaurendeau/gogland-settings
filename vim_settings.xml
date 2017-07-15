@@ -620,7 +620,7 @@
         <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
@@ -666,6 +666,10 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5QmxvY2tDb21tZW50</entry>
+        <entry>action PreviousEditorTab</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action PreviousProjectWindow</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
