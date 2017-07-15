@@ -264,7 +264,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/controller/ImageController.kt" timestamp="1500092429210">
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/controller/ImageController.kt" timestamp="1500093806406">
         <mark key="[" line="18" column="1" />
         <mark key="]" line="18" column="19" />
         <mark key="." line="18" column="1" />
@@ -620,7 +620,7 @@
         <text encoding="base64">ICAvKioKICAgKiBEZWNsYXJhdGlvbiBvZiB0aGUgaGllcmFyY2h5IHNlcnZpY2UuCiAgICovCiAgcHJpdmF0ZSBJSGllcmFyY2h5Q291Y2hiYXNlU2VydmljZSBoaWVyYXJjaHlTZXJ2aWNlOw==</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowSettings</text>
+        <text>action Git.Branches</text>
       </register>
     </registers>
     <search>
@@ -654,10 +654,8 @@
         <entry>posi</entry>
       </history-search>
       <history-cmd>
-        <entry>set guifont=Hack\ 11</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action ActivateProjectToolWindow</entry>
-        <entry>action HideActiveWindow</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoFile</entry>
         <entry>action RenameFile</entry>
@@ -668,12 +666,14 @@
         <entry>action Images.Thumbnails.ToggleFileName</entry>
         <entry>actionlist</entry>
         <entry>action CopyFileName</entry>
-        <entry>action Annotate</entry>
         <entry>action Git.Add</entry>
         <entry>action ToggleBookmark</entry>
         <entry>action Git.FileHistory.ContextMenu</entry>
         <entry>action Git</entry>
         <entry>action ShowSettings</entry>
+        <entry>action HideActiveWindow</entry>
+        <entry>action Annotate</entry>
+        <entry>action Git.Branches</entry>
       </history-cmd>
       <history-expr />
       <history-input />
