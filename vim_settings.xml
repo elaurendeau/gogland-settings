@@ -269,9 +269,9 @@
         <mark key="]" line="15" column="115" />
         <mark key="." line="15" column="115" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/FileRequestHandler.kt" timestamp="1500089580760">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="18" column="1" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/FileRequestHandler.kt" timestamp="1500090393020">
+        <mark key="[" line="18" column="1" />
+        <mark key="]" line="18" column="12" />
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
       </file>
@@ -320,7 +320,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498574530831">
+      <file name="/Dummy.txt" timestamp="1500090408189">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -620,7 +620,7 @@
         <text encoding="base64">ICAvKioKICAgKiBEZWNsYXJhdGlvbiBvZiB0aGUgaGllcmFyY2h5IHNlcnZpY2UuCiAgICovCiAgcHJpdmF0ZSBJSGllcmFyY2h5Q291Y2hiYXNlU2VydmljZSBoaWVyYXJjaHlTZXJ2aWNlOw==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateStructureToolWindow</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -654,8 +654,6 @@
         <entry>posi</entry>
       </history-search>
       <history-cmd>
-        <entry>action PreviousProjectWindow</entry>
-        <entry>action Switcher</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action NextErrorAndDescription</entry>
@@ -668,12 +666,14 @@
         <entry>action ShowErrorDescription</entry>
         <entry>w</entry>
         <entry>.action ActivateProjectToolWindow</entry>
-        <entry>action HideActiveWindow</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action A-1</entry>
         <entry encoding="base64">YWN0aW9uIDxBLTE+</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>set guifont=Hack\ 11</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action HideActiveWindow</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
