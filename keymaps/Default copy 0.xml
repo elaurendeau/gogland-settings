@@ -1,0 +1,7 @@
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="AceLineAction" />
+  <action id="AceTargetAction" />
+</keymap>
