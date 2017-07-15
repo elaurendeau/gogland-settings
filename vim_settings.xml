@@ -269,11 +269,11 @@
         <mark key="]" line="15" column="115" />
         <mark key="." line="15" column="115" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/FileRequestHandler.kt" timestamp="1496619356403">
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/FileRequestHandler.kt" timestamp="1500087840404">
         <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="8" />
-        <mark key="." line="10" column="8" />
-        <mark key="^" line="10" column="27" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+        <mark key="^" line="11" column="4" />
       </file>
       <file name="/a.sql" timestamp="1497976468228">
         <mark key="[" line="0" column="0" />
@@ -620,7 +620,7 @@
         <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>action GotoNextError</text>
       </register>
     </registers>
     <search>
@@ -671,6 +671,9 @@
         <entry>action PreviousProjectWindow</entry>
         <entry>action Switcher</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action GotoPreviousError</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action NextErrorAndDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
