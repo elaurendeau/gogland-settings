@@ -269,11 +269,10 @@
         <mark key="]" line="15" column="115" />
         <mark key="." line="15" column="115" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/FileRequestHandler.kt" timestamp="1500087840404">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="4" />
-        <mark key="^" line="11" column="4" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/FileRequestHandler.kt" timestamp="1500088833263">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/a.sql" timestamp="1497976468228">
         <mark key="[" line="0" column="0" />
@@ -563,8 +562,8 @@
       <jump line="23" column="21" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/LabelGeneratorService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>package</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXNkYXMK</text>
       </register>
       <register name="-" type="4">
         <text>package</text>
@@ -576,7 +575,7 @@
         <text>SpringApplicationBuilder application</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIENvZGUgY29kZSA9IG5ldyBDb2RlKFNlbGVjdGlvbkNvbnN0YW50cy5TRUxFQ1RJT05fQ09ERV9TRUxFQ1RJT05fQUxMX0NVU1RPTUVSUyk7CiAgICBjb2RlLnNldElkKFNlbGVjdGlvbkNvbnN0YW50cy5TRUxFQ1RJT05fSURfU0VMRUNUSU9OX0FMTF9DVVNUT01FUlMpOwo=</text>
+        <text encoding="base64">YXNkYXMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -596,31 +595,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU2l0ZURBTyBzaXRlREFPLCBJT2JqZWN0TWFwcGVyU2VydmljZSBvYmplY3RNYXBwZXJTZXJ2aWNlKSB7Cg==</text>
+        <text encoding="base64">YXNkYXNkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaGllcmFyY2h5RWxlbWVudFNlcnZpY2UgPSBoaWVyYXJjaHlFbGVtZW50U2VydmljZTsKICAgIHRoaXMuc2l0ZURBTyA9IHNpdGVEQU87CiAgICB0aGlzLm9iamVjdE1hcHBlclNlcnZpY2UgPSBvYmplY3RNYXBwZXJTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgIGZpbmFsIENvZGUgY29kZSA9IG5ldyBDb2RlKFNlbGVjdGlvbkNvbnN0YW50cy5TRUxFQ1RJT05fQ09ERV9TRUxFQ1RJT05fQUxMX0NVU1RPTUVSUyk7CiAgICBjb2RlLnNldElkKFNlbGVjdGlvbkNvbnN0YW50cy5TRUxFQ1RJT05fSURfU0VMRUNUSU9OX0FMTF9DVVNUT01FUlMpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgQ291Y2hiYXNlREFPIGdldERBTygpIHsKICAgIHJldHVybiBzaXRlREFPOwogIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgU2l0ZURBTyBzaXRlREFPLCBJT2JqZWN0TWFwcGVyU2VydmljZSBvYmplY3RNYXBwZXJTZXJ2aWNlKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaGllcmFyY2h5RWxlbWVudFNlcnZpY2UgPSBoaWVyYXJjaHlFbGVtZW50U2VydmljZTsKICAgIHRoaXMuc2l0ZURBTyA9IHNpdGVEQU87CiAgICB0aGlzLm9iamVjdE1hcHBlclNlcnZpY2UgPSBvYmplY3RNYXBwZXJTZXJ2aWNlOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgQ291Y2hiYXNlREFPIGdldERBTygpIHsKICAgIHJldHVybiBzaXRlREFPOwogIH0=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAvKioKICAgKiBEZWNsYXJhdGlvbiBvZiB0aGUgaGllcmFyY2h5IHNlcnZpY2UuCiAgICovCiAgcHJpdmF0ZSBJSGllcmFyY2h5Q291Y2hiYXNlU2VydmljZSBoaWVyYXJjaHlTZXJ2aWNlOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAvKioKICAgKiBEZWNsYXJhdGlvbiBvZiB0aGUgaGllcmFyY2h5IHNlcnZpY2UuCiAgICovCiAgcHJpdmF0ZSBJSGllcmFyY2h5Q291Y2hiYXNlU2VydmljZSBoaWVyYXJjaHlTZXJ2aWNlOw==</text>
       </register>
       <register name=":" type="4">
-        <text>action Compile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -654,10 +653,6 @@
         <entry>posi</entry>
       </history-search>
       <history-cmd>
-        <entry>set syntax=json</entry>
-        <entry>execute '%! python -m json.tool'</entry>
-        <entry>nohl</entry>
-        <entry>reg</entry>
         <entry>Update</entry>
         <entry>actionlist</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
@@ -671,9 +666,13 @@
         <entry>action GotoPreviousError</entry>
         <entry>action NextErrorAndDescription</entry>
         <entry>action GotoNextError</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action compile</entry>
         <entry>action Compile</entry>
+        <entry>action CompileProject</entry>
+        <entry>action CompilerErrorViewPopupMenu</entry>
+        <entry>action BuildMenu</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
