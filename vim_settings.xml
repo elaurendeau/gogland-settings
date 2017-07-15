@@ -320,7 +320,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500090408189">
+      <file name="/Dummy.txt" timestamp="1500090461608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -620,7 +620,7 @@
         <text encoding="base64">ICAvKioKICAgKiBEZWNsYXJhdGlvbiBvZiB0aGUgaGllcmFyY2h5IHNlcnZpY2UuCiAgICovCiAgcHJpdmF0ZSBJSGllcmFyY2h5Q291Y2hiYXNlU2VydmljZSBoaWVyYXJjaHlTZXJ2aWNlOw==</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>action RenameFile</text>
       </register>
     </registers>
     <search>
@@ -654,9 +654,6 @@
         <entry>posi</entry>
       </history-search>
       <history-cmd>
-        <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action GotoPreviousError</entry>
-        <entry>action NextErrorAndDescription</entry>
         <entry>action GotoNextError</entry>
         <entry>action compile</entry>
         <entry>action Compile</entry>
@@ -674,6 +671,9 @@
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action HideActiveWindow</entry>
         <entry>action FindInPath</entry>
+        <entry>action ShowFilePath</entry>
+        <entry>action GotoFile</entry>
+        <entry>action RenameFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
