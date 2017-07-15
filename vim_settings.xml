@@ -620,7 +620,7 @@
         <text encoding="base64">ICAvKioKICAgKiBEZWNsYXJhdGlvbiBvZiB0aGUgaGllcmFyY2h5IHNlcnZpY2UuCiAgICovCiAgcHJpdmF0ZSBJSGllcmFyY2h5Q291Y2hiYXNlU2VydmljZSBoaWVyYXJjaHlTZXJ2aWNlOw==</text>
       </register>
       <register name=":" type="4">
-        <text>action HideActiveWindow</text>
+        <text>action ActivateStructureToolWindow</text>
       </register>
     </registers>
     <search>
@@ -654,11 +654,6 @@
         <entry>posi</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
-        <entry>action CommentByLineComment</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5QmxvY2tDb21tZW50</entry>
-        <entry>action PreviousEditorTab</entry>
-        <entry>action PreviousTab</entry>
         <entry>action PreviousProjectWindow</entry>
         <entry>action Switcher</entry>
         <entry>action ActivateTerminalToolWindow</entry>
@@ -672,8 +667,13 @@
         <entry>action BuildMenu</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>w</entry>
-        <entry>action ActivateProjectToolWindow</entry>
+        <entry>.action ActivateProjectToolWindow</entry>
         <entry>action HideActiveWindow</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action A-1</entry>
+        <entry encoding="base64">YWN0aW9uIDxBLTE+</entry>
+        <entry>action ActivateStructureToolWindow</entry>
+        <entry>set guifont=Hack\ 11</entry>
       </history-cmd>
       <history-expr />
       <history-input />
