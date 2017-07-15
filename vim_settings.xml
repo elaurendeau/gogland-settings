@@ -620,7 +620,7 @@
         <text encoding="base64">ICAvKioKICAgKiBEZWNsYXJhdGlvbiBvZiB0aGUgaGllcmFyY2h5IHNlcnZpY2UuCiAgICovCiAgcHJpdmF0ZSBJSGllcmFyY2h5Q291Y2hiYXNlU2VydmljZSBoaWVyYXJjaHlTZXJ2aWNlOw==</text>
       </register>
       <register name=":" type="4">
-        <text>action Annotate</text>
+        <text>action ShowSettings</text>
       </register>
     </registers>
     <search>
@@ -654,7 +654,6 @@
         <entry>posi</entry>
       </history-search>
       <history-cmd>
-        <entry>action A-1</entry>
         <entry encoding="base64">YWN0aW9uIDxBLTE+</entry>
         <entry>action ActivateStructureToolWindow</entry>
         <entry>set guifont=Hack\ 11</entry>
@@ -666,14 +665,15 @@
         <entry>action RenameFile</entry>
         <entry>action RecentFiles</entry>
         <entry>action Switcher</entry>
-        <entry>action ToggleBookmark</entry>
         <entry>action ShowBookmarks</entry>
         <entry>action ShowFilePath</entry>
         <entry>action Images.Thumbnails.ToggleFileName</entry>
         <entry>actionlist</entry>
-        <entry>action ShowSettings</entry>
         <entry>action CopyFileName</entry>
         <entry>action Annotate</entry>
+        <entry>action Git.Add</entry>
+        <entry>action ToggleBookmark</entry>
+        <entry>action ShowSettings</entry>
       </history-cmd>
       <history-expr />
       <history-input />
