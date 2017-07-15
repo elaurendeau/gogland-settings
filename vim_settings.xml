@@ -654,8 +654,6 @@
         <entry>posi</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">YWN0aW9uIDxBLTE+</entry>
-        <entry>action ActivateStructureToolWindow</entry>
         <entry>set guifont=Hack\ 11</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action ActivateProjectToolWindow</entry>
@@ -673,6 +671,8 @@
         <entry>action Annotate</entry>
         <entry>action Git.Add</entry>
         <entry>action ToggleBookmark</entry>
+        <entry>action Git.FileHistory.ContextMenu</entry>
+        <entry>action Git</entry>
         <entry>action ShowSettings</entry>
       </history-cmd>
       <history-expr />
