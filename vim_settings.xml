@@ -620,7 +620,7 @@
         <text encoding="base64">ICAvKioKICAgKiBEZWNsYXJhdGlvbiBvZiB0aGUgaGllcmFyY2h5IHNlcnZpY2UuCiAgICovCiAgcHJpdmF0ZSBJSGllcmFyY2h5Q291Y2hiYXNlU2VydmljZSBoaWVyYXJjaHlTZXJ2aWNlOw==</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -654,18 +654,12 @@
         <entry>posi</entry>
       </history-search>
       <history-cmd>
-        <entry>action ShowFilePath</entry>
-        <entry>action Images.Thumbnails.ToggleFileName</entry>
-        <entry>action CopyFileName</entry>
-        <entry>action Git.Add</entry>
-        <entry>action ToggleBookmark</entry>
         <entry>action Git.FileHistory.ContextMenu</entry>
         <entry>action HideActiveWindow</entry>
         <entry>action Annotate</entry>
         <entry>action Git.Branches</entry>
         <entry>action Git</entry>
         <entry>action UML.ShowStructure</entry>
-        <entry>action ShowSettings</entry>
         <entry>action AceJump</entry>
         <entry>actionList</entry>
         <entry>actionlist</entry>
@@ -674,6 +668,12 @@
         <entry>action AceTargetAction</entry>
         <entry>action AceLineAction</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action ShowSettings</entry>
+        <entry>.,.+4action CommentByLineComment</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action ShowBookmarks</entry>
+        <entry>action ToggleBookmark</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
