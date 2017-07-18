@@ -673,7 +673,7 @@
         <text encoding="base64">ICAgIExpc3Q8RmlsdGVyPiBjb3VudGVkRmlsdGVycyA9IGZpbHRlckxpc3Quc3RyZWFtKCkubWFwKGZpbHRlciAtPiB7CiAgICAgIEV4cHJlc3Npb24gZmlsdGVyRXhwcmVzc2lvbiA9IGZpbHRlckRlbGVnYXRlLnByb2Nlc3MoZW50aXR5LCBmaWx0ZXIpOwogICAgICBpbnQgZmlsdGVyQ291bnQgPSBnZXRDb3VudChlbnRpdHksIGZpbHRlckV4cHJlc3Npb24pOwogICAgICBmaWx0ZXIuc2V0Q291bnQoZmlsdGVyQ291bnQpOwogICAgICByZXR1cm4gZmlsdGVyOwogICAgfSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Switcher</text>
+        <text>vsplit</text>
       </register>
     </registers>
     <search>
@@ -716,6 +716,7 @@
         <entry>reg</entry>
         <entry>Update</entry>
         <entry>action Switcher</entry>
+        <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
