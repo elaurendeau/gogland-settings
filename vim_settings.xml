@@ -620,7 +620,7 @@
         <text encoding="base64">ICAvKioKICAgKiBEZWNsYXJhdGlvbiBvZiB0aGUgaGllcmFyY2h5IHNlcnZpY2UuCiAgICovCiAgcHJpdmF0ZSBJSGllcmFyY2h5Q291Y2hiYXNlU2VydmljZSBoaWVyYXJjaHlTZXJ2aWNlOw==</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
@@ -654,16 +654,11 @@
         <entry>posi</entry>
       </history-search>
       <history-cmd>
-        <entry>action UML.ShowStructure</entry>
-        <entry>action AceJump</entry>
-        <entry>actionList</entry>
-        <entry>actionlist</entry>
         <entry>.,.+2action AceAction</entry>
         <entry>action AceTargetAction</entry>
         <entry>action AceLineAction</entry>
         <entry>action ShowSettings</entry>
         <entry>.,.+4action CommentByLineComment</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action ShowBookmarks</entry>
         <entry>action ToggleBookmark</entry>
         <entry>action AceAction</entry>
@@ -674,6 +669,11 @@
         <entry>action RecentFiles</entry>
         <entry>action RenameFile</entry>
         <entry>action FindInPath</entry>
+        <entry>action ShowFilePath</entry>
+        <entry>action Git.Branches</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action Switcher</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
