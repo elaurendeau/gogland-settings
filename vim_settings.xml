@@ -9,12 +9,12 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="C:/dev/workspace-sasktel-vm/atg_code/commerce-sasktel/src/main/java/com/sasktel/commerce/order/manager/impl/SasktelOrderManagerImpl.java" timestamp="1502390239641">
+      <file name="C:/dev/workspace-sasktel-vm/atg_code/commerce-sasktel/src/main/java/com/sasktel/commerce/order/manager/impl/SasktelOrderManagerImpl.java" timestamp="1502477234874">
         <mark key="'" line="23" column="53" />
-        <mark key="[" line="23" column="47" />
-        <mark key="]" line="23" column="61" />
-        <mark key="^" line="23" column="61" />
-        <mark key="." line="23" column="61" />
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="20" column="19" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="20" column="19" />
       </file>
       <file name="C:/dev/workspace-sasktel-vm/atg_code/common/src/main/java/com/cgi/core/alias/AdditionalPageConverter.java" timestamp="1502389598162">
         <mark key="'" line="0" column="0" />
@@ -696,7 +696,7 @@
       <last-offset />
       <last-pattern>final</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
