@@ -1,7 +1,5 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="AceAction">
-    <keyboard-shortcut first-keystroke="less" />
-  </action>
+  <action id="AceAction" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt number_sign" />
   </action>

@@ -167,7 +167,7 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/controller/TrainingRequestController.kt" timestamp="1502816575153" />
+      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/controller/TrainingRequestController.kt" timestamp="1502816624142" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/OfferCouchbaseServiceTest.java" timestamp="1496074439151">
         <mark key="[" line="178" column="0" />
         <mark key="]" line="178" column="0" />
@@ -326,15 +326,22 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1497494650245">
+      <file name="/fragment.kt" timestamp="1502817107911">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="1" column="8" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/AbstractDocumentServiceImpl.java" timestamp="1495714100217">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_kotlin/untitled/src/APp.kt" timestamp="1502816844528">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/dao/impl/SelectionCouchbaseDAO.java" timestamp="1498675042637">
         <mark key="[" line="117" column="0" />
@@ -401,6 +408,11 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="10" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace_kotlin/untitled/src/main/Application.kt" timestamp="1502817457790">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrule/ITextBR.kt" timestamp="1495643320971">
         <mark key="[" line="7" column="70" />
         <mark key="]" line="7" column="68" />
@@ -465,10 +477,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/cgi/rxp/rxp-common-lib/0.0.3/rxp-common-lib-0.0.3.jar!/com/cgi/rxp/constants/SelectionConstants.class" timestamp="1498584182981">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="96" />
-      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-node/rxp-sync-core/src/main/java/com/cgi/rxp/spring/controllers/AbstractDispatcherController.java" timestamp="1497638044455">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -508,6 +516,7 @@
         <mark key="." line="39" column="181" />
         <mark key="^" line="39" column="181" />
       </file>
+      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/application/ApplicationConfiguration.kt" timestamp="1502816637851" />
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/RestRequest.kt" timestamp="1496611039136">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="27" />
@@ -524,7 +533,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1500469740030">
+      <file name="/fragment.java" timestamp="1502816885345">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -633,11 +642,11 @@
       <jump line="23" column="53" filename="C:/dev/workspace-sasktel-vm/atg_code/commerce-sasktel/src/main/java/com/sasktel/commerce/order/manager/impl/SasktelOrderManagerImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>final String accountNumber,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKDs7KXsK</text>
       </register>
       <register name="-" type="4">
-        <text>final String accountNumber,</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>final</text>
@@ -645,8 +654,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU2Fza3RlbE9yZGVyRmluZGVyIG9yZGVyRmluZGVyOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>final String deviceNumber) {</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKDs7KXsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -665,31 +674,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIHtAaW5oZXJpdERvY30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIGFsbG93ZWQgPSAhZ2V0T3JkZXJGaW5kZXIoKS5oYXNTdWJzY3JpcHRpb25DaGFuZ2VJblByb2dyZXNzKGFjY291bnROdW1iZXIsIGRldmljZU51bWJlcik7CgogICAgICAgIGlmIChpc0xvZ2dpbmdEZWJ1ZygpKSB7CiAgICAgICAgICAgIHZsb2dEZWJ1ZygiaXNTdWJzY3JpcHRpb25DaGFuZ2VBbGxvd2VkIGZvciBhY2NvdW50IFt7MH1dLCBkZXZpY2UgW3sxfV06IHsyfSAiLCBhY2NvdW50TnVtYmVyLCBkZXZpY2VOdW1iZXIsIGFsbG93ZWQpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGFsbG93ZWQ7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKICAgICAgICB2YWwgYSA9IDE1OwoKICAgICAgICBwcmludGxuKGEpOwogICAgfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IEFycmF5PFN0cmluZz4pIHsKICAgICAgICB2YWwgYSA9IDE1OwoKICAgICAgICBwcmludGxuKGEpOwogICAg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAk8IS0tIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IAogICAgCTxkZWxldGUgZmlsZT0iJHtzZXJ2ZXJwYWNrYWdlLmRpcn0vJHtwcm9qZWN0bmFtZX1zc28ud2FyIiB2ZXJib3NlPSJ0cnVlIiAvPgogICAgICAgIDx3YXIgZGVzdGZpbGU9IiR7c2VydmVycGFja2FnZS5kaXJ9LyR7cHJvamVjdG5hbWV9c3NvLndhciIgd2VieG1sPSIke3dlYi5kaXJ9L1dFQi1JTkYvd2ViLnhtbCI+CiAgICAgICAgICAgIDxmaWxlc2V0IGRpcj0iJHt3ZWIuZGlyfSI+CiAgICAgICAgICAgICAgICA8aW5jbHVkZSBuYW1lPSIqKi8qLioiLz4KICAgICAgICAgICAgPC9maWxlc2V0PgogICAgICAgIDwvd2FyPiAKICAgICAgICAtLT4gCiAgICAJPCEtLSAKICAgIAk8ZWFyIGRlc3RmaWxlPSIke3NlcnZlcnBhY2thZ2UuZGlyfS8ke3Byb2plY3RuYW1lfS5lYXIiIGFwcHhtbD0iJHt3ZWIuZGlyfS9NRVRBLUlORi9hcHBsaWNhdGlvbi54bWwiID4KICAgICAgICAJPGZpbGVzZXQgZGlyPSIke3NlcnZlcnBhY2thZ2UuZGlyfSIgaW5jbHVkZXM9Iioud2FyIi8+CiAgICAgIAk8L2Vhcj4KICAgICAgCS0tPiAKICAgICAgICA8IS0tIAogICAgICAgIDxlY2hvIG1lc3NhZ2U9ImNvcHkgLndhciBmaWxlIHRvIHRvbWNhdCBkZXBsb3ltZW50IGRpcmVjdG9yeSIgLz4KICAgICAgICA8Y29weSBmaWxlPSIke3Byb2plY3RuYW1lfS53YXIiIHRvZGlyPSIke2RlcGxveS5wYXRofSIgcHJlc2VydmVsYXN0bW9kaWZpZWQ9InRydWUiIHZlcmJvc2U9InRydWUiIG92ZXJ3cml0ZT0idHJ1ZSIgLz4KICAgICAgICAtLT4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiBtYWluKGFyZ3M6IFN0cmluZ1tdKSB7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jZ2kucnhwLmZyYW1ld29yay5yZXN0LmJlYW4uRXhpc3RSZXNwb25zZTsK</text>
+      <register name="9" type="4">
+        <text>final String deviceNumber) {</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -697,7 +706,7 @@
       <last-offset />
       <last-pattern>final</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -729,11 +738,12 @@
         <entry>set syntax=json</entry>
         <entry>execute '%! python -m json.tool'</entry>
         <entry>nohl</entry>
-        <entry>Update</entry>
         <entry>action Switcher</entry>
         <entry>vsplit</entry>
         <entry>actionlist</entry>
         <entry>reg</entry>
+        <entry>Update</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
