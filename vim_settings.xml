@@ -407,7 +407,7 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace_kotlin/untitled/src/main/Application.kt" timestamp="1503061993078">
+      <file name="$USER_HOME$/workspace_kotlin/untitled/src/main/Application.kt" timestamp="1503062186996">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -697,7 +697,7 @@
         <text encoding="base64">IEFycmF5PFN0cmluZz4pIHsKICAgICAgICB2YWwgYSA9IDE1OwoKICAgICAgICBwcmludGxuKGEpOwogICAg</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist</text>
+        <text>action ShowSettings</text>
       </register>
     </registers>
     <search>
@@ -731,7 +731,6 @@
         <entry>final</entry>
       </history-search>
       <history-cmd>
-        <entry>set rnu</entry>
         <entry>set numeral</entry>
         <entry>%</entry>
         <entry>set syntax=json</entry>
@@ -741,16 +740,17 @@
         <entry>vsplit</entry>
         <entry>reg</entry>
         <entry>Update</entry>
-        <entry>action GotoNextError</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>w</entry>
         <entry encoding="base64">YWN0aW9uIFF1aWNrQWN0aW9uczxDUj4=</entry>
         <entry>action QuickJavaDoc</entry>
         <entry>actionList</entry>
-        <entry>action QuickActions</entry>
-        <entry>action ShowSettings</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb25saXN0</entry>
         <entry>actionlist</entry>
+        <entry>action QuickImplementations</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action QuickActions</entry>
+        <entry>action ShowSettings</entry>
       </history-cmd>
       <history-expr />
       <history-input />
