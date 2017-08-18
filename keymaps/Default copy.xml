@@ -38,9 +38,13 @@
   <action id="ModifyObject" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
-  <action id="QuickJavaDoc">
+  <action id="QuickActions">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="less" />
   </action>
+  <action id="QuickJavaDoc" />
   <action id="RemoteHostView.CopyPaths" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
