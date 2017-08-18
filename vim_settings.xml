@@ -407,11 +407,11 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace_kotlin/untitled/src/main/Application.kt" timestamp="1503059736529">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="14" column="14" />
-        <mark key="^" line="14" column="14" />
+      <file name="$USER_HOME$/workspace_kotlin/untitled/src/main/Application.kt" timestamp="1503060366850">
+        <mark key="[" line="18" column="1" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrule/ITextBR.kt" timestamp="1495643320971">
         <mark key="[" line="7" column="70" />
@@ -746,6 +746,7 @@
         <entry>action ShowErrorDescription</entry>
         <entry>w</entry>
         <entry>action ShowSettings</entry>
+        <entry encoding="base64">YWN0aW9uIFF1aWNrQWN0aW9uczxDUj4=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
