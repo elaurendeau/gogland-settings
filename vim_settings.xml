@@ -167,7 +167,6 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/controller/TrainingRequestController.kt" timestamp="1502816624142" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/OfferCouchbaseServiceTest.java" timestamp="1496074439151">
         <mark key="[" line="178" column="0" />
         <mark key="]" line="178" column="0" />
@@ -408,11 +407,11 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace_kotlin/untitled/src/main/Application.kt" timestamp="1503058492762">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="9" column="56" />
-        <mark key="." line="9" column="56" />
-        <mark key="^" line="9" column="56" />
+      <file name="$USER_HOME$/workspace_kotlin/untitled/src/main/Application.kt" timestamp="1503059736529">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+        <mark key="^" line="14" column="14" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrule/ITextBR.kt" timestamp="1495643320971">
         <mark key="[" line="7" column="70" />
@@ -517,7 +516,6 @@
         <mark key="." line="39" column="181" />
         <mark key="^" line="39" column="181" />
       </file>
-      <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/application/ApplicationConfiguration.kt" timestamp="1502816637851" />
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/RestRequest.kt" timestamp="1496611039136">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="27" />
@@ -644,10 +642,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>final</text>
@@ -699,7 +697,7 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ShowSettings</text>
       </register>
     </registers>
     <search>
@@ -707,7 +705,7 @@
       <last-offset />
       <last-pattern>final</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -743,8 +741,11 @@
         <entry>vsplit</entry>
         <entry>actionlist</entry>
         <entry>reg</entry>
-        <entry>w</entry>
         <entry>Update</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>w</entry>
+        <entry>action ShowSettings</entry>
       </history-cmd>
       <history-expr />
       <history-input />
