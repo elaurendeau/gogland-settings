@@ -410,10 +410,10 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace_kotlin/untitled/src/main/Application.kt" timestamp="1503062675764">
-        <mark key="[" line="6" column="35" />
-        <mark key="]" line="6" column="57" />
-        <mark key="." line="6" column="35" />
+      <file name="$USER_HOME$/workspace_kotlin/untitled/src/main/Application.kt" timestamp="1503063892206">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="35" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrule/ITextBR.kt" timestamp="1495643320971">
         <mark key="[" line="7" column="70" />
@@ -643,11 +643,11 @@
       <jump line="23" column="53" filename="C:/dev/workspace-sasktel-vm/atg_code/commerce-sasktel/src/main/java/com/sasktel/commerce/order/manager/impl/SasktelOrderManagerImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Lis</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>Lis</text>
       </register>
       <register name="/" type="4">
         <text>final</text>
@@ -699,7 +699,7 @@
         <text encoding="base64">ICAgIGZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKICAgICAgICB2YWwgYSA9IDE1OwoKICAgICAgICBwcmludGxuKGEpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowFilePath</text>
+        <text>action ChooseDebugConfiguration</text>
       </register>
     </registers>
     <search>
@@ -741,11 +741,9 @@
         <entry>actionList</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb25saXN0</entry>
         <entry>actionlist</entry>
-        <entry>action QuickImplementations</entry>
         <entry>action QuickActions</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action ChooseDebugConfiguration</entry>
         <entry>action GotoAction</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action ActivateProjectToolWindow</entry>
@@ -753,6 +751,8 @@
         <entry>action ShowSettings</entry>
         <entry>action FindInPath</entry>
         <entry>action ShowFilePath</entry>
+        <entry>action QuickImplementations</entry>
+        <entry>action ChooseDebugConfiguration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
