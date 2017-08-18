@@ -19,6 +19,9 @@
       <file name="C:/dev/workspace-sasktel-vm/atg_code/common/src/main/java/com/cgi/core/alias/AdditionalPageConverter.java" timestamp="1502389598162">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1503062955762">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/dto/RomesOfferDto.java" timestamp="1496074332244">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -407,11 +410,10 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace_kotlin/untitled/src/main/Application.kt" timestamp="1503062186996">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="12" column="11" />
+      <file name="$USER_HOME$/workspace_kotlin/untitled/src/main/Application.kt" timestamp="1503062675764">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="57" />
+        <mark key="." line="6" column="35" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrule/ITextBR.kt" timestamp="1495643320971">
         <mark key="[" line="7" column="70" />
@@ -641,11 +643,11 @@
       <jump line="23" column="53" filename="C:/dev/workspace-sasktel-vm/atg_code/commerce-sasktel/src/main/java/com/sasktel/commerce/order/manager/impl/SasktelOrderManagerImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGVsbGlvdC5sYXVyZW5kZWF1IG9uIDIwMTctMDgtMTUuCiAqLw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>final</text>
@@ -653,8 +655,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU2Fza3RlbE9yZGVyRmluZGVyIG9yZGVyRmluZGVyOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGVsbGlvdC5sYXVyZW5kZWF1IG9uIDIwMTctMDgtMTUuCiAqLw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -672,32 +674,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihhKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGVsbGlvdC5sYXVyZW5kZWF1IG9uIDIwMTctMDgtMTUuCiAqLw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGEgPSAxNQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKDs7KXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGEgPSAxNQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKDs7KXsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKICAgICAgICB2YWwgYSA9IDE1OwoKICAgICAgICBwcmludGxuKGEpOwogICAgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IEFycmF5PFN0cmluZz4pIHsKICAgICAgICB2YWwgYSA9IDE1OwoKICAgICAgICBwcmludGxuKGEpOwogICAg</text>
-      </register>
       <register name=":" type="4">
-        <text>action ShowSettings</text>
+        <text>action ShowFilePath</text>
       </register>
     </registers>
     <search>
@@ -731,13 +733,6 @@
         <entry>final</entry>
       </history-search>
       <history-cmd>
-        <entry>set numeral</entry>
-        <entry>%</entry>
-        <entry>set syntax=json</entry>
-        <entry>execute '%! python -m json.tool'</entry>
-        <entry>nohl</entry>
-        <entry>action Switcher</entry>
-        <entry>vsplit</entry>
         <entry>reg</entry>
         <entry>Update</entry>
         <entry>w</entry>
@@ -747,10 +742,17 @@
         <entry encoding="base64">JzwsJz5hY3Rpb25saXN0</entry>
         <entry>actionlist</entry>
         <entry>action QuickImplementations</entry>
+        <entry>action QuickActions</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action QuickActions</entry>
+        <entry>action ChooseDebugConfiguration</entry>
+        <entry>action GotoAction</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+        <entry>action GotoFile</entry>
         <entry>action ShowSettings</entry>
+        <entry>action FindInPath</entry>
+        <entry>action ShowFilePath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
