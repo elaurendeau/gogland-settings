@@ -410,10 +410,11 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace_kotlin/untitled/src/main/Application.kt" timestamp="1503063892206">
-        <mark key="[" line="10" column="35" />
-        <mark key="]" line="10" column="35" />
-        <mark key="." line="10" column="35" />
+      <file name="$USER_HOME$/workspace_kotlin/untitled/src/main/Application.kt" timestamp="1503065743876">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrule/ITextBR.kt" timestamp="1495643320971">
         <mark key="[" line="7" column="70" />
@@ -643,11 +644,11 @@
       <jump line="23" column="53" filename="C:/dev/workspace-sasktel-vm/atg_code/commerce-sasktel/src/main/java/com/sasktel/commerce/order/manager/impl/SasktelOrderManagerImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Lis</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRsbihhKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Lis</text>
+        <text encoding="base64">aTogSW50OyBpIDwgNTsgaSsr</text>
       </register>
       <register name="/" type="4">
         <text>final</text>
@@ -655,8 +656,11 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU2Fza3RlbE9yZGVyRmluZGVyIG9yZGVyRmluZGVyOwo=</text>
       </register>
+      <register name="p" type="4">
+        <text>2</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRsbihhKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -675,28 +679,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGVsbGlvdC5sYXVyZW5kZWF1IG9uIDIwMTctMDgtMTUuCiAqLw==</text>
+        <text encoding="base64">ICB2YWwgYUxpc3QgPSBmb3IoaSBpbiAwLi41KSB7CiAgICAgICAgICAgICAgICBpCiAgICAgICAgICAgIH0gbGV0IGkKICAgICAgICAgICAgcHJpbnQ=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihhKQo=</text>
+        <text encoding="base64">bwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGEgPSBmb3IgKHJhbmdlKDAsIDUpKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGEgPSAxNQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGEgPSBpZih0cnVlKSB7CiAgICAgICAgICAgICAgICAgImJvYiIKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAicG9wIgogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKDs7KXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPyA6Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="7" type="4">
+        <text>2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKICAgICAgICB2YWwgYSA9IDE1OwoKICAgICAgICBwcmludGxuKGEpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ChooseDebugConfiguration</text>
@@ -735,7 +739,6 @@
       <history-cmd>
         <entry>reg</entry>
         <entry>Update</entry>
-        <entry>w</entry>
         <entry encoding="base64">YWN0aW9uIFF1aWNrQWN0aW9uczxDUj4=</entry>
         <entry>action QuickJavaDoc</entry>
         <entry>actionList</entry>
@@ -752,6 +755,7 @@
         <entry>action FindInPath</entry>
         <entry>action ShowFilePath</entry>
         <entry>action QuickImplementations</entry>
+        <entry>w</entry>
         <entry>action ChooseDebugConfiguration</entry>
       </history-cmd>
       <history-expr />
