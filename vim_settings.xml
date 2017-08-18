@@ -407,11 +407,11 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace_kotlin/untitled/src/main/Application.kt" timestamp="1503061155500">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="15" column="11" />
-        <mark key="^" line="15" column="11" />
+      <file name="$USER_HOME$/workspace_kotlin/untitled/src/main/Application.kt" timestamp="1503061993078">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="12" column="11" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrule/ITextBR.kt" timestamp="1495643320971">
         <mark key="[" line="7" column="70" />
@@ -642,7 +642,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGVsbGlvdC5sYXVyZW5kZWF1IG9uIDIwMTctMDgtMTUuCiAqLw==</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -653,8 +653,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU2Fza3RlbE9yZGVyRmluZGVyIG9yZGVyRmluZGVyOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihhKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGVsbGlvdC5sYXVyZW5kZWF1IG9uIDIwMTctMDgtMTUuCiAqLw==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -673,28 +673,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGEgPSAxNQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKDs7KXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGEgPSAxNQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKDs7KXsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKICAgICAgICB2YWwgYSA9IDE1OwoKICAgICAgICBwcmludGxuKGEpOwogICAgfQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IEFycmF5PFN0cmluZz4pIHsKICAgICAgICB2YWwgYSA9IDE1OwoKICAgICAgICBwcmludGxuKGEpOwogICAg</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
@@ -746,9 +746,10 @@
         <entry>w</entry>
         <entry encoding="base64">YWN0aW9uIFF1aWNrQWN0aW9uczxDUj4=</entry>
         <entry>action QuickJavaDoc</entry>
+        <entry>actionList</entry>
         <entry>action QuickActions</entry>
         <entry>action ShowSettings</entry>
-        <entry>actionList</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb25saXN0</entry>
         <entry>actionlist</entry>
       </history-cmd>
       <history-expr />

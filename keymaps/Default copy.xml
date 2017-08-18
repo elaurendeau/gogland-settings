@@ -38,11 +38,12 @@
   <action id="ModifyObject" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="OverrideMethods" />
   <action id="QuickActions">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="less" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="QuickJavaDoc" />
   <action id="RemoteHostView.CopyPaths" />
