@@ -1,4 +1,5 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="AceAction" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt number_sign" />
   </action>
@@ -37,6 +38,14 @@
   <action id="ModifyObject" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="OverrideMethods" />
+  <action id="QuickActions">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="QuickJavaDoc" />
   <action id="RemoteHostView.CopyPaths" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
