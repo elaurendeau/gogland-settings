@@ -410,11 +410,11 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace_kotlin/untitled/src/main/Application.kt" timestamp="1503065743876">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
+      <file name="$USER_HOME$/workspace_kotlin/untitled/src/main/Application.kt" timestamp="1503085537676">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/businessrule/ITextBR.kt" timestamp="1495643320971">
         <mark key="[" line="7" column="70" />
@@ -645,10 +645,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRsbihhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5mb3JFYWNoIHsgZSAtPiBwcmludGxuKGUpIH0KICAgICAgICAgICAgdmFsIG5ld0xpc3QgPSBsaXN0Lm1hcHsKICAgICAgICAgICAgICAgIGkgLT4gaSsxCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG5ld0xpc3QuZm9yRWFjaCB7IGkgLT4gcHJpbnRsbihpKSB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aTogSW50OyBpIDwgNTsgaSsr</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>final</text>
@@ -660,7 +660,7 @@
         <text>2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRsbihhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5mb3JFYWNoIHsgZSAtPiBwcmludGxuKGUpIH0KICAgICAgICAgICAgdmFsIG5ld0xpc3QgPSBsaXN0Lm1hcHsKICAgICAgICAgICAgICAgIGkgLT4gaSsxCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG5ld0xpc3QuZm9yRWFjaCB7IGkgLT4gcHJpbnRsbihpKSB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -678,32 +678,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRsbihhKQo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICB2YWwgYUxpc3QgPSBmb3IoaSBpbiAwLi41KSB7CiAgICAgICAgICAgICAgICBpCiAgICAgICAgICAgIH0gbGV0IGkKICAgICAgICAgICAgcHJpbnQ=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">bwoK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIGEgPSBmb3IgKHJhbmdlKDAsIDUpKSB7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIGEgPSBpZih0cnVlKSB7CiAgICAgICAgICAgICAgICAgImJvYiIKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAicG9wIgogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPyA6Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>2</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGoK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action ChooseDebugConfiguration</text>
+        <text>action ShowSettings</text>
       </register>
     </registers>
     <search>
@@ -751,12 +751,12 @@
         <entry>action FileStructurePopup</entry>
         <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoFile</entry>
-        <entry>action ShowSettings</entry>
         <entry>action FindInPath</entry>
         <entry>action ShowFilePath</entry>
         <entry>action QuickImplementations</entry>
         <entry>w</entry>
         <entry>action ChooseDebugConfiguration</entry>
+        <entry>action ShowSettings</entry>
       </history-cmd>
       <history-expr />
       <history-input />
