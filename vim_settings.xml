@@ -292,11 +292,10 @@
         <mark key="." line="30" column="125" />
         <mark key="^" line="30" column="125" />
       </file>
-      <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1507074327427">
-        <mark key="[" line="26" column="48" />
-        <mark key="]" line="16" column="15" />
-        <mark key="." line="16" column="15" />
-        <mark key="^" line="16" column="15" />
+      <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1507075284769">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/ActionServiceImplTest.java" timestamp="1496074557920">
         <mark key="[" line="250" column="0" />
@@ -666,7 +665,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYodnJhaSkgewogICAgICAgICAgICAgIHZyYWkgPSBmYWxzZTsKICAgICAgICAgICAgZH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIAo=</text>
       </register>
       <register name="-" type="4">
         <text>vrai</text>
@@ -681,7 +680,7 @@
         <text>2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYodnJhaSkgewogICAgICAgICAgICAgIHZyYWkgPSBmYWxzZTsKICAgICAgICAgICAgZH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -700,30 +699,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYm9vbGVhbiB2cmFpID0gdHJ1ZTsK</text>
+        <text encoding="base64">CS8K</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Zm9sZCB7IG5ld0xpc3Q6IExpc3Q8SW50PiwgaSAtPgogICAgICAgICAgICAgICAgICAgIG5ld0xpc3QgOjogbGVmdExpc3QKICAgICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">LyB3cml0ZSB5b3VyIGNvZGUgaGVyZQoKCiAgICAgICAgLy8gZm9yCi8vICAgICAgICBmb3IoMSA7IDIgOyAzCi8vICAgICAgICBmb3IoaW50IGkgPSAxMDsgaSA+IDA7IGktLSkgewovLyAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpKTsKLy8gICAgICAgIH0KCiAgICAgICAgLy8gZm9yIGVhY2gKCiAgICAgICAgLy8gd2hpbGU=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYodnJhaSkgewogICAgICAgICAgICAgIHZyYWkgPSBmYWxzZTsKICAgICAgICAgICAgZH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgYm9vbGVhbiB2cmFpID0gdHJ1ZTsK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">Zm9sZCB7IG5ld0xpc3Q6IExpc3Q8SW50PiwgaSAtPgogICAgICAgICAgICAgICAgICAgIG5ld0xpc3QgOjogbGVmdExpc3QKICAgICAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihsZWZ0TGlzdCkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>for(i in 1 .. (leftList.size + rightList.size)) {
                     
                 }</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZWxsaW90LmxhdXJlbmRlYXUgb24gMjAxNy0wOC0yMi4KICovCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5mb3JFYWNoIHsgZSAtPiBwcmludGxuKGUpIH0KICAgICAgICAgICAgdmFsIG5ld0xpc3QgPSBsaXN0Lm1hcHsKICAgICAgICAgICAgICAgIGkgLT4gaSsxCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG5ld0xpc3QuZm9yRWFjaCB7IGkgLT4gcHJpbnRsbihpKSB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRsbihhKQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICB2YWwgYUxpc3QgPSBmb3IoaSBpbiAwLi41KSB7CiAgICAgICAgICAgICAgICBpCiAgICAgICAgICAgIH0gbGV0IGkKICAgICAgICAgICAgcHJpbnQ=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
