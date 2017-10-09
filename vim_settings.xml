@@ -292,10 +292,11 @@
         <mark key="." line="30" column="125" />
         <mark key="^" line="30" column="125" />
       </file>
-      <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1507075284769">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1507588636853">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="1" />
+        <mark key="^" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/ActionServiceImplTest.java" timestamp="1496074557920">
         <mark key="[" line="250" column="0" />
@@ -725,7 +726,7 @@
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZWxsaW90LmxhdXJlbmRlYXUgb24gMjAxNy0wOC0yMi4KICovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>actionlist</text>
       </register>
     </registers>
     <search>
@@ -759,7 +760,6 @@
         <entry>posi</entry>
       </history-search>
       <history-cmd>
-        <entry>action AceTargetAction</entry>
         <entry>action AceLineAction</entry>
         <entry>action ShowSettings</entry>
         <entry>.,.+4action CommentByLineComment</entry>
@@ -779,6 +779,7 @@
         <entry>action Switcher</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w</entry>
+        <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
       <history-input />
