@@ -16,6 +16,12 @@
         <mark key="^" line="66" column="101" />
         <mark key="." line="66" column="101" />
       </file>
+      <file name="D:/workspace_java/src/com/company/Chien.java" timestamp="1510102092399">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/OfferManagerImplTest.java" timestamp="1496072412308">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -292,11 +298,11 @@
         <mark key="." line="30" column="125" />
         <mark key="^" line="30" column="125" />
       </file>
-      <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1507588636853">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="19" column="1" />
-        <mark key="." line="19" column="1" />
-        <mark key="^" line="19" column="1" />
+      <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1510102604102">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+        <mark key="^" line="16" column="32" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/ActionServiceImplTest.java" timestamp="1496074557920">
         <mark key="[" line="250" column="0" />
@@ -665,23 +671,23 @@
       <jump line="13" column="80" filename="$USER_HOME$/workspace_kotlin/untitled/src/main/divideAndConquer/MergeSort.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICBjcmVlQ2hpZW4oIkdvbGRlbiIsIDQpOwogICAgICBjcmVlQ2hpZW4oIkdvbGRlbjEiLCA0KTsKICAgICAgY3JlZUNoaWVuKCJHb2xkZW4yIiwgNCk7CiAgICAgIGNyZWVDaGllbigiR29sZGVuNSIsIDQpOwogICAgICBjcmVlQ2hpZW4oIkdvbGRlbjciLCA0KTsKICAgICAgY3JlZUNoaWVuKCJHb2xkZW44IiwgNCk7CiAgICAgIGNyZWVDaGllbigiR29sZGUwbiIsIDQpOw==</text>
       </register>
       <register name="-" type="4">
-        <text>vrai</text>
+        <text>&quot;Golden&quot;;      Chien chien = new Chien();</text>
       </register>
       <register name="/" type="4">
         <text>final</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgQXBwbGljYXRpb24gewogICAgY29tcGFuaW9uIG9iamVjdCB7CiAgICAgICAgQEp2bVN0YXRpYwogICAgICAgIGZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKICAgICAgICAgICAgdmFsIGxpc3QgPSBBcnJheUxpc3QobGlzdE9mKDEsMiwzLDQsNSw2LDcpKQogICAgICAgICAgICBzb3J0KGxpc3QpCiAgICAgICAgfQoKICAgICAgICBmdW4gc29ydChsaXN0OiBMaXN0PEludD4pOiBMaXN0PEludD4gewogICAgICAgICAgICByZXR1cm4gbGlzdAogICAgICAgIH0KICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgY3JlZUNoaWVuKCJHb2xkZW4iLCA0KTsK</text>
       </register>
       <register name="p" type="4">
         <text>2</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBjcmVlQ2hpZW4oIkdvbGRlbiIsIDQpOwogICAgICBjcmVlQ2hpZW4oIkdvbGRlbjEiLCA0KTsKICAgICAgY3JlZUNoaWVuKCJHb2xkZW4yIiwgNCk7CiAgICAgIGNyZWVDaGllbigiR29sZGVuNSIsIDQpOwogICAgICBjcmVlQ2hpZW4oIkdvbGRlbjciLCA0KTsKICAgICAgY3JlZUNoaWVuKCJHb2xkZW44IiwgNCk7CiAgICAgIGNyZWVDaGllbigiR29sZGUwbiIsIDQpOw==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -699,34 +705,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CS8K</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2hpZW4ucmFjZSk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjaGllbi5ub21icmVEZVBhdHRlcyk7</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">LyB3cml0ZSB5b3VyIGNvZGUgaGVyZQoKCiAgICAgICAgLy8gZm9yCi8vICAgICAgICBmb3IoMSA7IDIgOyAzCi8vICAgICAgICBmb3IoaW50IGkgPSAxMDsgaSA+IDA7IGktLSkgewovLyAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpKTsKLy8gICAgICAgIH0KCiAgICAgICAgLy8gZm9yIGVhY2gKCiAgICAgICAgLy8gd2hpbGU=</text>
+        <text encoding="base64">CiAgICAgIENoaWVuIGNoaWVuID0gbmV3IENoaWVuKCk7CiAgICAgIGNoaWVuLm5vbWJyZURlUGF0dGVzID0gNDsKICAgICAgY2hpZW4ucmFjZSA9ICJHb2xkZW4iOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYodnJhaSkgewogICAgICAgICAgICAgIHZyYWkgPSBmYWxzZTsKICAgICAgICAgICAgZH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYm9vbGVhbiB2cmFpID0gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Zm9sZCB7IG5ld0xpc3Q6IExpc3Q8SW50PiwgaSAtPgogICAgICAgICAgICAgICAgICAgIG5ld0xpc3QgOjogbGVmdExpc3QKICAgICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZhY3RvcmlhbCg1KSk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmYWN0b3JpYWwoMykpOwogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmFjdG9yaWFsKDYpKTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihsZWZ0TGlzdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>for(i in 1 .. (leftList.size + rightList.size)) {
-                    
-                }</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGludCBmYWN0b3JpYWwoaW50IG51bWJlcikgewogICAgICAgaW50IHN1bSA9IDE7CiAgICAgIGludCBjb3VudCA9IG51bWJlcjsKICAgICAgICB3aGlsZShjb3VudCA+IDEpIHsKICAgICAgICAgICAgc3VtICo9IGNvdW50OwogICAgICAgICAgY291bnQgLT0gMTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBzdW07CiAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZWxsaW90LmxhdXJlbmRlYXUgb24gMjAxNy0wOC0yMi4KICovCg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZhY3RvcmlhbCg1KSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -778,8 +782,8 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action Switcher</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>w</entry>
         <entry>actionlist</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
