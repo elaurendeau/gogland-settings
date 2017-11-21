@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="GotoAction">
+        <abbreviation name="Elliot" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
