@@ -298,8 +298,8 @@
         <mark key="." line="30" column="125" />
         <mark key="^" line="30" column="125" />
       </file>
-      <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1511237283125">
-        <mark key="'" line="22" column="18" />
+      <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1511237441859">
+        <mark key="'" line="14" column="19" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -571,7 +571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="355" column="67" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
       <jump line="357" column="118" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
       <jump line="345" column="65" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/SiteCouchbaseServiceImpl.java" />
       <jump line="61" column="0" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/CustomerCouchbaseServiceImpl.java" />
@@ -671,6 +670,7 @@
       <jump line="20" column="58" filename="D:/workspace_java/src/com/company/Main.java" />
       <jump line="22" column="24" filename="D:/workspace_java/src/com/company/Main.java" />
       <jump line="23" column="18" filename="D:/workspace_java/src/com/company/Main.java" />
+      <jump line="14" column="19" filename="D:/workspace_java/src/com/company/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -732,7 +732,7 @@
         <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZhY3RvcmlhbCg1KSk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmYWN0b3JpYWwoMykpOwogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmFjdG9yaWFsKDYpKTs=</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -740,7 +740,7 @@
       <last-offset />
       <last-pattern>\u</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -766,8 +766,6 @@
         <entry>\u</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoFile</entry>
-        <entry>action RecentFiles</entry>
         <entry>action RenameFile</entry>
         <entry>action FindInPath</entry>
         <entry>action ShowFilePath</entry>
@@ -782,10 +780,12 @@
         <entry>action GotoAction</entry>
         <entry>w</entry>
         <entry>action QuickFixes</entry>
-        <entry>action GotoNextError</entry>
         <entry>action ResourceBundleEditorShowIntentions</entry>
         <entry>action ShowSettings</entry>
         <entry>actionlist</entry>
+        <entry>action ShowIntentionActions</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
