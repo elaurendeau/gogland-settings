@@ -16,10 +16,11 @@
         <mark key="^" line="66" column="101" />
         <mark key="." line="66" column="101" />
       </file>
-      <file name="D:/workspace_java/src/com/company/Chien.java" timestamp="1511237830153">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="D:/workspace_java/src/com/company/Chien.java" timestamp="1511238470701">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="4" column="19" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/OfferManagerImplTest.java" timestamp="1496072412308">
         <mark key="[" line="57" column="0" />
@@ -297,12 +298,12 @@
         <mark key="." line="30" column="125" />
         <mark key="^" line="30" column="125" />
       </file>
-      <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1511238034014">
+      <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1511238817213">
         <mark key="'" line="14" column="19" />
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-        <mark key="^" line="14" column="28" />
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+        <mark key="^" line="22" column="24" />
         <mark key="n" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/ActionServiceImplTest.java" timestamp="1496074557920">
@@ -672,8 +673,8 @@
       <jump line="14" column="19" filename="D:/workspace_java/src/com/company/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>patienNoms</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY2hpZW4ubm9tYnJlRGVQYXR0ZXMgPSBub21icmVEZVBhdHRlczsK</text>
       </register>
       <register name="-" type="4">
         <text>patienNoms</text>
@@ -688,7 +689,7 @@
         <text>2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGludCBub21icmVEZVBhdHRlczsK</text>
+        <text encoding="base64">ICAgICAgY2hpZW4ubm9tYnJlRGVQYXR0ZXMgPSBub21icmVEZVBhdHRlczsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -707,28 +708,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgaW50IG5vbWJyZURlUGF0dGVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgaW50IG5vbWJyZURlUGF0dGVzOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoaWxlKCkK</text>
+        <text encoding="base64">ICBwdWJsaWMgaW50IGdldE5vbWJyZURlUGF0dGVzKCkgewogICAgcmV0dXJuIG5vbWJyZURlUGF0dGVzOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBjcmVlQ2hpZW4oIkdvbGRlbiIsIDQpOwogICAgICBjcmVlQ2hpZW4oIkdvbGRlbjEiLCA0KTsKICAgICAgY3JlZUNoaWVuKCJHb2xkZW4yIiwgNCk7CiAgICAgIGNyZWVDaGllbigiR29sZGVuNSIsIDQpOwogICAgICBjcmVlQ2hpZW4oIkdvbGRlbjciLCA0KTsKICAgICAgY3JlZUNoaWVuKCJHb2xkZW44IiwgNCk7CiAgICAgIGNyZWVDaGllbigiR29sZGUwbiIsIDQpOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXROb21icmVEZVBhdHRlcyhpbnQgbm9tYnJlRGVQYXR0ZXMpIHsKICAgIHRoaXMubm9tYnJlRGVQYXR0ZXMgPSBub21icmVEZVBhdHRlczsKICB9CgogIHB1YmxpYyBpbnQgbm9tYnJlRGVQYXR0ZXM7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2hpZW4ucmFjZSk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjaGllbi5ub21icmVEZVBhdHRlcyk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGludCBub21icmVEZVBhdHRlczsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgIENoaWVuIGNoaWVuID0gbmV3IENoaWVuKCk7CiAgICAgIGNoaWVuLm5vbWJyZURlUGF0dGVzID0gNDsKICAgICAgY2hpZW4ucmFjZSA9ICJHb2xkZW4iOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwdWJsaWMgaW50IG5vbWJyZURlUGF0dGVzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgaW50IG5vbWJyZURlUGF0dGVzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdoaWxlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>action ShowSettings</text>
@@ -765,10 +766,6 @@
         <entry>\u</entry>
       </history-search>
       <history-cmd>
-        <entry>action FindInPath</entry>
-        <entry>action ShowFilePath</entry>
-        <entry>action Git.Branches</entry>
-        <entry>action Switcher</entry>
         <entry>commandList</entry>
         <entry>commands</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
@@ -784,6 +781,10 @@
         <entry>action ShowIntentionActions</entry>
         <entry>w</entry>
         <entry>action RenameElement</entry>
+        <entry>action GenerateGetterAndSetter</entry>
+        <entry>action Generate</entry>
+        <entry>action GenerateConstructor</entry>
+        <entry>action GotoFile</entry>
         <entry>action ShowSettings</entry>
       </history-cmd>
       <history-expr />
