@@ -16,11 +16,11 @@
         <mark key="^" line="66" column="101" />
         <mark key="." line="66" column="101" />
       </file>
-      <file name="D:/workspace_java/src/com/company/Chien.java" timestamp="1511234737819">
+      <file name="D:/workspace_java/src/com/company/Chien.java" timestamp="1511235888542">
         <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="15" />
+        <mark key="]" line="4" column="13" />
         <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="15" />
+        <mark key="." line="4" column="13" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/OfferManagerImplTest.java" timestamp="1496072412308">
         <mark key="[" line="57" column="0" />
@@ -674,10 +674,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ien();</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>ien();</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>\u</text>
@@ -766,7 +766,6 @@
         <entry>\u</entry>
       </history-search>
       <history-cmd>
-        <entry>action ToggleBookmark</entry>
         <entry>action AceAction</entry>
         <entry>action HideActiveWindow</entry>
         <entry>action FileStructurePopup</entry>
@@ -785,6 +784,7 @@
         <entry>action CommentByLineComment</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>actionList</entry>
+        <entry>action GotoAction</entry>
         <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
