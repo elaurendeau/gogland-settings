@@ -16,11 +16,11 @@
         <mark key="^" line="66" column="101" />
         <mark key="." line="66" column="101" />
       </file>
-      <file name="D:/workspace_java/src/com/company/Chien.java" timestamp="1511235888542">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="13" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="13" />
+      <file name="D:/workspace_java/src/com/company/Chien.java" timestamp="1511237268603">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="8" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/OfferManagerImplTest.java" timestamp="1496072412308">
         <mark key="[" line="57" column="0" />
@@ -298,13 +298,13 @@
         <mark key="." line="30" column="125" />
         <mark key="^" line="30" column="125" />
       </file>
-      <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1511234394998">
-        <mark key="'" line="23" column="18" />
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="28" />
-        <mark key="n" line="20" column="15" />
+      <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1511237283125">
+        <mark key="'" line="22" column="18" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="21" column="28" />
+        <mark key="n" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/ActionServiceImplTest.java" timestamp="1496074557920">
         <mark key="[" line="250" column="0" />
@@ -673,11 +673,11 @@
       <jump line="23" column="18" filename="D:/workspace_java/src/com/company/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwdWJsaWMgaW50IG5vbWJyZURlUGF0dGVzOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>\u</text>
@@ -688,8 +688,8 @@
       <register name="p" type="4">
         <text>2</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICBjcmVlQ2hpZW4oIkdvbGRlbiIsIDQpOwogICAgICBjcmVlQ2hpZW4oIkdvbGRlbjEiLCA0KTsKICAgICAgY3JlZUNoaWVuKCJHb2xkZW4yIiwgNCk7CiAgICAgIGNyZWVDaGllbigiR29sZGVuNSIsIDQpOwogICAgICBjcmVlQ2hpZW4oIkdvbGRlbjciLCA0KTsKICAgICAgY3JlZUNoaWVuKCJHb2xkZW44IiwgNCk7CiAgICAgIGNyZWVDaGllbigiR29sZGUwbiIsIDQpOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBwdWJsaWMgaW50IG5vbWJyZURlUGF0dGVzOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -707,29 +707,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICBwdWJsaWMgaW50IG5vbWJyZURlUGF0dGVzOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHdoaWxlKCkK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICBjcmVlQ2hpZW4oIkdvbGRlbiIsIDQpOwogICAgICBjcmVlQ2hpZW4oIkdvbGRlbjEiLCA0KTsKICAgICAgY3JlZUNoaWVuKCJHb2xkZW4yIiwgNCk7CiAgICAgIGNyZWVDaGllbigiR29sZGVuNSIsIDQpOwogICAgICBjcmVlQ2hpZW4oIkdvbGRlbjciLCA0KTsKICAgICAgY3JlZUNoaWVuKCJHb2xkZW44IiwgNCk7CiAgICAgIGNyZWVDaGllbigiR29sZGUwbiIsIDQpOw==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CgogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2hpZW4ucmFjZSk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjaGllbi5ub21icmVEZVBhdHRlcyk7</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgIENoaWVuIGNoaWVuID0gbmV3IENoaWVuKCk7CiAgICAgIGNoaWVuLm5vbWJyZURlUGF0dGVzID0gNDsKICAgICAgY2hpZW4ucmFjZSA9ICJHb2xkZW4iOw==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZhY3RvcmlhbCg1KSk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmYWN0b3JpYWwoMykpOwogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmFjdG9yaWFsKDYpKTs=</text>
+        <text encoding="base64">CiAgICAgIENoaWVuIGNoaWVuID0gbmV3IENoaWVuKCk7CiAgICAgIGNoaWVuLm5vbWJyZURlUGF0dGVzID0gNDsKICAgICAgY2hpZW4ucmFjZSA9ICJHb2xkZW4iOw==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGludCBmYWN0b3JpYWwoaW50IG51bWJlcikgewogICAgICAgaW50IHN1bSA9IDE7CiAgICAgIGludCBjb3VudCA9IG51bWJlcjsKICAgICAgICB3aGlsZShjb3VudCA+IDEpIHsKICAgICAgICAgICAgc3VtICo9IGNvdW50OwogICAgICAgICAgY291bnQgLT0gMTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBzdW07CiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZhY3RvcmlhbCg1KSk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZhY3RvcmlhbCg1KSk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmYWN0b3JpYWwoMykpOwogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmFjdG9yaWFsKDYpKTs=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
@@ -766,10 +766,6 @@
         <entry>\u</entry>
       </history-search>
       <history-cmd>
-        <entry>action AceAction</entry>
-        <entry>action HideActiveWindow</entry>
-        <entry>action FileStructurePopup</entry>
-        <entry>action ActivateProjectToolWindow</entry>
         <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
         <entry>action RenameFile</entry>
@@ -777,7 +773,6 @@
         <entry>action ShowFilePath</entry>
         <entry>action Git.Branches</entry>
         <entry>action Switcher</entry>
-        <entry>w</entry>
         <entry>commandList</entry>
         <entry>commands</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
@@ -785,6 +780,11 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>actionList</entry>
         <entry>action GotoAction</entry>
+        <entry>w</entry>
+        <entry>action QuickFixes</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action ResourceBundleEditorShowIntentions</entry>
+        <entry>action ShowSettings</entry>
         <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
