@@ -304,13 +304,13 @@
         <mark key="." line="30" column="125" />
         <mark key="^" line="30" column="125" />
       </file>
-      <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1511396732258">
-        <mark key="'" line="14" column="19" />
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="9" />
-        <mark key="." line="23" column="9" />
-        <mark key="^" line="23" column="9" />
-        <mark key="n" line="19" column="15" />
+      <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1511399675319">
+        <mark key="'" line="15" column="19" />
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+        <mark key="n" line="20" column="15" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/ActionServiceImplTest.java" timestamp="1496074557920">
         <mark key="[" line="250" column="0" />
@@ -476,7 +476,7 @@
       <file name="/dummy.sql" timestamp="1498847250362">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500469740006">
+      <file name="/Dummy.txt" timestamp="1511399505196">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -738,7 +738,7 @@
         <text encoding="base64">ICAgIHdoaWxlKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -788,10 +788,10 @@
         <entry>action GotoFile</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry>action ShowSettings</entry>
-        <entry>w</entry>
         <entry>action AceAction</entry>
         <entry>action QuickImplementations</entry>
         <entry>action GotoImplementation</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
