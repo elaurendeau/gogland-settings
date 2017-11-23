@@ -1,4 +1,4 @@
-<keymap version="1" name="test" parent="$default">
+<keymap version="1" name="Elliot vim" parent="$default">
   <action id="$Copy" />
   <action id="$Cut" />
   <action id="$Paste" />
@@ -95,9 +95,6 @@
   <action id="EditorAddOrRemoveCaret" />
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorChooseLookupItemDot" />
-  <action id="EditorCloneCaretBelow">
-    <keyboard-shortcut first-keystroke="f1" />
-  </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStart" />
