@@ -304,11 +304,11 @@
         <mark key="." line="30" column="125" />
         <mark key="^" line="30" column="125" />
       </file>
-      <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1511399675319">
+      <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1511403488614">
         <mark key="'" line="15" column="19" />
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
         <mark key="^" line="13" column="24" />
         <mark key="n" line="20" column="15" />
       </file>
@@ -565,7 +565,7 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1502816885345">
+      <file name="/fragment.java" timestamp="1511403037837">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -679,11 +679,11 @@
       <jump line="14" column="19" filename="D:/workspace_java/src/com/company/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY2hpZW4ubm9tYnJlRGVQYXR0ZXMgPSBub21icmVEZVBhdHRlczsK</text>
+      <register name="&quot;" type="4">
+        <text>Chien</text>
       </register>
       <register name="-" type="4">
-        <text>patienNoms</text>
+        <text>Chien</text>
       </register>
       <register name="/" type="4">
         <text>\u</text>
@@ -738,7 +738,7 @@
         <text encoding="base64">ICAgIHdoaWxlKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ToggleLineBreakpoint</text>
       </register>
     </registers>
     <search>
@@ -772,8 +772,6 @@
         <entry>\u</entry>
       </history-search>
       <history-cmd>
-        <entry>action ActivateTerminalToolWindow</entry>
-        <entry>actionList</entry>
         <entry>action GotoAction</entry>
         <entry>action QuickFixes</entry>
         <entry>action ResourceBundleEditorShowIntentions</entry>
@@ -792,6 +790,8 @@
         <entry>action QuickImplementations</entry>
         <entry>action GotoImplementation</entry>
         <entry>w</entry>
+        <entry>action ToggleTemporaryLineBreakpoint</entry>
+        <entry>action ToggleLineBreakpoint</entry>
       </history-cmd>
       <history-expr />
       <history-input />
