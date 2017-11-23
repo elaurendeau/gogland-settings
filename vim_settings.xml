@@ -732,7 +732,7 @@
         <text encoding="base64">ICAgIHdoaWxlKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action GuiDesigner.QuickJavadoc</text>
       </register>
     </registers>
     <search>
@@ -766,7 +766,6 @@
         <entry>\u</entry>
       </history-search>
       <history-cmd>
-        <entry>commands</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action ActivateTerminalToolWindow</entry>
@@ -784,8 +783,9 @@
         <entry>action Generate</entry>
         <entry>action GenerateConstructor</entry>
         <entry>action GotoFile</entry>
-        <entry>action ShowSettings</entry>
         <entry>action AceAction</entry>
+        <entry>action ShowSettings</entry>
+        <entry>action GuiDesigner.QuickJavadoc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
