@@ -304,12 +304,12 @@
         <mark key="." line="30" column="125" />
         <mark key="^" line="30" column="125" />
       </file>
-      <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1511396585938">
+      <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1511396732258">
         <mark key="'" line="14" column="19" />
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="21" />
-        <mark key="." line="23" column="21" />
-        <mark key="^" line="23" column="21" />
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="9" />
+        <mark key="." line="23" column="9" />
+        <mark key="^" line="23" column="9" />
         <mark key="n" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/ActionServiceImplTest.java" timestamp="1496074557920">
@@ -738,7 +738,7 @@
         <text encoding="base64">ICAgIHdoaWxlKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickImplementations</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -772,7 +772,6 @@
         <entry>\u</entry>
       </history-search>
       <history-cmd>
-        <entry>action CommentByLineComment</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>actionList</entry>
         <entry>action GotoAction</entry>
@@ -792,6 +791,7 @@
         <entry>w</entry>
         <entry>action AceAction</entry>
         <entry>action QuickImplementations</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
