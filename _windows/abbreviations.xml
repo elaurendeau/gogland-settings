@@ -2,6 +2,7 @@
   <component name="AbbreviationManager">
     <abbreviations>
       <action id="GotoAction" />
+      <action id="ShowUmlDiagram" />
     </abbreviations>
   </component>
 </application>
