@@ -1,8 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="NextErrorAndDescription">
-      <action id="GotoNextError" />
-      <action id="ShowErrorDescription" />
-    </macro>
-  </component>
-</application>
