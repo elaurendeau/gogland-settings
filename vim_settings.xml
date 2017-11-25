@@ -270,6 +270,12 @@
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
       </file>
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/build.gradle" timestamp="1511578204588">
+        <mark key="[" line="26" column="51" />
+        <mark key="]" line="26" column="50" />
+        <mark key="." line="26" column="50" />
+        <mark key="^" line="26" column="50" />
+      </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/IImageManager.kt" timestamp="1496187726427">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="19" />
@@ -314,9 +320,6 @@
         <mark key="]" line="30" column="125" />
         <mark key="." line="30" column="125" />
         <mark key="^" line="30" column="125" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/cgi/rxp/framework/rxp-framework-couchbase-rest/0.0.10/rxp-framework-couchbase-rest-0.0.10.jar!/com/cgi/romes/fromeswork/couchbase/controller/AbstractCouchbaseController.class" timestamp="1498757493388">
-        <mark key="'" line="255" column="28" />
       </file>
       <file name="D:/workspace_java/src/com/company/Main.java" timestamp="1511494730197">
         <mark key="'" line="13" column="19" />
@@ -395,6 +398,9 @@
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/cgi/rxp/framework/rxp-framework-couchbase-rest/0.0.10/rxp-framework-couchbase-rest-0.0.10.jar!/com/cgi/romes/fromeswork/couchbase/controller/AbstractCouchbaseController.class" timestamp="1498757493388">
+        <mark key="'" line="255" column="28" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/LabelGeneratorService.kt" timestamp="1497494595372">
         <mark key="'" line="23" column="21" />
@@ -689,11 +695,11 @@
       <jump line="13" column="17" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/domain/Request.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiciIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>1.1.2</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>1.1.2</text>
       </register>
       <register name="/" type="4">
         <text>\u</text>
@@ -748,7 +754,7 @@
         <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXROb21icmVEZVBhdHRlcyhpbnQgbm9tYnJlRGVQYXR0ZXMpIHsKICAgIHRoaXMubm9tYnJlRGVQYXR0ZXMgPSBub21icmVEZVBhdHRlczsKICB9CgogIHB1YmxpYyBpbnQgbm9tYnJlRGVQYXR0ZXM7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowSettings</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -792,7 +798,6 @@
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry>action QuickImplementations</entry>
         <entry>action GotoImplementation</entry>
-        <entry>w</entry>
         <entry>action ToggleTemporaryLineBreakpoint</entry>
         <entry>action ReformatCode</entry>
         <entry>action AceAction</entry>
@@ -802,6 +807,7 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
         <entry>action ShowSettings</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
