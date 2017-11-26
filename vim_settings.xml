@@ -27,6 +27,9 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="C:/dev/workspace-sasktel-vm/atg_code/common/src/main/java/com/cgi/core/alias/AdditionalPageConverter.java" timestamp="1502389598162">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1503062955762">
         <mark key="[" line="0" column="0" />
       </file>
@@ -191,6 +194,9 @@
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/engine/manager/impl/ActionManagerImpl.java" timestamp="1498843850705">
+        <mark key="'" line="725" column="45" />
       </file>
       <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/manager/IPositionManager.kt" timestamp="1496192840469">
         <mark key="[" line="6" column="66" />
@@ -394,12 +400,11 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/LabelGeneratorService.kt" timestamp="1511726516347">
+      <file name="$MAVEN_REPOSITORY$/com/cgi/rxp/framework/rxp-framework-couchbase-rest/0.0.10/rxp-framework-couchbase-rest-0.0.10.jar!/com/cgi/romes/fromeswork/couchbase/controller/AbstractCouchbaseController.class" timestamp="1498757493388">
+        <mark key="'" line="255" column="28" />
+      </file>
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/LabelGeneratorService.kt" timestamp="1511727187395">
         <mark key="'" line="29" column="38" />
-        <mark key="[" line="52" column="21" />
-        <mark key="]" line="53" column="20" />
-        <mark key="." line="53" column="20" />
-        <mark key="^" line="53" column="20" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/usecase/IImageUC.kt" timestamp="1495642558218">
         <mark key="[" line="2" column="20" />
@@ -688,8 +693,8 @@
       <jump line="30" column="38" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/LabelGeneratorService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t.join()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhdW5jaChDb21tb25Qb29sKSB7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>t.join()</text>
@@ -704,7 +709,7 @@
         <text>2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2hhbm5lbCA9IENoYW5uZWw8UGFpcjxUZXh0LCBQb3NpdGlvbj4+KG9jY3VycmVuY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhdW5jaChDb21tb25Qb29sKSB7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -723,28 +728,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY2hhbm5lbCA9IENoYW5uZWw8UGFpcjxUZXh0LCBQb3NpdGlvbj4+KG9jY3VycmVuY2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwZWF0KGJhdGNoU2l6ZSkgewogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICB2YWwgdGV4dCA9IHRleHRNYW5hZ2VyLmdlbmVyYXRlVGV4dEZyb21SZWdleChyZWdleCkKICAgICAgICAgICAgICAgICAgICB2YWwgcG9zaXRpb24gPSBwb3NpdGlvbk1hbmFnZXIuZ2VuZXJhdGVSYW5kb21Qb3NpdGlvbih0ZXh0LCBzaXplWCwgc2l6ZVkpCiAgICAgICAgICAgICAgICAgICAgY2hhbm5lbC5zZW5kKFBhaXIodGV4dCwgcG9zaXRpb24pKQogICAgICAgICAgICAgICAgfSBjYXRjaCAoZTogSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKSB7Ci8vICAgICAgICAgICAgICAgICBTa2lwIHRoaXMgZXhjZXB0aW9uLiBJZiBpdCBpcyBpbnZhbGlkLCB3ZSB3b24ndCBwcm9jZXNzIGl0LgogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBjaGFubmVsLmNsb3NlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAoMS4ub2NjdXJyZW5jZSkubWEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVwZWF0KGJhdGNoU2l6ZSkgewogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICB2YWwgdGV4dCA9IHRleHRNYW5hZ2VyLmdlbmVyYXRlVGV4dEZyb21SZWdleChyZWdleCkKICAgICAgICAgICAgICAgICAgICB2YWwgcG9zaXRpb24gPSBwb3NpdGlvbk1hbmFnZXIuZ2VuZXJhdGVSYW5kb21Qb3NpdGlvbih0ZXh0LCBzaXplWCwgc2l6ZVkpCiAgICAgICAgICAgICAgICAgICAgY2hhbm5lbC5zZW5kKFBhaXIodGV4dCwgcG9zaXRpb24pKQogICAgICAgICAgICAgICAgfSBjYXRjaCAoZTogSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKSB7Ci8vICAgICAgICAgICAgICAgICBTa2lwIHRoaXMgZXhjZXB0aW9uLiBJZiBpdCBpcyBpbnZhbGlkLCB3ZSB3b24ndCBwcm9jZXNzIGl0LgogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBjaGFubmVsLmNsb3NlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2hhbm5lbExpc3Q6IExpc3Q8Q2hhbm5lbDxQYWlyPFRleHQsIFBvc2l0aW9uPj4+ID0gbGlzdE9mKCkKCiAgICAgICAgbGF1bmNoKENvbW1vblBvb2wpIHsKICAgICAgICAgICAgcmVwZWF0KG9jY3VycmVuY2UpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgdmFsIHRleHQgPSB0ZXh0TWFuYWdlci5nZW5lcmF0ZVRleHRGcm9tUmVnZXgocmVnZXgpCiAgICAgICAgICAgICAgICAgICAgdmFsIHBvc2l0aW9uID0gcG9zaXRpb25NYW5hZ2VyLmdlbmVyYXRlUmFuZG9tUG9zaXRpb24odGV4dCwgc2l6ZVgsIHNpemVZKQogICAgICAgICAgICAgICAgICAgIGNoYW5uZWwuc2VuZChQYWlyKHRleHQsIHBvc2l0aW9uKSkKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGU6IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbikgewovLyAgICAgICAgICAgICAgICAgU2tpcCB0aGlzIGV4Y2VwdGlvbi4gSWYgaXQgaXMgaW52YWxpZCwgd2Ugd29uJ3QgcHJvY2VzcyBpdC4KICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2hhbm5lbC5jbG9zZSgpCiAgICAgICAgfQoKICAgICAgICBydW5CbG9ja2luZyB7CiAgICAgICAgICAgIHZhbCBqb2JMaXN0ID0gTGlzdCgxMDAwKSB7CiAgICAgICAgICAgICAgICBsYXVuY2goQ29tbW9uUG9vbCkgewogICAgICAgICAgICAgICAgICAgIGZvciAocGFpciBpbiBjaGFubmVsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBpbWFnZUxhYmVsUGFpciA9IGltYWdlQXBwZW5kZXIuYXBwZW5kTGFiZWxUb0ltYWdlKGltYWdlLCBwYWlyKQogICAgICAgICAgICAgICAgICAgICAgICBpbWFnZVJlcG9zaXRvcnkucGVyc2lzdChyZXF1ZXN0LCBpbWFnZUxhYmVsUGFpci5maXJzdCwgaW1hZ2VMYWJlbFBhaXIuc2Vjb25kLmxhYmVsKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgam9iTGlzdC5mb3JFYWNoIHsKICAgICAgICAgICAgICAgIGl0LmpvaW4oKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKfQoK</text>
+        <text encoding="base64">ICAgICAgICAoMS4ub2NjdXJyZW5jZSkubWEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFic3RyYWN0IGZ1biA8VD4gTGlzdChzaXplOiBJbnQpOiBMaXN0PFQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY2hhbm5lbExpc3Q6IExpc3Q8Q2hhbm5lbDxQYWlyPFRleHQsIFBvc2l0aW9uPj4+ID0gbGlzdE9mKCkKCiAgICAgICAgbGF1bmNoKENvbW1vblBvb2wpIHsKICAgICAgICAgICAgcmVwZWF0KG9jY3VycmVuY2UpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgdmFsIHRleHQgPSB0ZXh0TWFuYWdlci5nZW5lcmF0ZVRleHRGcm9tUmVnZXgocmVnZXgpCiAgICAgICAgICAgICAgICAgICAgdmFsIHBvc2l0aW9uID0gcG9zaXRpb25NYW5hZ2VyLmdlbmVyYXRlUmFuZG9tUG9zaXRpb24odGV4dCwgc2l6ZVgsIHNpemVZKQogICAgICAgICAgICAgICAgICAgIGNoYW5uZWwuc2VuZChQYWlyKHRleHQsIHBvc2l0aW9uKSkKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGU6IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbikgewovLyAgICAgICAgICAgICAgICAgU2tpcCB0aGlzIGV4Y2VwdGlvbi4gSWYgaXQgaXMgaW52YWxpZCwgd2Ugd29uJ3QgcHJvY2VzcyBpdC4KICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2hhbm5lbC5jbG9zZSgpCiAgICAgICAgfQoKICAgICAgICBydW5CbG9ja2luZyB7CiAgICAgICAgICAgIHZhbCBqb2JMaXN0ID0gTGlzdCgxMDAwKSB7CiAgICAgICAgICAgICAgICBsYXVuY2goQ29tbW9uUG9vbCkgewogICAgICAgICAgICAgICAgICAgIGZvciAocGFpciBpbiBjaGFubmVsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBpbWFnZUxhYmVsUGFpciA9IGltYWdlQXBwZW5kZXIuYXBwZW5kTGFiZWxUb0ltYWdlKGltYWdlLCBwYWlyKQogICAgICAgICAgICAgICAgICAgICAgICBpbWFnZVJlcG9zaXRvcnkucGVyc2lzdChyZXF1ZXN0LCBpbWFnZUxhYmVsUGFpci5maXJzdCwgaW1hZ2VMYWJlbFBhaXIuc2Vjb25kLmxhYmVsKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgam9iTGlzdC5mb3JFYWNoIHsKICAgICAgICAgICAgICAgIGl0LmpvaW4oKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiciIpCg==</text>
+        <text encoding="base64">ICAgIGFic3RyYWN0IGZ1biA8VD4gTGlzdChzaXplOiBJbnQpOiBMaXN0PFQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiciIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
