@@ -754,7 +754,7 @@
         <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXROb21icmVEZVBhdHRlcyhpbnQgbm9tYnJlRGVQYXR0ZXMpIHsKICAgIHRoaXMubm9tYnJlRGVQYXR0ZXMgPSBub21icmVEZVBhdHRlczsKICB9CgogIHB1YmxpYyBpbnQgbm9tYnJlRGVQYXR0ZXM7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action TypeHierarchy</text>
       </register>
     </registers>
     <search>
@@ -788,8 +788,6 @@
         <entry>\u</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoNextError</entry>
-        <entry>action ShowIntentionActions</entry>
         <entry>action RenameElement</entry>
         <entry>action GenerateGetterAndSetter</entry>
         <entry>action Generate</entry>
@@ -797,7 +795,6 @@
         <entry>action GotoFile</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry>action QuickImplementations</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action ToggleTemporaryLineBreakpoint</entry>
         <entry>action ReformatCode</entry>
         <entry>action AceAction</entry>
@@ -808,6 +805,9 @@
         <entry>action Debug</entry>
         <entry>action ShowSettings</entry>
         <entry>w</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action TypeHierarchy</entry>
       </history-cmd>
       <history-expr />
       <history-input />
