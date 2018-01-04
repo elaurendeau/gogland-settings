@@ -30,12 +30,18 @@
   <action id="ActivateVersionControlToolWindow" />
   <action id="AddToFavoritesPopup" />
   <action id="Android.HotswapChanges" />
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="g" />
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="b" />
+  </action>
   <action id="Arrangement.Rule.Edit" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="AutoIndentLines" />
   <action id="Back" />
-  <action id="CallHierarchy" />
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="h" />
+  </action>
   <action id="ChangeSignature" />
   <action id="ChangeTypeSignature" />
   <action id="ChangesView.AddUnversioned" />
@@ -43,8 +49,12 @@
   <action id="ChangesView.ShelveSilently" />
   <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject" />
-  <action id="ChooseDebugConfiguration" />
-  <action id="ChooseRunConfiguration" />
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="shift d" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="shift r" />
+  </action>
   <action id="ClassNameCompletion" />
   <action id="ClassTemplateNavigation" />
   <action id="CloseActiveTab" />
@@ -95,7 +105,12 @@
   <action id="CopyReference" />
   <action id="DatabaseView.OpenDdlInConsole" />
   <action id="DatabaseView.PropertiesAction" />
-  <action id="Debug" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="d" />
+  </action>
+  <action id="Debugger.AddToWatch">
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="w" />
+  </action>
   <action id="Debugger.EditTypeSource" />
   <action id="Diagram.DeselectAll" />
   <action id="Diff.FocusOppositePane" />
@@ -167,7 +182,9 @@
   <action id="EditorUpWithSelection" />
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
-  <action id="EvaluateExpression" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="i" />
+  </action>
   <action id="ExpandAll" />
   <action id="ExpandAllRegions" />
   <action id="ExpandAllToLevel1" />
@@ -194,7 +211,9 @@
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathShowing" />
-  <action id="FileStructurePopup" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="m" />
+  </action>
   <action id="Find" />
   <action id="FindBugs.ActiveChangeListAction" />
   <action id="FindBugs.ChangesViewToolbar.ActiveChangeListAction" />
@@ -203,10 +222,14 @@
   <action id="FindBugs.DefaultChangeListAction" />
   <action id="FindBugs.PreviewSelectBugInstance" />
   <action id="FindBugs.ShowQuickSearch" />
-  <action id="FindInPath" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="g" />
+  </action>
   <action id="FindNext" />
   <action id="FindPrevious" />
-  <action id="FindUsages" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="u" />
+  </action>
   <action id="FindUsagesInFile" />
   <action id="FindWordAtCaret" />
   <action id="ForceRunToCursor" />
@@ -214,8 +237,12 @@
   <action id="ForceStepOver" />
   <action id="Forward" />
   <action id="FullyExpandTreeNode" />
-  <action id="Generate" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt r" second-keystroke="g" />
+  </action>
   <action id="Git.Reword.Commit" />
+  <action id="GoFmtFileAction" />
+  <action id="GoGenerateFileAction" />
   <action id="GoToClass" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="alt a" />
@@ -233,17 +260,27 @@
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoCustomRegion" />
-  <action id="GotoDeclaration" />
-  <action id="GotoFile" />
-  <action id="GotoImplementation" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="d" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="f" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="i" />
+  </action>
   <action id="GotoLine" />
   <action id="GotoNextError" />
   <action id="GotoPreviousError" />
   <action id="GotoRelated" />
-  <action id="GotoSuperMethod" />
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="s" />
+  </action>
   <action id="GotoSymbol" />
   <action id="GotoTest" />
-  <action id="GotoTypeDeclaration" />
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="t" />
+  </action>
   <action id="Graph.ZoomIn" />
   <action id="Graph.ZoomOut" />
   <action id="GuiDesigner.EditComponent" />
@@ -272,8 +309,17 @@
   <action id="JumpToLastChange" />
   <action id="JumpToLastWindow" />
   <action id="KotlinShellExecute" />
-  <action id="Macro.PreviousMacro">
+  <action id="Macro.NextError">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="e" />
+  </action>
+  <action id="Macro.NextErrorDescription">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="n" />
+  </action>
+  <action id="Macro.PreviousError">
     <keyboard-shortcut first-keystroke="alt e" second-keystroke="shift e" />
+  </action>
+  <action id="Macro.PreviousErrorDescription">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="shift n" />
   </action>
   <action id="MaintenanceAction" />
   <action id="MakeModule">
@@ -324,7 +370,9 @@
   <action id="PublishGroup.UploadTo" />
   <action id="QuickActionPopup" />
   <action id="QuickChangeScheme" />
-  <action id="QuickEvaluateExpression" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="e" />
+  </action>
   <action id="QuickImplementations" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="alt i" />
@@ -337,7 +385,9 @@
   <action id="Refactorings.QuickListPopupAction" />
   <action id="ReformatCode" />
   <action id="Refresh" />
-  <action id="RenameElement" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="alt r" second-keystroke="r" />
+  </action>
   <action id="Replace" />
   <action id="ReplaceInPath" />
   <action id="Rerun" />
@@ -350,20 +400,32 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
-  <action id="Run" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="r" />
+  </action>
   <action id="RunClass" />
   <action id="RunInspection" />
   <action id="RunJsbtTask" />
   <action id="RunTargetAction" />
   <action id="RunToCursor" />
   <action id="SafeDelete" />
-  <action id="SaveAll" />
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="shift f" />
+  </action>
   <action id="SelectAllOccurrences" />
   <action id="SelectIn" />
   <action id="SelectNextOccurrence" />
   <action id="SendEOF" />
   <action id="ShelveChanges.UnshelveWithDialog" />
-  <action id="ShowBookmarks" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="alt b" second-keystroke="l" />
+  </action>
   <action id="ShowContent" />
   <action id="ShowErrorDescription" />
   <action id="ShowExecutionPoint" />
@@ -403,7 +465,9 @@
   </action>
   <action id="Synchronize" />
   <action id="TagDocumentationNavigation" />
-  <action id="ToggleBookmark" />
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="alt b" second-keystroke="b" />
+  </action>
   <action id="ToggleBookmark0" />
   <action id="ToggleBookmark1" />
   <action id="ToggleBookmark2" />
@@ -414,14 +478,22 @@
   <action id="ToggleBookmark7" />
   <action id="ToggleBookmark8" />
   <action id="ToggleBookmark9" />
-  <action id="ToggleBookmarkWithMnemonic" />
-  <action id="ToggleLineBreakpoint" />
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="alt b" second-keystroke="j" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="b" />
+  </action>
+  <action id="ToggleMethodBreakpoint">
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="m" />
+  </action>
   <action id="ToggleTemporaryLineBreakpoint" />
   <action id="TypeHierarchy" />
   <action id="UML.ApplyCurrentLayout" />
   <action id="UML.ShowChanges" />
   <action id="Uml.CollapseNodes" />
   <action id="Uml.ExpandNodes" />
+  <action id="Uml.NodeIntentions" />
   <action id="Uml.ShowDiff" />
   <action id="UnselectPreviousOccurrence" />
   <action id="Unwrap" />
@@ -435,12 +507,17 @@
   <action id="VcsHistory.ShowAllAffected" />
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
-  <action id="ViewBreakpoints" />
+  <action id="ViewBreakpoints">
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="l" />
+  </action>
   <action id="ViewSource" />
   <action id="VimPluginToggle" />
   <action id="WD.UploadCurrentRemoteFileAction" />
   <action id="WebOpenInAction" />
   <action id="XDebugger.NewWatch" />
+  <action id="XDebugger.RemoveAllWatches">
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="delete" />
+  </action>
   <action id="XDebugger.SetValue" />
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />

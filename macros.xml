@@ -1,10 +1,20 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="NextError">
-      <typing text-keycode="32:0;69:0;69:0">&amp;#x20;ee</typing>
+      <action id="GotoNextError" />
+      <action id="ShowIntentionActions" />
     </macro>
-    <macro name="PreviousMacro">
-      <typing text-keycode="32:0;69:0;69:1">&amp;#x20;eE</typing>
+    <macro name="PreviousError">
+      <action id="GotoPreviousError" />
+      <action id="ShowIntentionActions" />
+    </macro>
+    <macro name="NextErrorDescription">
+      <action id="GotoNextError" />
+      <action id="ShowErrorDescription" />
+    </macro>
+    <macro name="PreviousErrorDescription">
+      <action id="GotoPreviousError" />
+      <action id="ShowErrorDescription" />
     </macro>
   </component>
 </application>

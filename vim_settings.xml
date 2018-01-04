@@ -157,6 +157,9 @@
         <mark key="." line="24" column="35" />
         <mark key="^" line="24" column="35" />
       </file>
+      <file name="/dlv-debug.txt" timestamp="1515105248625">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/IRegexGeneratorHandler.kt" timestamp="1496160712183">
         <mark key="[" line="5" column="46" />
         <mark key="]" line="5" column="53" />
@@ -304,7 +307,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511399505196">
+      <file name="/Dummy.txt" timestamp="1515104638311">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -338,11 +341,12 @@
         <mark key="." line="13" column="99" />
         <mark key="^" line="13" column="72" />
       </file>
-      <file name="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/3-light-sensor/main.go" timestamp="1515101756508">
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="29" column="5" />
-        <mark key="." line="29" column="5" />
-        <mark key="^" line="29" column="5" />
+      <file name="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/3-light-sensor/main.go" timestamp="1515105766808">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/rxp/data/InitCouchbaseDataBean.java" timestamp="1498748898691">
         <mark key="[" line="276" column="48" />
@@ -434,9 +438,11 @@
         <mark key="]" line="6" column="90" />
         <mark key="." line="6" column="37" />
       </file>
+      <file name="/fragment.java" timestamp="1515105249873">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="606" column="121" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
       <jump line="592" column="61" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
       <jump line="567" column="121" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
       <jump line="591" column="87" filename="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/service/impl/ProductCouchbaseServiceImpl.java" />
@@ -536,16 +542,17 @@
       <jump line="52" column="60" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/service/impl/LabelGeneratorService.kt" />
       <jump line="18" column="77" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/repository/impl/ImageRepository.kt" />
       <jump line="3" column="24" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/dto/RestResponse.kt" />
+      <jump line="0" column="8" filename="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/3-light-sensor/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly9vcGVuIGNsYXNzIFJlc3RSZXNwb25zZSh2YWwgaW1hZ2VCeXRlczogU3RyaW5nLCB2YWwgbGFiZWw6IFN0cmluZykK</text>
@@ -554,7 +561,7 @@
         <text>2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJnb2JvdC5pby94L2dvYm90L2RyaXZlcnMvYWlvIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -573,43 +580,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJnb2JvdC5pby94L2dvYm90L2RyaXZlcnMvYWlvIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJnb2JvdC5pby94L2dvYm90Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSJnb2JvdC5pby94L2dvYm90Igo=</text>
+        <text encoding="base64">CXdvcmsgOj0gZnVuYygpIHsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CSJnb2JvdC5pby94L2dvYm90L3BsYXRmb3Jtcy9maXJtYXRhIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSJnb2JvdC5pby94L2dvYm90Igo=</text>
+        <text encoding="base64">CWFzZGFzZCA6IHByaW50bG4oInRlc3QiKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CSJnb2JvdC5pby94L2dvYm90L2RyaXZlcnMvYWlvIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJIaSIpCg==</text>
+        <text encoding="base64">CSJnb2JvdC5pby94L2dvYm90L2RyaXZlcnMvYWlvIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
+        <text encoding="base64">CSJnb2JvdC5pby94L2dvYm90Igo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowIntentionActions</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TensorflowTrai</entry>
         <entry encoding="base64">XDwuXD4=</entry>
         <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxJTkZPXD4=</entry>
@@ -629,9 +635,9 @@
         <entry>posi</entry>
         <entry>\u</entry>
         <entry>test</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action QuickImplementations</entry>
@@ -647,10 +653,11 @@
         <entry>action GotoAction</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action ShowSettings</entry>
-        <entry>action AceAction</entry>
         <entry>w</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowIntentionActions</entry>
+        <entry>action GenerateGetterAndSetter</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
