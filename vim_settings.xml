@@ -339,9 +339,9 @@
         <mark key="." line="13" column="99" />
         <mark key="^" line="13" column="72" />
       </file>
-      <file name="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/3-light-sensor/main.go" timestamp="1515086831049">
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="19" column="29" />
+      <file name="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/3-light-sensor/main.go" timestamp="1515088002982">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="47" />
         <mark key="." line="19" column="29" />
         <mark key="^" line="19" column="29" />
       </file>
@@ -539,8 +539,8 @@
       <jump line="3" column="24" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/dto/RestResponse.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>brightness</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWZpcm1hdGFBZGFwdGVyIDo9IGZpcm1hdGEuTmV3QWRhcHRvcigiQ09NMyIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>brightness</text>
@@ -632,7 +632,6 @@
         <entry>test</entry>
       </history-search>
       <history-cmd>
-        <entry>action ChooseDebugConfiguration</entry>
         <entry>action Run</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
@@ -651,6 +650,7 @@
         <entry>w</entry>
         <entry>.,.+12110action AceAction</entry>
         <entry>action GotoAction</entry>
+        <entry>reg</entry>
         <entry>action ShowSettings</entry>
       </history-cmd>
       <history-expr />

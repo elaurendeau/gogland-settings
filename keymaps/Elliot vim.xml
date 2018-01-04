@@ -17,7 +17,7 @@
   </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl alt 1" />
-    <keyboard-shortcut first-keystroke="ctrl f" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl alt 2" />
@@ -355,7 +355,9 @@
   <action id="ShowProjectStructureSettings" />
   <action id="ShowRecentTests" />
   <action id="ShowReformatFileDialog" />
-  <action id="ShowSettings" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUmlDiagram" />
   <action id="ShowUmlDiagramPopup" />
