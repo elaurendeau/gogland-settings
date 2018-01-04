@@ -597,7 +597,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ShowIntentionActions</text>
       </register>
     </registers>
     <search>
@@ -646,11 +646,11 @@
         <entry>action CommentByLineComment</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoPreviousError</entry>
-        <entry>action GotoNextError</entry>
-        <entry>action ShowIntentionActions</entry>
         <entry>action ShowSettings</entry>
         <entry>action AceAction</entry>
         <entry>w</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action ShowIntentionActions</entry>
       </history-cmd>
       <history-expr />
       <history-input />
