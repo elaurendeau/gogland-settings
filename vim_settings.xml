@@ -151,11 +151,11 @@
         <mark key="." line="375" column="11" />
         <mark key="^" line="375" column="11" />
       </file>
-      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/RestRequestHandler.kt" timestamp="1511754346331">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="33" column="30" />
+      <file name="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/impl/RestRequestHandler.kt" timestamp="1515071059274">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="24" column="35" />
+        <mark key="^" line="24" column="35" />
       </file>
       <file name="$USER_HOME$/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/infrastructure/IRegexGeneratorHandler.kt" timestamp="1496160712183">
         <mark key="[" line="5" column="46" />
@@ -532,11 +532,11 @@
       <jump line="3" column="24" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/dto/RestResponse.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJIaSIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>Exception e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -625,7 +625,6 @@
         <entry>test</entry>
       </history-search>
       <history-cmd>
-        <entry>action ChooseRunConfiguration</entry>
         <entry>action ChooseDebugConfiguration</entry>
         <entry>action Run</entry>
         <entry>action ToggleLineBreakpoint</entry>
@@ -644,6 +643,7 @@
         <entry>action CommentByLineComment</entry>
         <entry>w</entry>
         <entry>action GotoAction</entry>
+        <entry>.,.+12110action AceAction</entry>
         <entry>action ShowSettings</entry>
       </history-cmd>
       <history-expr />
