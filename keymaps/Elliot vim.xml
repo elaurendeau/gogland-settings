@@ -237,12 +237,8 @@
   <action id="GotoFile" />
   <action id="GotoImplementation" />
   <action id="GotoLine" />
-  <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="alt e" second-keystroke="n" />
-  </action>
-  <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="alt e" second-keystroke="shift n" />
-  </action>
+  <action id="GotoNextError" />
+  <action id="GotoPreviousError" />
   <action id="GotoRelated" />
   <action id="GotoSuperMethod" />
   <action id="GotoSymbol" />
@@ -276,10 +272,6 @@
   <action id="JumpToLastChange" />
   <action id="JumpToLastWindow" />
   <action id="KotlinShellExecute" />
-  <action id="Macro.NextError">
-    <keyboard-shortcut first-keystroke="alt e" second-keystroke="e" />
-    <keyboard-shortcut first-keystroke="f1" />
-  </action>
   <action id="Macro.PreviousMacro">
     <keyboard-shortcut first-keystroke="alt e" second-keystroke="shift e" />
   </action>
