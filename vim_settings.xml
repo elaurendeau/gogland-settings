@@ -338,9 +338,9 @@
         <mark key="." line="13" column="99" />
         <mark key="^" line="13" column="72" />
       </file>
-      <file name="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/3-light-sensor/main.go" timestamp="1515089337530">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="33" />
+      <file name="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/3-light-sensor/main.go" timestamp="1515100714459">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="29" />
         <mark key="." line="19" column="29" />
         <mark key="^" line="19" column="29" />
       </file>
@@ -538,11 +538,11 @@
       <jump line="3" column="24" filename="D:/workspace_kotlin/TensorflowTrainingImageGenerator/src/main/kotlin/dto/RestResponse.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXJvYm90IDo9IGdvYm90Lk5ld1JvYm90KCJib3QiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>brightness</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -631,7 +631,6 @@
         <entry>test</entry>
       </history-search>
       <history-cmd>
-        <entry>action Run</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action Debug</entry>
         <entry>action TypeHierarchy</entry>
@@ -639,8 +638,6 @@
         <entry>action ReformatCode</entry>
         <entry>action OptimizeImports</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action GotoNextError</entry>
-        <entry>action ShowIntentionActions</entry>
         <entry>action GotoDeclaration</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action GotoImplementation</entry>
@@ -648,8 +645,11 @@
         <entry>.,.+12110action AceAction</entry>
         <entry>reg</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action AceAction</entry>
         <entry>action GotoAction</entry>
+        <entry>action GotoPreviousError</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action AceAction</entry>
+        <entry>action ShowIntentionActions</entry>
         <entry>action ShowSettings</entry>
       </history-cmd>
       <history-expr />

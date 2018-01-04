@@ -63,7 +63,9 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Compile" />
-  <action id="CompileDirty" />
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="p" />
+  </action>
   <action id="Console.Execute" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.History.Browse" />
@@ -235,8 +237,12 @@
   <action id="GotoFile" />
   <action id="GotoImplementation" />
   <action id="GotoLine" />
-  <action id="GotoNextError" />
-  <action id="GotoPreviousError" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="n" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="shift n" />
+  </action>
   <action id="GotoRelated" />
   <action id="GotoSuperMethod" />
   <action id="GotoSymbol" />
@@ -270,7 +276,16 @@
   <action id="JumpToLastChange" />
   <action id="JumpToLastWindow" />
   <action id="KotlinShellExecute" />
+  <action id="Macro.NextError">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="e" />
+  </action>
+  <action id="Macro.PreviousMacro">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="shift e" />
+  </action>
   <action id="MaintenanceAction" />
+  <action id="MakeModule">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="f" />
+  </action>
   <action id="Maven.Uml.Exclude" />
   <action id="MaximizeToolWindow" />
   <action id="MethodDown" />
