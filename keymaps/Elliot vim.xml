@@ -58,7 +58,9 @@
   <action id="CollapseSelection" />
   <action id="CollapseTreeNode" />
   <action id="CommentByBlockComment" />
-  <action id="CommentByLineComment" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Compile" />
   <action id="CompileDirty" />
@@ -213,7 +215,9 @@
   <action id="Generate" />
   <action id="Git.Reword.Commit" />
   <action id="GoToClass" />
-  <action id="GotoAction" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="GotoBookmark0" />
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
@@ -312,7 +316,9 @@
   <action id="QuickChangeScheme" />
   <action id="QuickEvaluateExpression" />
   <action id="QuickImplementations" />
-  <action id="QuickJavaDoc" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="RecentChangedFiles" />
   <action id="RecentChanges" />
   <action id="Refactorings.QuickListPopupAction" />

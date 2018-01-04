@@ -229,7 +229,6 @@
         <mark key="." line="129" column="66" />
         <mark key="^" line="125" column="92" />
       </file>
-      <file name="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/1-blink-led/main.go" timestamp="1515086785827" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/MeterManagerImpl.java" timestamp="1497639191951">
         <mark key="[" line="40" column="11" />
         <mark key="]" line="40" column="11" />
@@ -339,9 +338,9 @@
         <mark key="." line="13" column="99" />
         <mark key="^" line="13" column="72" />
       </file>
-      <file name="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/3-light-sensor/main.go" timestamp="1515088002982">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="47" />
+      <file name="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/3-light-sensor/main.go" timestamp="1515089337530">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="33" />
         <mark key="." line="19" column="29" />
         <mark key="^" line="19" column="29" />
       </file>
@@ -540,7 +539,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWZpcm1hdGFBZGFwdGVyIDo9IGZpcm1hdGEuTmV3QWRhcHRvcigiQ09NMyIpCg==</text>
+        <text encoding="base64">CXJvYm90IDo9IGdvYm90Lk5ld1JvYm90KCJib3QiLAo=</text>
       </register>
       <register name="-" type="4">
         <text>brightness</text>
@@ -642,15 +641,15 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowIntentionActions</entry>
-        <entry>action AceAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>w</entry>
         <entry>.,.+12110action AceAction</entry>
-        <entry>action GotoAction</entry>
         <entry>reg</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action AceAction</entry>
+        <entry>action GotoAction</entry>
         <entry>action ShowSettings</entry>
       </history-cmd>
       <history-expr />
