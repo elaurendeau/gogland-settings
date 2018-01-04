@@ -229,6 +229,7 @@
         <mark key="." line="129" column="66" />
         <mark key="^" line="125" column="92" />
       </file>
+      <file name="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/1-blink-led/main.go" timestamp="1515086785827" />
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/MeterManagerImpl.java" timestamp="1497639191951">
         <mark key="[" line="40" column="11" />
         <mark key="]" line="40" column="11" />
@@ -337,6 +338,12 @@
         <mark key="]" line="13" column="99" />
         <mark key="." line="13" column="99" />
         <mark key="^" line="13" column="72" />
+      </file>
+      <file name="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/3-light-sensor/main.go" timestamp="1515086831049">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="19" column="29" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/rxp/data/InitCouchbaseDataBean.java" timestamp="1498748898691">
         <mark key="[" line="276" column="48" />
@@ -533,10 +540,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>brightness</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>brightness</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
