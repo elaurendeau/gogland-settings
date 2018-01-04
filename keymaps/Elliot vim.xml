@@ -278,6 +278,7 @@
   <action id="KotlinShellExecute" />
   <action id="Macro.NextError">
     <keyboard-shortcut first-keystroke="alt e" second-keystroke="e" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="Macro.PreviousMacro">
     <keyboard-shortcut first-keystroke="alt e" second-keystroke="shift e" />
@@ -312,7 +313,9 @@
   <action id="NextTab" />
   <action id="NextTemplateVariable" />
   <action id="OpenElementInNewWindow" />
-  <action id="OptimizeImports" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="alt r" second-keystroke="i" />
+  </action>
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
   <action id="PasteMultiple" />
@@ -336,6 +339,9 @@
   </action>
   <action id="RecentChangedFiles" />
   <action id="RecentChanges" />
+  <action id="RefactoringMenuRenameFile">
+    <keyboard-shortcut first-keystroke="alt r" second-keystroke="f" />
+  </action>
   <action id="Refactorings.QuickListPopupAction" />
   <action id="ReformatCode" />
   <action id="Refresh" />

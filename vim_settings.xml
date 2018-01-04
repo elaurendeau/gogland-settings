@@ -338,11 +338,11 @@
         <mark key="." line="13" column="99" />
         <mark key="^" line="13" column="72" />
       </file>
-      <file name="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/3-light-sensor/main.go" timestamp="1515100714459">
-        <mark key="[" line="19" column="29" />
-        <mark key="]" line="19" column="29" />
-        <mark key="." line="19" column="29" />
-        <mark key="^" line="19" column="29" />
+      <file name="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/3-light-sensor/main.go" timestamp="1515101756508">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="5" />
+        <mark key="." line="29" column="5" />
+        <mark key="^" line="29" column="5" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/rxp/data/InitCouchbaseDataBean.java" timestamp="1498748898691">
         <mark key="[" line="276" column="48" />
@@ -539,10 +539,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -554,7 +554,7 @@
         <text>2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJIaSIpCg==</text>
+        <text encoding="base64">CSJnb2JvdC5pby94L2dvYm90L2RyaXZlcnMvYWlvIgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -573,31 +573,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
+        <text encoding="base64">CSJnb2JvdC5pby94L2dvYm90L2RyaXZlcnMvYWlvIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJnb2JvdC5pby94L2dvYm90Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5wb3N0Rm9yRW50aXR5KHJlcXVlc3QuY2FsbGJhY2ssIHJlc3BvbnNlLCBTdHJpbmc6OmNsYXNzLmphdmEpCg==</text>
+        <text encoding="base64">CSJnb2JvdC5pby94L2dvYm90Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBra2oK</text>
+        <text encoding="base64">CSJnb2JvdC5pby94L2dvYm90L3BsYXRmb3Jtcy9maXJtYXRhIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">CSJnb2JvdC5pby94L2dvYm90Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzeyBzZXF1ZX0K</text>
+        <text encoding="base64">CSJnb2JvdC5pby94L2dvYm90L2RyaXZlcnMvYWlvIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHJlc3BvbnNlLmxhYmVsKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJIaSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHJlc3BvbnNlLmxhYmVsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowSettings</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -641,16 +641,16 @@
         <entry>action GotoDeclaration</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action GotoImplementation</entry>
-        <entry>w</entry>
         <entry>.,.+12110action AceAction</entry>
         <entry>reg</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action GotoNextError</entry>
-        <entry>action AceAction</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>action ShowSettings</entry>
+        <entry>action AceAction</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
