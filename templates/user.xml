@@ -1,11 +1,11 @@
 <templateSet group="user">
-  <template name="link" value="{@link $END$}" toReformat="true" toShortenFQNames="true">
+  <template name="link" value="{@link $END$}" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_COMMENT" value="true" />
       <option name="KOTLIN_COMMENT" value="true" />
     </context>
   </template>
-  <template name="sysout" value="println(&quot;$END$&quot;)" toReformat="true" toShortenFQNames="true">
+  <template name="sysout" value="println(&quot;$END$&quot;)" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_EXPRESSION" value="true" />
       <option name="KOTLIN_STATEMENT" value="true" />
