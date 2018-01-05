@@ -379,11 +379,10 @@
   </action>
   <action id="RecentChangedFiles" />
   <action id="RecentChanges" />
-  <action id="RefactoringMenuRenameFile">
+  <action id="Refactorings.QuickListPopupAction" />
+  <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt r" second-keystroke="f" />
   </action>
-  <action id="Refactorings.QuickListPopupAction" />
-  <action id="ReformatCode" />
   <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="alt r" second-keystroke="r" />

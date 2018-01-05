@@ -1,7 +1,9 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks />
+    <globalmarks>
+      <mark key="O" line="27" column="43" filename="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/3-light-sensor/main.go" protocol="file" />
+    </globalmarks>
     <filemarks>
       <file name="C:/dev/workspace-sasktel-vm/atg_code/commerce-sasktel/src/main/java/com/sasktel/commerce/order/manager/impl/SasktelOrderManagerImpl.java" timestamp="1502477234874">
         <mark key="'" line="23" column="53" />
@@ -232,6 +234,12 @@
         <mark key="." line="129" column="66" />
         <mark key="^" line="125" column="92" />
       </file>
+      <file name="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/1-blink-led/main.go" timestamp="1515121712515">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/main/java/com/cgi/romes/manager/impl/MeterManagerImpl.java" timestamp="1497639191951">
         <mark key="[" line="40" column="11" />
         <mark key="]" line="40" column="11" />
@@ -341,12 +349,12 @@
         <mark key="." line="13" column="99" />
         <mark key="^" line="13" column="72" />
       </file>
-      <file name="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/3-light-sensor/main.go" timestamp="1515119391040">
+      <file name="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/3-light-sensor/main.go" timestamp="1515123934559">
         <mark key="'" line="0" column="8" />
-        <mark key="[" line="23" column="47" />
-        <mark key="]" line="14" column="49" />
-        <mark key="." line="14" column="49" />
-        <mark key="^" line="14" column="49" />
+        <mark key="[" line="13" column="66" />
+        <mark key="]" line="13" column="67" />
+        <mark key="." line="13" column="67" />
+        <mark key="^" line="13" column="67" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-rest/src/main/java/com/cgi/rxp/data/InitCouchbaseDataBean.java" timestamp="1498748898691">
         <mark key="[" line="276" column="48" />
@@ -546,22 +554,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1000</text>
+        <text>333</text>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text>333</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly9vcGVuIGNsYXNzIFJlc3RSZXNwb25zZSh2YWwgaW1hZ2VCeXRlczogU3RyaW5nLCB2YWwgbGFiZWw6IFN0cmluZykK</text>
+      <register name="0" type="4">
+        <text>uint8(250 - (brightness * 2)))</text>
       </register>
       <register name="p" type="4">
         <text>2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlwcmludGxuKCJ0ZXN0IikK</text>
+        <text encoding="base64">CWxpZ2h0U2Vuc29yIDo9IGFpby5OZXdBbmFsb2dTZW5zb3JEcml2ZXIoZmlybWF0YUFkYXB0ZXIsICIzIiwgMzMzKnRpbWUuTWlsbGlzZWNvbmQpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -580,28 +588,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZ2IK</text>
+        <text encoding="base64">CQkJCXByaW50bG4oIkxlZCBicmlnaHRuZXNzOiAiLCBsZWRCcmlnaHRuZXNzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwcmludGxuKGxpZ2h0U2Vuc29yLikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlsaWdodFNlbnNvci5SZWFkKClkCg==</text>
+        <text encoding="base64">CQlsZWRCcmlnaHRuZXNzIDo9IHVpbnQ4KDApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmYWRlQW1vdW50IDo9IHVpbnQ4KDI1KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWlmKGxlZEJyaWdodAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">bmVzczwyNTApIHsKCgkJCQkJbGVkQnJpZ2h0bmVzcyA9IGxlZEJyaWdodG5lc3MgKyBmYWRlQW1vdW50CgkJCQl9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXdvcmsgOj0gZnVuYygpIHsK</text>
+        <text encoding="base64">CQkJCWxlZC5PbigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSJnb2JvdC5pby94L2dvYm90L3BsYXRmb3Jtcy9maXJtYXRhIgo=</text>
+        <text encoding="base64">CQkJCWxlZC5PZmYoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
@@ -611,6 +619,8 @@
       <last-search>main</last-search>
       <last-offset />
       <last-pattern>main</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>main</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
