@@ -285,11 +285,10 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/4-heat-sensor/main.go" timestamp="1515125445499">
-        <mark key="[" line="14" column="50" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="15" column="11" />
-        <mark key="^" line="15" column="11" />
+      <file name="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/4-heat-sensor/main.go" timestamp="1515204733872">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace_rxp/rxp-central/rxp-central-core/src/test/java/com/cgi/rxp/deprecated/MeterManagerImplTest.java" timestamp="1497639520622">
         <mark key="[" line="118" column="9" />
@@ -559,8 +558,8 @@
       <jump line="0" column="8" filename="D:/workspace_go/src/github.com/elaurendeau/ArduinoTutorial-go/3-light-sensor/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aWYgKGJyaWdodG5lc3MgPCAxMDApIHsKCQkJCWxlZC5CcmlnaHRuZXNzKDI1MC1icmlnaHRuZXNzKjIpCgkJCX0gZWxzZSB7CgkJCQlsZWQuT2ZmKCkKCQkJfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWdwaW8uTmV3Cg==</text>
       </register>
       <register name="-" type="4">
         <text>333</text>
@@ -574,8 +573,8 @@
       <register name="p" type="4">
         <text>2</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aWYgKGJyaWdodG5lc3MgPCAxMDApIHsKCQkJCWxlZC5CcmlnaHRuZXNzKDI1MC1icmlnaHRuZXNzKjIpCgkJCX0gZWxzZSB7CgkJCQlsZWQuT2ZmKCkKCQkJfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CWdwaW8uTmV3Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -593,29 +592,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CWxpZ2h0U2Vuc29yIDo9IGFpby5OZXdBbmFsb2dTZW5zb3JEcml2ZXIoZmlybWF0YUFkYXB0ZXIsICIzIiwgMzMzKnRpbWUuTWlsbGlzZWNvbmQpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKGJyaWdodG5lc3MgPCAxMDApIHsKCQkJCWxlZC5CcmlnaHRuZXNzKDI1MC1icmlnaHRuZXNzKjIpCgkJCX0gZWxzZSB7CgkJCQlsZWQuT2ZmKCkKCQkJfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXByaW50bG4oIkxlZCBicmlnaHRuZXNzOiAiLCBsZWRCcmlnaHRuZXNzKQo=</text>
+        <text encoding="base64">CWxpZ2h0U2Vuc29yIDo9IGFpby5OZXdBbmFsb2dTZW5zb3JEcml2ZXIoZmlybWF0YUFkYXB0ZXIsICIzIiwgMzMzKnRpbWUuTWlsbGlzZWNvbmQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXByaW50bG4oIkxlZCBicmlnaHRuZXNzOiAiLCBsZWRCcmlnaHRuZXNzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlsZWRCcmlnaHRuZXNzIDo9IHVpbnQ4KDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlmYWRlQW1vdW50IDo9IHVpbnQ4KDI1KQo=</text>
+        <text encoding="base64">CQlsZWRCcmlnaHRuZXNzIDo9IHVpbnQ4KDApCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CQlmYWRlQW1vdW50IDo9IHVpbnQ4KDI1KQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQkJCWlmKGxlZEJyaWdodAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">bmVzczwyNTApIHsKCgkJCQkJbGVkQnJpZ2h0bmVzcyA9IGxlZEJyaWdodG5lc3MgKyBmYWRlQW1vdW50CgkJCQl9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCWxlZC5PbigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
